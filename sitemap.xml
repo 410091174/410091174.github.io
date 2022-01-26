@@ -11,7 +11,34 @@
   </url>
   
   <url>
-    <loc>https://410091174.github.io/archives/oni23.html</loc>
+    <loc>https://410091174.github.io/archives/fc949f1c.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://410091174.github.io/archives/9267dd61.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://410091174.github.io/archives/e0a0fca5.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://410091174.github.io/archives/b27ee6e1.html</loc>
     
     <lastmod>2022-01-26</lastmod>
     
@@ -23,33 +50,6 @@
     <loc>https://410091174.github.io/archives/oni.html</loc>
     
     <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://410091174.github.io/archives/oni22.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://410091174.github.io/archives/oni21.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://410091174.github.io/archives/oni211.html</loc>
-    
-    <lastmod>2022-01-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -111,6 +111,13 @@
   
   <url>
     <loc>https://410091174.github.io/categories/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/</loc>
+    <lastmod>2022-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://410091174.github.io/categories/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/2-%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
