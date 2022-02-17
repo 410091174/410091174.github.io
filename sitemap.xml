@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://410091174.github.io/archives/18f78b0c.html</loc>
+    <loc>https://410091174.github.io/archives/5e53001c.html</loc>
     
     <lastmod>2022-02-17</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://410091174.github.io/archives/b4195f01.html</loc>
+    
+    <lastmod>2022-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://410091174.github.io/archives/18f78b0c.html</loc>
     
     <lastmod>2022-02-17</lastmod>
     
@@ -233,6 +242,13 @@
   
   <url>
     <loc>https://410091174.github.io/categories/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/3-%E7%99%BE%E7%A7%91/</loc>
+    <lastmod>2022-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://410091174.github.io/categories/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/1-%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
