@@ -13,9 +13,10 @@
     color: #0d0d0d;
 }
 
-#card-toc
+#content-inner
 {
-  right: 200px !important;
+  margin-left: 35px !important;
+  padding-left: 0px !important;
 }
 
 /* 滚动条样式 */
