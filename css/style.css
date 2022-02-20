@@ -15,9 +15,10 @@
 
 #content-inner
 {
-  margin-left: 35px !important;
-  padding-left: 0px !important;
+  padding-left: 0%;
+  margin-left: 3%;
 }
+
 
 /* 滚动条样式 */
 ::-webkit-scrollbar {
