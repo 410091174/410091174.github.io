@@ -13,6 +13,11 @@
     color: #0d0d0d;
 }
 
+#card-toc
+{
+  right: 100px !important;
+}
+
 /* 滚动条样式 */
 ::-webkit-scrollbar {
     width: 8px;
