@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://410091174.github.io/archives/oni-wiki.html</loc>
+    
+    <lastmod>2022-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://410091174.github.io/archives/b4195f01.html</loc>
     
     <lastmod>2022-02-22</lastmod>
@@ -158,15 +167,6 @@
     <loc>https://410091174.github.io/archives/2814ad1a.html</loc>
     
     <lastmod>2022-02-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://410091174.github.io/archives/oni-wiki.html</loc>
-    
-    <lastmod>2022-02-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
