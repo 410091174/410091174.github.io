@@ -114,35 +114,6 @@
     
     
     <entry>
-      <title>用管桥对管道注入液体/气体</title>
-      <link href="/archives/3d67bd2d.html"/>
-      <url>/archives/3d67bd2d.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="用管桥对管道注入液体-气体"><a href="#用管桥对管道注入液体-气体" class="headerlink" title="用管桥对管道注入液体/气体"></a>用管桥对管道注入液体/气体</h1><p>&emsp;&emsp;下文以液体管道举例，气体管道同理。</p><p>&emsp;</p><p>&emsp;&emsp;从外部对模块的管道注入水时，推荐使用液体管桥。</p><p>&emsp;&emsp;用液体管桥注入液体的好处：</p><p>&emsp;&emsp;（1）拆除管桥不会漏水（管桥内部没有水）。</p><p>&emsp;&emsp;（2）对于循环流动的管道，管桥能对模块管道输入适量的液体，在满足循环的同时充入最大量液体。如果管道直接连接循环管道，可能会导致液体充太多而堵塞，无法循环。</p><p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png" alt="对模块注入水的管道接法" style="zoom:67%;" /><p>&emsp;&emsp;如果直接把管道连起来，拆掉的那节管道会漏水。漏一地水还要擦掉，所以为了避免麻烦，所以推荐用管桥。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%AE%A1%E9%81%93%E8%BF%9E%E8%B5%B7%E6%9D%A5.png" alt="直接把管道连起来.png"></p><p>&emsp;&emsp;例（2）：循环管道，一定要用管桥注入液体。</p><p>&emsp;&emsp;对于循环流动的管道，管桥能对模块管道输入适量的液体，在满足循环的同时充入最大量液体。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%931.png"></p><p>&emsp;&emsp;</p><p>&emsp;&emsp;原理：管桥绿口（晚点再写)</p><p>&emsp;&emsp;循环管道中，管桥白口的那节管道是空的，液体一碰到白口就立马流进去。所以循环管道实际上是不能充满液体，必须留空一节，也就是白口的那一节。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%932.png"></p><p>&emsp;&emsp;下图是输入管道直接连接循环管道，会把管道完全充满液体。</p><p>&emsp;&emsp;因为管桥充满了液体，绿口管道有液体卡着，白口无法吸入，白口无法吸入液体导致液体堆积在白口，导致管桥无法工作，液体停下不动。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%933.png"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 缺氧百科 </category>
-          
-          <category> 1 教程 </category>
-          
-          <category> 技巧 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 缺氧百科 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>真空室</title>
       <link href="/archives/935ec319.html"/>
       <url>/archives/935ec319.html</url>
@@ -234,7 +205,7 @@
       <link href="/archives/4b065add.html"/>
       <url>/archives/4b065add.html</url>
       
-        <content type="html"><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;生产原油，附带产出天然气。</p><h2 id="2-相应建筑介绍"><a href="#2-相应建筑介绍" class="headerlink" title="2 相应建筑介绍"></a>2 相应建筑介绍</h2><p>&emsp;&emsp;所需泉：储油石。</p><p>&emsp;&emsp;所需建筑：油井，气泵（金贡齐/钢），液泵（金贡齐/钢），气压传感器，液压传感器…</p> <table>     <tr>     <td><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image071.jpg" alt="img" style="zoom:80%;" /></td>     <td>&emsp;&emsp;储油石生成在原油区，是原油再生的重要途径。原油可以提炼成石油，石油用于发电、炼塑料、发射石油火箭等。</td></tr> </table>  <table>     <tr>     <td><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image073.jpg" alt="img" style="zoom:80%;" /></td>              <td><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/油井信息.png" style="zoom:80%;" /></td>     <td><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image077.jpg" alt="img" style="zoom:80%;" /></td>      </tr> </table><p>&emsp;&emsp;油井建在储油石上，消耗水，产出原油，附带产出天然气。（水通过液体管道输入。原油输出到世界中；天然气储存在油井内部，需要复制人手动释放到世界中。）</p><p>&emsp;&emsp;油井工作时附带产出天然气，天然气囤积在油井内部增加井压，井压（反压）达到100%时不再产出原油，需要复制人去释放天然气降低井压，使油井恢复正常。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image079.jpg" alt="img"></p><p>&emsp;&emsp;反压释放阈值，即当“反压”达到 X% 时，复制人前来释放天然气降低井压。</p><p>&emsp;&emsp;释放阈值推荐90%。</p><h2 id="3-模块介绍"><a href="#3-模块介绍" class="headerlink" title="3 模块介绍"></a>3 模块介绍</h2><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image083.jpg" alt="img"></p><p>&emsp;&emsp;原油浸泡油井，加强原油与油井的换热，以此控制油井的温度。</p><p>&emsp;&emsp;油井释放天然气时，天然气(约230℃)与油井换热，可能会导致油井内的水蒸发，浸泡的原油能吸收天然气的热量，有效防止水被蒸发。</p><h2 id="4-搭建方法"><a href="#4-搭建方法" class="headerlink" title="4 搭建方法"></a>4 搭建方法</h2><p>&emsp;&emsp;先对模块抽真空。因为油井会产出天然气，先把杂气抽掉，方便收集纯净的天然气。</p><p>&emsp;&emsp;抽真空前的水门搭建：</p><p>&emsp;&emsp;法一：在黄框处滴一滴原油，然后（调整气压传感器高于0激活）启动气泵对模块抽真空。真空后把气压传感器调回正常。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%B2%B9%E4%BA%95%E6%90%AD%E5%BB%BA1.png"></p><p>&emsp;&emsp;法二：启动油井，待原油浸没至第二层，（调整液压传感器高于500）关闭油井，然后（调整气压传感器高于0激活）启动气泵对模块抽真空。真空后把液压和气压传感器调回正常。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%B2%B9%E4%BA%95%E6%90%AD%E5%BB%BA2.png"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;生产原油，附带产出天然气。</p><h2 id="2-相应建筑介绍"><a href="#2-相应建筑介绍" class="headerlink" title="2 相应建筑介绍"></a>2 相应建筑介绍</h2><p>&emsp;&emsp;所需泉：储油石。</p><p>&emsp;&emsp;所需建筑：油井，气泵（金贡齐/钢），液泵（金贡齐/钢），气压传感器，液压传感器…</p> <table>     <tr>     <td><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image071.jpg" alt="img" style="zoom:80%;" /></td>     <td>&emsp;&emsp;储油石生成在原油区，是原油再生的重要途径。原油可以提炼成石油，石油用于发电、炼塑料、发射石油火箭等。</td></tr> </table>  <table>     <tr>     <td><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image073.jpg" alt="img" style="zoom:80%;" /></td>              <td><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/油井信息.png" style="zoom:80%;" /></td>     <td><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image077.jpg" alt="img" style="zoom:80%;" /></td>      </tr> </table><p>&emsp;&emsp;油井建在储油石上，消耗水，产出原油，附带产出天然气。（水通过液体管道输入。原油输出到世界中；天然气储存在油井内部，需要复制人手动释放到世界中。）</p><p>&emsp;&emsp;油井工作时附带产出天然气，天然气囤积在油井内部增加井压，井压（反压）达到100%时不再产出原油，需要复制人去释放天然气降低井压，使油井恢复正常。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image079.jpg" alt="img"></p><p>&emsp;&emsp;反压释放阈值，即当“反压”达到 X% 时，复制人前来释放天然气降低井压。</p><p>&emsp;&emsp;释放阈值推荐90%。</p><h2 id="3-模块介绍"><a href="#3-模块介绍" class="headerlink" title="3 模块介绍"></a>3 模块介绍</h2><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%B2%B9%E4%BA%95%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D.png" alt="img"></p><p>&emsp;&emsp;原油浸泡油井，加强原油与油井的换热，以此控制油井的温度。</p><p>&emsp;&emsp;油井释放天然气时，天然气(约230℃)与油井换热，可能会导致油井内的水蒸发，浸泡的原油能吸收天然气的热量，有效防止水被蒸发。</p><h2 id="4-搭建方法"><a href="#4-搭建方法" class="headerlink" title="4 搭建方法"></a>4 搭建方法</h2><p>&emsp;&emsp;先对模块抽真空。因为油井会产出天然气，先把杂气抽掉，方便收集纯净的天然气。</p><p>&emsp;&emsp;启动油井，待原油浸没至第二层，（液压传感器高于500激活）关闭油井，然后（气压传感器高于0激活）启动气泵对模块抽真空，真空后把液压和气压传感器调回正常设置。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%B2%B9%E4%BA%95%E6%90%AD%E5%BB%BA2.png"></p>]]></content>
       
       
       <categories>
@@ -302,6 +273,35 @@
           <category> 1 教程 </category>
           
           <category> 模块 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 缺氧百科 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>用管桥对管道注入液体/气体</title>
+      <link href="/archives/3d67bd2d.html"/>
+      <url>/archives/3d67bd2d.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="用管桥对管道输入液体-气体"><a href="#用管桥对管道输入液体-气体" class="headerlink" title="用管桥对管道输入液体(气体)"></a>用管桥对管道输入液体(气体)</h1><p>&emsp;&emsp;下文以液体管道举例，气体管道同理。</p><p>&emsp;</p><p>&emsp;&emsp;用外部的管道对模块管道输入水，并且输完后就拆掉外部管道，推荐使用“液体管桥”连接外部管道和模块管道。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/液体管桥.png" alt="液体管桥"  /><p>&emsp;&emsp;用液体管桥注入液体的好处：</p><p>&emsp;&emsp;（1）拆除管桥不会漏水（管桥内部没有水）。</p><p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。</p><p>&emsp;&emsp;管桥能对循环管道在满足循环的同时充入最大量液体。如果输入管道直接连接循环管道输入液体，会导致液体充太多而堵塞，无法循环。</p><p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png" alt="对模块注入水的管道接法" style="zoom:67%;" /><p>&emsp;&emsp;如果直接把管道连起来，拆掉的那节管道会漏一地水，事后还要拖地，所以为了避免麻烦，推荐用管桥。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%AE%A1%E9%81%93%E8%BF%9E%E8%B5%B7%E6%9D%A5.png" alt="直接把管道连起来.png"></p><h1 id="循环管道"><a href="#循环管道" class="headerlink" title="循环管道"></a>循环管道</h1><p>&emsp;&emsp;循环管道，指用</p><p>一定要用管桥注入液体。</p><p>&emsp;&emsp;对于循环流动的管道，管桥能对模块管道输入适量的液体，在满足循环的同时充入最大量液体。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%931.png"></p><p>&emsp;&emsp;</p><p>&emsp;&emsp;原理：管桥绿口（晚点再写)</p><p>&emsp;&emsp;循环管道中，管桥白口的那节管道是空的，液体一碰到白口就立马流进去。所以循环管道实际上是不能充满液体，必须留空一节，也就是白口的那一节。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%932.png"></p><p>&emsp;&emsp;下图是输入管道直接连接循环管道，会把管道完全充满液体。</p><p>&emsp;&emsp;因为管桥充满了液体，绿口管道有液体卡着，白口无法吸入，白口无法吸入液体导致液体堆积在白口，导致管桥无法工作，液体停下不动。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%933.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 缺氧百科 </category>
+          
+          <category> 1 教程 </category>
+          
+          <category> 技巧 </category>
           
       </categories>
       
