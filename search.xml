@@ -73,8 +73,6 @@
           
           <category> 1 教程 </category>
           
-          <category> 技巧 </category>
-          
       </categories>
       
       
@@ -228,64 +226,6 @@
     
     
     <entry>
-      <title>用管桥对管道输入液体(气体)</title>
-      <link href="/archives/3d67bd2d.html"/>
-      <url>/archives/3d67bd2d.html</url>
-      
-        <content type="html"><![CDATA[<p>&emsp;</p><p>&emsp;&emsp;下文以液体管道举例，气体管道同理。</p><p>&emsp;</p><h1 id="用管桥对管道输入液体-气体"><a href="#用管桥对管道输入液体-气体" class="headerlink" title="用管桥对管道输入液体(气体)"></a>用管桥对管道输入液体(气体)</h1><p>&emsp;&emsp;用外部的管道对模块管道输入水，并且输完后就拆掉外部管道，推荐使用“管桥”连接外部管道和模块管道。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/气体和液体管桥.png" alt="气体和液体管桥.png" style="zoom:25%;" /><p>&emsp;&emsp;用液体管桥注入液体的好处（气体同理）：</p><p>&emsp;&emsp;（1）拆除管桥不会漏水，管桥没有内容物，也就是管桥内部没有液体。</p><p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。管桥能对循环管道在满足循环的同时充入最大量液体。如果输入管道直接连接循环管道输入液体，会导致液体充太多而堵塞，无法循环。</p><p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png" alt="对模块注入水的管道接法" style="zoom:67%;" /><p>&emsp;&emsp;如果直接把管道连起来，拆掉的那节管道会漏一地水，事后还要拖地，所以为了避免麻烦，推荐用管桥。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%AE%A1%E9%81%93%E8%BF%9E%E8%B5%B7%E6%9D%A5.png" alt="直接把管道连起来.png"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 缺氧百科 </category>
-          
-          <category> 1 教程 </category>
-          
-          <category> 技巧 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 缺氧百科 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>望远镜的防陨石技巧</title>
-      <link href="/archives/f66f7d9e.html"/>
-      <url>/archives/f66f7d9e.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;研究行星。</p><h2 id="2-相应建筑介绍"><a href="#2-相应建筑介绍" class="headerlink" title="2 相应建筑介绍"></a>2 相应建筑介绍</h2><p>&emsp;&emsp;暂时略</p><h2 id="3-模块介绍"><a href="#3-模块介绍" class="headerlink" title="3 模块介绍"></a>3 模块介绍</h2><p>&emsp;&emsp;怎么简单怎么来，虽然能见度只有45%，但是简单无脑啊。</p><p>&emsp;&emsp;堡垒砖比较短，望远镜有1%的概率会被砸到，一般研究完全部行星都不会被砸到，要是被砸了，出门小心点。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C.png"></p><p>&emsp;&emsp;可以两边再往外延申一格堡垒砖，万无一失，但能见度只剩下25%。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C1.png"></p><p>&emsp;&emsp;再抠门一点，把堡垒砖省掉。用砖块把浮土陨石接住，用浮土挡有伤害的陨石。</p><p>&emsp;&emsp;不过要是脸黑刚建好就飞来两个以上有伤害的陨石，又正好砸在同一个地方把砖块砸没了，那我也没辙了，脸黑认命吧。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C3.png"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 缺氧百科 </category>
-          
-          <category> 1 教程 </category>
-          
-          <category> 模块 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 缺氧百科 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>原油精炼器模块</title>
       <link href="/archives/bb1e1d3a.html"/>
       <url>/archives/bb1e1d3a.html</url>
@@ -387,6 +327,62 @@
           <category> 1 教程 </category>
           
           <category> 模块 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 缺氧百科 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>望远镜的防陨石技巧</title>
+      <link href="/archives/f66f7d9e.html"/>
+      <url>/archives/f66f7d9e.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;研究行星。</p><h2 id="2-相应建筑介绍"><a href="#2-相应建筑介绍" class="headerlink" title="2 相应建筑介绍"></a>2 相应建筑介绍</h2><p>&emsp;&emsp;暂时略</p><h2 id="3-模块介绍"><a href="#3-模块介绍" class="headerlink" title="3 模块介绍"></a>3 模块介绍</h2><p>&emsp;&emsp;怎么简单怎么来，虽然能见度只有45%，但是简单无脑啊。</p><p>&emsp;&emsp;堡垒砖比较短，望远镜有1%的概率会被砸到，一般研究完全部行星都不会被砸到，要是被砸了，出门小心点。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C.png"></p><p>&emsp;&emsp;可以两边再往外延申一格堡垒砖，万无一失，但能见度只剩下25%。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C1.png"></p><p>&emsp;&emsp;再抠门一点，把堡垒砖省掉。用砖块把浮土陨石接住，用浮土挡有伤害的陨石。</p><p>&emsp;&emsp;不过要是脸黑刚建好就飞来两个以上有伤害的陨石，又正好砸在同一个地方把砖块砸没了，那我也没辙了，脸黑认命吧。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C3.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 缺氧百科 </category>
+          
+          <category> 1 教程 </category>
+          
+          <category> 技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 缺氧百科 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>用管桥对管道输入液体(气体)</title>
+      <link href="/archives/3d67bd2d.html"/>
+      <url>/archives/3d67bd2d.html</url>
+      
+        <content type="html"><![CDATA[<p>&emsp;</p><p>&emsp;&emsp;下文以液体管道举例，气体管道同理。</p><p>&emsp;</p><h1 id="用管桥对管道输入液体-气体"><a href="#用管桥对管道输入液体-气体" class="headerlink" title="用管桥对管道输入液体(气体)"></a>用管桥对管道输入液体(气体)</h1><p>&emsp;&emsp;用外部的管道对模块管道输入水，并且输完后就拆掉外部管道，推荐使用“管桥”连接外部管道和模块管道。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/气体和液体管桥.png" alt="气体和液体管桥.png" style="zoom:25%;" /><p>&emsp;&emsp;用液体管桥注入液体的好处（气体同理）：</p><p>&emsp;&emsp;（1）拆除管桥不会漏水，管桥没有内容物，也就是管桥内部没有液体。</p><p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。管桥能对循环管道在满足循环的同时充入最大量液体。如果输入管道直接连接循环管道输入液体，会导致液体充太多而堵塞，无法循环。</p><p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png" alt="对模块注入水的管道接法" style="zoom:67%;" /><p>&emsp;&emsp;如果直接把管道连起来，拆掉的那节管道会漏一地水，事后还要拖地，所以为了避免麻烦，推荐用管桥。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%AE%A1%E9%81%93%E8%BF%9E%E8%B5%B7%E6%9D%A5.png" alt="直接把管道连起来.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 缺氧百科 </category>
+          
+          <category> 1 教程 </category>
           
       </categories>
       
