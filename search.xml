@@ -114,11 +114,11 @@
     
     
     <entry>
-      <title>实用技巧与模块</title>
-      <link href="/archives/5e53001c.html"/>
-      <url>/archives/5e53001c.html</url>
+      <title>萌新入门手册（阅读顺序建议）</title>
+      <link href="/archives/c4c932d0.html"/>
+      <url>/archives/c4c932d0.html</url>
       
-        <content type="html"><![CDATA[<p>//——<br>&emsp;&emsp;目前打算写这些，如果还有什么想要看的，可加群或留下评论。</p><p>&emsp;&emsp;：常用泉开发，进入沼泽区的方法，推气门和液推，牧业简单模块，雷达与太阳能（太麻烦了，犹豫），地热（麻烦，犹豫）。<br>//——</p><p>初期—衣食住行：</p><p>&emsp;&emsp;常用在出入口，分隔两边气体：<a href="https://410091174.github.io/archives/b33654cd" target="_blank">水门</a></p><p>&emsp;&emsp;使上厕所更方便：<a href="https://410091174.github.io/archives/79f5cd92" target="_blank">自循环厕所</a>&emsp;|&emsp;<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体(气体)</a></p><p>&emsp;&emsp;消除二氧化碳：<a href="https://410091174.github.io/archives/6db5c6aa" target="_blank">自循环碳素脱离器</a></p><p>中期—工业革命：<br>&emsp;&emsp;生产原油：<a href="https://410091174.github.io/archives/4b065add" target="_blank">油井</a>&emsp;|&emsp;<a href="https://410091174.github.io/archives/935ec319" target="_blank">真空室</a></p><p>&emsp;&emsp;生产石油：<a href="https://410091174.github.io/archives/bb1e1d3a" target="_blank">原油精炼器</a></p><p>&emsp;&emsp;炼钢：—-</p><p>&emsp;&emsp;降温系统：—-&emsp;|&emsp;<a href="https://410091174.github.io/archives/6d4d5131" target="_blank">循环管道</a></p><p>后期—探索宇宙：<br>&emsp;&emsp;研究行星：<a href="https://410091174.github.io/archives/f66f7d9e" target="_blank">望远镜</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-熟悉游戏"><a href="#1-熟悉游戏" class="headerlink" title="1 熟悉游戏"></a>1 熟悉游戏</h1><p>&emsp;&emsp;带 * 为选看</p><p>&emsp;&emsp;*<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">切换至中文语言和色盲模式</a></p><p>&emsp;&emsp;*<a href="https://410091174.github.io/archives/b27ee6e1" target="_blank">游戏初始界面介绍</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/e0a0fca5" target="_blank">开始新游戏时的各级界面介绍</a>（看1~3）</p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/fc949f1c" target="_blank">游戏界面</a>（看1~3）</p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/5c097426" target="_blank">游戏操作</a>（看1~2）</p><h1 id="2-入门"><a href="#2-入门" class="headerlink" title="2 入门"></a>2 入门</h1><p>&emsp;&emsp;<a href="https://docs.qq.com/doc/DZVZQUkJnaXdRcWJs" target="_blank">实况教学</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/fc949f1c" target="_blank">游戏界面</a>（看4~5）</p><p>&emsp;&emsp;电力系统—<a href="https://410091174.github.io/archives/44253e35#1-%E7%94%B5%E5%8A%9B%E8%AE%BE%E5%A4%87%E7%9A%84%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8" target="_blank">1 电力设备的使用入门</a></p><p>&emsp;&emsp;研究—<a href="https://410091174.github.io/archives/9ecb4c0#1-1-%E7%A0%94%E7%A9%B6%E7%9A%84%E4%BD%9C%E7%94%A8" target="_blank">1 科学研究</a></p><p>&emsp;&emsp;植物与种植—<a href="https://410091174.github.io/archives/b4195f01" target="_blank">1 植物基本信息</a>，<a href="https://410091174.github.io/archives/b4195f01#2-2-1-%E7%A7%8D%E6%A4%8D" target="_blank">2.3.1 农作物种植</a></p><p>&emsp;&emsp;房间—<a href="https://410091174.github.io/archives/e1677cc4#1-%E6%88%BF%E9%97%B4%E7%9A%84%E4%BD%9C%E7%94%A8%E4%B8%8E%E5%BD%A2%E6%88%90" target="_blank">1 房间的作用与形成</a>，<a href="https://410091174.github.io/archives/e1677cc4#2-1-%E5%B8%B8%E7%94%A8%E7%9A%84%E5%A3%AB%E6%B0%94%E6%88%BF%E9%97%B4" target="_blank">2.1 常用的士气房间</a></p><p>&emsp;&emsp;管道系统—<a href="https://410091174.github.io/archives/2814ad1a#1-%E7%AE%A1%E9%81%93%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8" target="_blank">1 管道使用入门</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/fb4f35c" target="_blank">优先值系统</a></p><p>&emsp;&emsp;<a href="https://https://410091174.github.io/archives/78f15731#1-%E6%B8%A9%E5%BA%A6%E7%B3%BB%E7%BB%9F" target="_blank">温度系统</a></p><p>&emsp;&emsp;自动化—<a href="https://410091174.github.io/archives/c9b1d72b#1-%E8%87%AA%E5%8A%A8%E5%8C%96%E5%85%A5%E9%97%A8" target="_blank">自动化入门</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/bc5f5be6" target="_blank">太空服</a></p><h1 id="3-进阶"><a href="#3-进阶" class="headerlink" title="3 进阶"></a>3 进阶</h1><p>&emsp;&emsp;带 * 为选看</p><p>&emsp;&emsp;<a href="https://docs.qq.com/doc/DZXB2eERKSEd4Z0tL" target="_blank">发展思路</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/f95f95f4" target="_blank">运输系统</a></p><p>&emsp;&emsp;*<a href="https://410091174.github.io/archives/18f78b0c" target="_blank">装饰</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/9834f88c" target="_blank">沙盒与 debug</a>（调试功能。有什么不确定的东西，可以自己开一个专门做测试的存档做实验，成为大佬的必经之路）</p><p>&emsp;&emsp;&lt;1 熟悉游戏&gt;和&lt;2 入门&gt;里涉及到的文章整篇看完。</p><p>&emsp;&emsp;火箭（没写）</p><p>&emsp;&emsp;*牧业（没写）</p><h1 id="4-大佬"><a href="#4-大佬" class="headerlink" title="4 大佬"></a>4 大佬</h1><p>&emsp;&emsp;大佬还用看百科？大佬是教编者怎么写百科！</p><p>&emsp;&emsp;期待大家尽快成为大佬，成为大佬之后最好为缺氧环境做下贡献，比如教教萌新啦，写个更好的攻略啦，挖掘出更多的玩法啦……</p><p>&emsp;&emsp;大家成为大佬之后要记得回来给百科提出编写建议啊（快来教编者写百科(☆▽☆)，最好就是写个更好的攻略把百科踩在脚下，这样编者就能退休了o(<em>￣▽￣</em>)ブ</p><p>&emsp;&emsp;</p>]]></content>
       
       
       <categories>
@@ -141,11 +141,11 @@
     
     
     <entry>
-      <title>萌新入门手册（阅读顺序建议）</title>
-      <link href="/archives/c4c932d0.html"/>
-      <url>/archives/c4c932d0.html</url>
+      <title>实用技巧与模块</title>
+      <link href="/archives/5e53001c.html"/>
+      <url>/archives/5e53001c.html</url>
       
-        <content type="html"><![CDATA[<h1 id="1-熟悉游戏"><a href="#1-熟悉游戏" class="headerlink" title="1 熟悉游戏"></a>1 熟悉游戏</h1><p>&emsp;&emsp;带 * 为选看</p><p>&emsp;&emsp;*<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">切换至中文语言和色盲模式</a></p><p>&emsp;&emsp;*<a href="https://410091174.github.io/archives/b27ee6e1" target="_blank">游戏初始界面介绍</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/e0a0fca5" target="_blank">开始新游戏时的各级界面介绍</a>（看1~3）</p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/fc949f1c" target="_blank">游戏界面</a>（看1~3）</p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/5c097426" target="_blank">游戏操作</a>（看1~2）</p><h1 id="2-入门"><a href="#2-入门" class="headerlink" title="2 入门"></a>2 入门</h1><p>&emsp;&emsp;<a href="https://docs.qq.com/doc/DZVZQUkJnaXdRcWJs" target="_blank">实况教学</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/fc949f1c" target="_blank">游戏界面</a>（看4~5）</p><p>&emsp;&emsp;电力系统—<a href="https://410091174.github.io/archives/44253e35#1-%E7%94%B5%E5%8A%9B%E8%AE%BE%E5%A4%87%E7%9A%84%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8" target="_blank">1 电力设备的使用入门</a></p><p>&emsp;&emsp;研究—<a href="https://410091174.github.io/archives/9ecb4c0#1-1-%E7%A0%94%E7%A9%B6%E7%9A%84%E4%BD%9C%E7%94%A8" target="_blank">1 科学研究</a></p><p>&emsp;&emsp;植物与种植—<a href="https://410091174.github.io/archives/b4195f01" target="_blank">1 植物基本信息</a>，<a href="https://410091174.github.io/archives/b4195f01#2-2-1-%E7%A7%8D%E6%A4%8D" target="_blank">2.3.1 农作物种植</a></p><p>&emsp;&emsp;房间—<a href="https://410091174.github.io/archives/e1677cc4#1-%E6%88%BF%E9%97%B4%E7%9A%84%E4%BD%9C%E7%94%A8%E4%B8%8E%E5%BD%A2%E6%88%90" target="_blank">1 房间的作用与形成</a>，<a href="https://410091174.github.io/archives/e1677cc4#2-1-%E5%B8%B8%E7%94%A8%E7%9A%84%E5%A3%AB%E6%B0%94%E6%88%BF%E9%97%B4" target="_blank">2.1 常用的士气房间</a></p><p>&emsp;&emsp;管道系统—<a href="https://410091174.github.io/archives/2814ad1a#1-%E7%AE%A1%E9%81%93%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8" target="_blank">1 管道使用入门</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/fb4f35c" target="_blank">优先值系统</a></p><p>&emsp;&emsp;<a href="https://https://410091174.github.io/archives/78f15731#1-%E6%B8%A9%E5%BA%A6%E7%B3%BB%E7%BB%9F" target="_blank">温度系统</a></p><p>&emsp;&emsp;自动化—<a href="https://410091174.github.io/archives/c9b1d72b#1-%E8%87%AA%E5%8A%A8%E5%8C%96%E5%85%A5%E9%97%A8" target="_blank">自动化入门</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/bc5f5be6" target="_blank">太空服</a></p><h1 id="3-进阶"><a href="#3-进阶" class="headerlink" title="3 进阶"></a>3 进阶</h1><p>&emsp;&emsp;带 * 为选看</p><p>&emsp;&emsp;<a href="https://docs.qq.com/doc/DZXB2eERKSEd4Z0tL" target="_blank">发展思路</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/f95f95f4" target="_blank">运输系统</a></p><p>&emsp;&emsp;*<a href="https://410091174.github.io/archives/18f78b0c" target="_blank">装饰</a></p><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/9834f88c" target="_blank">沙盒与 debug</a>（调试功能。有什么不确定的东西，可以自己开一个专门做测试的存档做实验，成为大佬的必经之路）</p><p>&emsp;&emsp;&lt;1 熟悉游戏&gt;和&lt;2 入门&gt;里涉及到的文章整篇看完。</p><p>&emsp;&emsp;火箭（没写）</p><p>&emsp;&emsp;*牧业（没写）</p><h1 id="4-大佬"><a href="#4-大佬" class="headerlink" title="4 大佬"></a>4 大佬</h1><p>&emsp;&emsp;大佬还用看百科？大佬是教编者怎么写百科！</p><p>&emsp;&emsp;期待大家尽快成为大佬，成为大佬之后最好为缺氧环境做下贡献，比如教教萌新啦，写个更好的攻略啦，挖掘出更多的玩法啦……</p><p>&emsp;&emsp;大家成为大佬之后要记得回来给百科提出编写建议啊（快来教编者写百科(☆▽☆)，最好就是写个更好的攻略把百科踩在脚下，这样编者就能退休了o(<em>￣▽￣</em>)ブ</p><p>&emsp;&emsp;</p>]]></content>
+        <content type="html"><![CDATA[<p>//——<br>&emsp;&emsp;目前打算写这些，如果还有什么想要看的，可加群或留下评论。</p><p>&emsp;&emsp;：常用泉开发，进入沼泽区的方法，推气门和液推，牧业简单模块，雷达与太阳能（太麻烦了，犹豫），地热（麻烦，犹豫）。<br>//——</p><h1 id="初期—衣食住行："><a href="#初期—衣食住行：" class="headerlink" title="初期—衣食住行："></a>初期—衣食住行：</h1><p>&emsp;&emsp;常用在出入口，分隔两边气体：<a href="https://410091174.github.io/archives/b33654cd" target="_blank">水门</a></p><p>&emsp;&emsp;使上厕所更方便：<a href="https://410091174.github.io/archives/79f5cd92" target="_blank">自循环厕所</a>&emsp;|&emsp;<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体(气体)</a></p><p>&emsp;&emsp;消除二氧化碳：<a href="https://410091174.github.io/archives/6db5c6aa" target="_blank">自循环碳素脱离器</a></p><h1 id="中期—工业革命："><a href="#中期—工业革命：" class="headerlink" title="中期—工业革命："></a>中期—工业革命：</h1><p>&emsp;&emsp;生产原油：<a href="https://410091174.github.io/archives/4b065add" target="_blank">油井模块</a>&emsp;|&emsp;<a href="https://410091174.github.io/archives/935ec319" target="_blank">真空室的搭建方法</a></p><p>&emsp;&emsp;生产石油：<a href="https://410091174.github.io/archives/bb1e1d3a" target="_blank">原油精炼器模块</a></p><p>&emsp;&emsp;炼钢：—-</p><p>&emsp;&emsp;降温系统：—-&emsp;|&emsp;<a href="https://410091174.github.io/archives/6d4d5131" target="_blank">循环管道</a></p><h1 id="后期—探索宇宙："><a href="#后期—探索宇宙：" class="headerlink" title="后期—探索宇宙："></a>后期—探索宇宙：</h1><p>&emsp;&emsp;研究行星：<a href="https://410091174.github.io/archives/f66f7d9e" target="_blank">望远镜的防陨石技巧</a></p>]]></content>
       
       
       <categories>
@@ -153,6 +153,64 @@
           <category> 缺氧百科 </category>
           
           <category> 1 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 缺氧百科 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>望远镜的防陨石技巧</title>
+      <link href="/archives/f66f7d9e.html"/>
+      <url>/archives/f66f7d9e.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;研究行星。</p><h2 id="2-相应建筑介绍"><a href="#2-相应建筑介绍" class="headerlink" title="2 相应建筑介绍"></a>2 相应建筑介绍</h2><p>&emsp;&emsp;暂时略</p><h2 id="3-模块介绍"><a href="#3-模块介绍" class="headerlink" title="3 模块介绍"></a>3 模块介绍</h2><p>&emsp;&emsp;怎么简单怎么来，虽然能见度只有45%，但是简单无脑啊。</p><p>&emsp;&emsp;堡垒砖比较短，望远镜有1%的概率会被砸到，一般研究完全部行星都不会被砸到，要是被砸了，出门小心点。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C.png"></p><p>&emsp;&emsp;可以两边再往外延申一格堡垒砖，万无一失，但能见度只剩下25%。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C1.png"></p><p>&emsp;&emsp;再抠门一点，把堡垒砖省掉。用砖块把浮土陨石接住，用浮土挡有伤害的陨石。</p><p>&emsp;&emsp;不过要是脸黑刚建好就飞来两个以上有伤害的陨石，又正好砸在同一个地方把砖块砸没了，那我也没辙了，脸黑认命吧。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C3.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 缺氧百科 </category>
+          
+          <category> 1 教程 </category>
+          
+          <category> 技巧 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 缺氧百科 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>真空室的搭建方法</title>
+      <link href="/archives/935ec319.html"/>
+      <url>/archives/935ec319.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-挖天然方块和填砖出真空"><a href="#1-挖天然方块和填砖出真空" class="headerlink" title="1 挖天然方块和填砖出真空"></a>1 挖天然方块和填砖出真空</h1><p>&emsp;&emsp;找一片完整的天然方块区域。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/原油精炼1.png" style="zoom:80%;" /><p>&emsp;&emsp;如果天然方块中间有空缺，并且里面有气体，可以挖一条通道进去，再用砖块填掉空缺处，然后再把通道填掉。</p><p>&emsp;&emsp;如果只需要一个小真空室，可以直接用砖块填出一片区域。可以是自下而上铺好一层砖再往上铺一层，也可以从中间向上下一层层铺。</p><p>&emsp;&emsp;搭建出水门的轮廓。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image101.jpg" alt="img"></p><p>&emsp;&emsp;倒入水，形成水门。（如果水门右边有气体卡住，可以建造砖块把气体填掉）</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image103.jpg" alt="img"></p><p>&emsp;&emsp;挖出一片区域，内部自然形成真空。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC5.png"></p><p>&emsp;&emsp;如果有需要，可以用砖块包围真空室，方便电线和管道连接。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image109.jpg" alt="img"></p><p>&emsp;&emsp;为真空室围上砖块可能会遇上这种情况，天然方块只有一层，外面就是杂气，如果直接建造砖块，杂气有可能混入模块内。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image111.jpg" alt="img"></p><p>&emsp;&emsp;可以先在外围建一层砖块挡着，再建真空室的砖块。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E7%9C%9F%E7%A9%BA%E5%AE%A4-%E5%A4%96%E5%9B%B4%E5%BB%BA%E4%B8%80%E5%B1%82%E7%A0%96%E5%9D%97%E6%8C%A1%E7%9D%80.png" alt="img"></p><h1 id="2-气泵抽真空"><a href="#2-气泵抽真空" class="headerlink" title="2 气泵抽真空"></a>2 气泵抽真空</h1><p>&emsp;&emsp;搭好房间，直接用气泵抽到真空，缺点是费电。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/气泵抽真空.png" alt="气泵抽真空.png" style="zoom:80%;" /><p>&emsp;&emsp;当然，除了气泵，也可以用各种抽气方式来抽真空，比如液推，推气门等等。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 缺氧百科 </category>
+          
+          <category> 1 教程 </category>
+          
+          <category> 技巧 </category>
           
       </categories>
       
@@ -197,11 +255,11 @@
     
     
     <entry>
-      <title>真空室的搭建方法</title>
-      <link href="/archives/935ec319.html"/>
-      <url>/archives/935ec319.html</url>
+      <title>用管桥对管道输入液体(气体)</title>
+      <link href="/archives/3d67bd2d.html"/>
+      <url>/archives/3d67bd2d.html</url>
       
-        <content type="html"><![CDATA[<h1 id="1-挖天然方块和填砖出真空"><a href="#1-挖天然方块和填砖出真空" class="headerlink" title="1 挖天然方块和填砖出真空"></a>1 挖天然方块和填砖出真空</h1><p>&emsp;&emsp;找一片完整的天然方块区域。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/原油精炼1.png" style="zoom:80%;" /><p>&emsp;&emsp;如果天然方块中间有空缺，并且里面有气体，可以挖一条通道进去，再用砖块填掉空缺处，然后再把通道填掉。</p><p>&emsp;&emsp;如果只需要一个小真空室，可以直接用砖块填出一片区域。可以是自下而上铺好一层砖再往上铺一层，也可以从中间向上下一层层铺。</p><p>&emsp;&emsp;搭建出水门的轮廓。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image101.jpg" alt="img"></p><p>&emsp;&emsp;倒入水，形成水门。（如果水门右边有气体卡住，可以建造砖块把气体填掉）</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image103.jpg" alt="img"></p><p>&emsp;&emsp;挖出一片区域，内部自然形成真空。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC5.png"></p><p>&emsp;&emsp;如果有需要，可以用砖块包围真空室，方便电线和管道连接。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image109.jpg" alt="img"></p><p>&emsp;&emsp;为真空室围上砖块可能会遇上这种情况，天然方块只有一层，外面就是杂气，如果直接建造砖块，杂气有可能混入模块内。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/clip_image111.jpg" alt="img"></p><p>&emsp;&emsp;可以先在外围建一层砖块挡着，再建真空室的砖块。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E7%9C%9F%E7%A9%BA%E5%AE%A4-%E5%A4%96%E5%9B%B4%E5%BB%BA%E4%B8%80%E5%B1%82%E7%A0%96%E5%9D%97%E6%8C%A1%E7%9D%80.png" alt="img"></p><h1 id="2-气泵抽真空"><a href="#2-气泵抽真空" class="headerlink" title="2 气泵抽真空"></a>2 气泵抽真空</h1><p>&emsp;&emsp;搭好房间，直接用气泵抽到真空，缺点是费电。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/气泵抽真空.png" alt="气泵抽真空.png" style="zoom:80%;" /><p>&emsp;&emsp;当然，除了气泵，也可以用各种抽气方式来抽真空，比如液推，推气门等等。</p>]]></content>
+        <content type="html"><![CDATA[<p>&emsp;</p><p>&emsp;&emsp;下文以液体管道举例，气体管道同理。</p><p>&emsp;</p><h1 id="用管桥对管道输入液体-气体"><a href="#用管桥对管道输入液体-气体" class="headerlink" title="用管桥对管道输入液体(气体)"></a>用管桥对管道输入液体(气体)</h1><p>&emsp;&emsp;用外部的管道对模块管道输入水，并且输完后就拆掉外部管道，推荐使用“管桥”连接外部管道和模块管道。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/气体和液体管桥.png" alt="气体和液体管桥.png" style="zoom:25%;" /><p>&emsp;&emsp;用液体管桥注入液体的好处（气体同理）：</p><p>&emsp;&emsp;（1）拆除管桥不会漏水，管桥没有内容物，也就是管桥内部没有液体。</p><p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。管桥能对循环管道在满足循环的同时充入最大量液体。如果输入管道直接连接循环管道输入液体，会导致液体充太多而堵塞，无法循环。</p><p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png" alt="对模块注入水的管道接法" style="zoom:67%;" /><p>&emsp;&emsp;如果直接把管道连起来，拆掉的那节管道会漏一地水，事后还要拖地，所以为了避免麻烦，推荐用管桥。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%AE%A1%E9%81%93%E8%BF%9E%E8%B5%B7%E6%9D%A5.png" alt="直接把管道连起来.png"></p>]]></content>
       
       
       <categories>
@@ -209,8 +267,6 @@
           <category> 缺氧百科 </category>
           
           <category> 1 教程 </category>
-          
-          <category> 技巧 </category>
           
       </categories>
       
@@ -327,62 +383,6 @@
           <category> 1 教程 </category>
           
           <category> 模块 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 缺氧百科 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>望远镜的防陨石技巧</title>
-      <link href="/archives/f66f7d9e.html"/>
-      <url>/archives/f66f7d9e.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;研究行星。</p><h2 id="2-相应建筑介绍"><a href="#2-相应建筑介绍" class="headerlink" title="2 相应建筑介绍"></a>2 相应建筑介绍</h2><p>&emsp;&emsp;暂时略</p><h2 id="3-模块介绍"><a href="#3-模块介绍" class="headerlink" title="3 模块介绍"></a>3 模块介绍</h2><p>&emsp;&emsp;怎么简单怎么来，虽然能见度只有45%，但是简单无脑啊。</p><p>&emsp;&emsp;堡垒砖比较短，望远镜有1%的概率会被砸到，一般研究完全部行星都不会被砸到，要是被砸了，出门小心点。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C.png"></p><p>&emsp;&emsp;可以两边再往外延申一格堡垒砖，万无一失，但能见度只剩下25%。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C1.png"></p><p>&emsp;&emsp;再抠门一点，把堡垒砖省掉。用砖块把浮土陨石接住，用浮土挡有伤害的陨石。</p><p>&emsp;&emsp;不过要是脸黑刚建好就飞来两个以上有伤害的陨石，又正好砸在同一个地方把砖块砸没了，那我也没辙了，脸黑认命吧。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E6%9C%9B%E8%BF%9C%E9%95%9C3.png"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 缺氧百科 </category>
-          
-          <category> 1 教程 </category>
-          
-          <category> 技巧 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 缺氧百科 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>用管桥对管道输入液体(气体)</title>
-      <link href="/archives/3d67bd2d.html"/>
-      <url>/archives/3d67bd2d.html</url>
-      
-        <content type="html"><![CDATA[<p>&emsp;</p><p>&emsp;&emsp;下文以液体管道举例，气体管道同理。</p><p>&emsp;</p><h1 id="用管桥对管道输入液体-气体"><a href="#用管桥对管道输入液体-气体" class="headerlink" title="用管桥对管道输入液体(气体)"></a>用管桥对管道输入液体(气体)</h1><p>&emsp;&emsp;用外部的管道对模块管道输入水，并且输完后就拆掉外部管道，推荐使用“管桥”连接外部管道和模块管道。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/气体和液体管桥.png" alt="气体和液体管桥.png" style="zoom:25%;" /><p>&emsp;&emsp;用液体管桥注入液体的好处（气体同理）：</p><p>&emsp;&emsp;（1）拆除管桥不会漏水，管桥没有内容物，也就是管桥内部没有液体。</p><p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。管桥能对循环管道在满足循环的同时充入最大量液体。如果输入管道直接连接循环管道输入液体，会导致液体充太多而堵塞，无法循环。</p><p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png" alt="对模块注入水的管道接法" style="zoom:67%;" /><p>&emsp;&emsp;如果直接把管道连起来，拆掉的那节管道会漏一地水，事后还要拖地，所以为了避免麻烦，推荐用管桥。</p><p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%AE%A1%E9%81%93%E8%BF%9E%E8%B5%B7%E6%9D%A5.png" alt="直接把管道连起来.png"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 缺氧百科 </category>
-          
-          <category> 1 教程 </category>
           
       </categories>
       
@@ -776,11 +776,11 @@
     
     
     <entry>
-      <title>切换至中文语言和色盲模式</title>
-      <link href="/archives/9267dd61.html"/>
-      <url>/archives/9267dd61.html</url>
+      <title>开始新游戏时的各级界面介绍</title>
+      <link href="/archives/e0a0fca5.html"/>
+      <url>/archives/e0a0fca5.html</url>
       
-        <content type="html"><![CDATA[<h1 id="1-切换至中文语言"><a href="#1-切换至中文语言" class="headerlink" title="1 切换至中文语言"></a>1 切换至中文语言</h1><p>&emsp;&emsp;游戏默认语言是英文，换成中文的步骤如下：</p><p>&emsp;&emsp;在游戏的初始界面，点击<strong>TRRNSLRTIONS</strong>（如下图所示），选择中文，弹出提示框点击“重启”即可。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/切换语言（en）.png" style="zoom: 67%;" /><p>&emsp;&emsp;中文界面如下图所示，切换语言即为下图的“翻译”。<br><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/切换语言（ch）.png" style="zoom: 67%;" /></p><h1 id="2-色盲模式"><a href="#2-色盲模式" class="headerlink" title="2 色盲模式"></a>2 色盲模式</h1><center>色盲模式可在“选项—图像”中切换。</center><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/色盲模式.png" style="zoom: 80%;" />]]></content>
+        <content type="html"><![CDATA[<h1 id="1-开始新游戏的流程"><a href="#1-开始新游戏的流程" class="headerlink" title="1 开始新游戏的流程"></a>1 开始新游戏的流程</h1><p>&emsp;&emsp;（1）在游戏初始界面点击“新游戏”。</p><p>&emsp;&emsp;（2）选择难度——生存（正常）或毫不费力（简单）。</p><p>&emsp;&emsp;&emsp;&emsp;ps.可以先选择生存，在选择星体界面进入“游戏设置”，有更多的难度选项。</p><p>&emsp;&emsp;（3）选择星体。</p><p>&emsp;&emsp;（4）选择复制人。</p><p>&emsp;&emsp;（5）正式开始游戏。</p><h1 id="2-选择星体"><a href="#2-选择星体" class="headerlink" title="2 选择星体"></a>2 选择星体</h1><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/选择星体.png" alt="选择星体" style="zoom: 50%;" /><p>&emsp;&emsp;右下角点击开始游戏，等待地图生成，然后进入选择复制人界面。</p><p>&emsp;&emsp;“游戏设置”见本文第四章“4 游戏设置”，用于调整游戏难度和启动沙盒模式等。</p><h1 id="3-选择复制人"><a href="#3-选择复制人" class="headerlink" title="3 选择复制人"></a>3 选择复制人</h1><p>&emsp;&emsp;准备就绪后，点击“启程”开始新征途吧！加油！</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/选择复制人.png" alt="复制人"  /><h1 id="4-游戏设置"><a href="#4-游戏设置" class="headerlink" title="4 游戏设置"></a>4 游戏设置</h1><p>&emsp;&emsp;在“选择星体”界面的右下角进入，用于调整游戏难度和启用沙盒模式等。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/游戏设置.png" alt="游戏设置" style="zoom: 50%;" /><p><strong>疾病</strong>：调整复制人对病菌的抵抗力。</p><p>&emsp;&emsp;病菌抗性等级 与 被病菌侵染后的发病率：</p><table><thead><tr><th align="center"></th><th align="center">-3</th><th align="center">-2 (病疫之灾)</th><th align="center">-1 (病菌敏感)</th><th align="center">0 (默认)</th><th align="center">1</th><th align="center">2 (病菌抗性)</th><th align="center">3</th><th align="center">200 (完全免疫)</th></tr></thead><tbody><tr><td align="center">食物中毒</td><td align="center">62%</td><td align="center">50%</td><td align="center">38%</td><td align="center">27%</td><td align="center">18%</td><td align="center">12%</td><td align="center">8%</td><td align="center">0%</td></tr><tr><td align="center">粘液肺</td><td align="center">38%</td><td align="center">27%</td><td align="center">18%</td><td align="center">12%</td><td align="center">8%</td><td align="center">5%</td><td align="center">3%</td><td align="center">0%</td></tr><tr><td align="center">僵尸袍子</td><td align="center">92%</td><td align="center">88%</td><td align="center">82%</td><td align="center">73%</td><td align="center">62%</td><td align="center">50%</td><td align="center">38%</td><td align="center">0%</td></tr></tbody></table><p><strong>饥饿</strong>：调整复制人每周期需要摄入的食物量。</p><table><thead><tr><th align="center">难度</th><th align="center">进食量（千卡/周期）</th></tr></thead><tbody><tr><td align="center">无胃者</td><td align="center">不须进食</td></tr><tr><td align="center">节食</td><td align="center">500</td></tr><tr><td align="center">默认</td><td align="center">1000</td></tr><tr><td align="center">无底洞</td><td align="center">1500</td></tr><tr><td align="center">饥肠辘辘</td><td align="center">2000</td></tr></tbody></table><p><strong>压力</strong>：每周期向复制人施加压力。</p><table><thead><tr><th align="center">难度</th><th align="center">压力（ %/周期）</th></tr></thead><tbody><tr><td align="center">极乐之境</td><td align="center">0</td></tr><tr><td align="center">生气勃勃</td><td align="center">5</td></tr><tr><td align="center">默认</td><td align="center">10</td></tr><tr><td align="center">闷闷不乐</td><td align="center">15</td></tr><tr><td align="center">失魂落魄</td><td align="center">20</td></tr></tbody></table><p><strong>士气</strong>：士气对压力的影响程度。</p><table><thead><tr><th></th><th>总士气&gt;所需士气</th><th>总士气=所需士气</th><th>总士气&lt;所需士气</th></tr></thead><tbody><tr><td>完全麻木</td><td>无变化</td><td>无变化</td><td>无变化</td></tr><tr><td>冷酷</td><td>每多1士气减少压力10%/周期，最多减20%/周期。</td><td>减少压力5%/周期</td><td>每少1士气增加2%压力/周期，最多增加10%</td></tr><tr><td>默认</td><td>同上</td><td>同上</td><td>每少1士气增加2.5%压力/周期，最多增加20%</td></tr><tr><td>挑剔</td><td>同上</td><td>同上</td><td>每少1士气增加5%压力/周期，最多增加30%</td></tr><tr><td>严格要求</td><td>同上</td><td>同上</td><td>每少1士气增加10%压力/周期，最多增加50%</td></tr></tbody></table><p align="right">——作者@羊大</p><p><strong>压力反应</strong>：当压力达到100%时复制人触发压力反应。</p><p><strong>补给包裹</strong>：默认开启，开启后打印舱<strong>每3周期</strong>提供4份包裹——3名复制人和1份物资 或<br>2名复制人和2份物资，玩家从中选取一份。关闭后打印舱不提供物资，只提供3名复制人。</p><p><strong>快速工作模式</strong>：需要读条的工作瞬间完成（挖掘、建设、收获……），且体力下降缓慢，一睡觉就能瞬间回满体力。</p><p><strong>沙盒模式</strong>：允许玩家方便自由地建造建筑，生成物质、动植物等等。</p>]]></content>
       
       
       <categories>
@@ -803,11 +803,11 @@
     
     
     <entry>
-      <title>开始新游戏时的各级界面介绍</title>
-      <link href="/archives/e0a0fca5.html"/>
-      <url>/archives/e0a0fca5.html</url>
+      <title>切换至中文语言和色盲模式</title>
+      <link href="/archives/9267dd61.html"/>
+      <url>/archives/9267dd61.html</url>
       
-        <content type="html"><![CDATA[<h1 id="1-开始新游戏的流程"><a href="#1-开始新游戏的流程" class="headerlink" title="1 开始新游戏的流程"></a>1 开始新游戏的流程</h1><p>&emsp;&emsp;（1）在游戏初始界面点击“新游戏”。</p><p>&emsp;&emsp;（2）选择难度——生存（正常）或毫不费力（简单）。</p><p>&emsp;&emsp;&emsp;&emsp;ps.可以先选择生存，在选择星体界面进入“游戏设置”，有更多的难度选项。</p><p>&emsp;&emsp;（3）选择星体。</p><p>&emsp;&emsp;（4）选择复制人。</p><p>&emsp;&emsp;（5）正式开始游戏。</p><h1 id="2-选择星体"><a href="#2-选择星体" class="headerlink" title="2 选择星体"></a>2 选择星体</h1><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/选择星体.png" alt="选择星体" style="zoom: 50%;" /><p>&emsp;&emsp;右下角点击开始游戏，等待地图生成，然后进入选择复制人界面。</p><p>&emsp;&emsp;“游戏设置”见本文第四章“4 游戏设置”，用于调整游戏难度和启动沙盒模式等。</p><h1 id="3-选择复制人"><a href="#3-选择复制人" class="headerlink" title="3 选择复制人"></a>3 选择复制人</h1><p>&emsp;&emsp;准备就绪后，点击“启程”开始新征途吧！加油！</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/选择复制人.png" alt="复制人"  /><h1 id="4-游戏设置"><a href="#4-游戏设置" class="headerlink" title="4 游戏设置"></a>4 游戏设置</h1><p>&emsp;&emsp;在“选择星体”界面的右下角进入，用于调整游戏难度和启用沙盒模式等。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/游戏设置.png" alt="游戏设置" style="zoom: 50%;" /><p><strong>疾病</strong>：调整复制人对病菌的抵抗力。</p><p>&emsp;&emsp;病菌抗性等级 与 被病菌侵染后的发病率：</p><table><thead><tr><th align="center"></th><th align="center">-3</th><th align="center">-2 (病疫之灾)</th><th align="center">-1 (病菌敏感)</th><th align="center">0 (默认)</th><th align="center">1</th><th align="center">2 (病菌抗性)</th><th align="center">3</th><th align="center">200 (完全免疫)</th></tr></thead><tbody><tr><td align="center">食物中毒</td><td align="center">62%</td><td align="center">50%</td><td align="center">38%</td><td align="center">27%</td><td align="center">18%</td><td align="center">12%</td><td align="center">8%</td><td align="center">0%</td></tr><tr><td align="center">粘液肺</td><td align="center">38%</td><td align="center">27%</td><td align="center">18%</td><td align="center">12%</td><td align="center">8%</td><td align="center">5%</td><td align="center">3%</td><td align="center">0%</td></tr><tr><td align="center">僵尸袍子</td><td align="center">92%</td><td align="center">88%</td><td align="center">82%</td><td align="center">73%</td><td align="center">62%</td><td align="center">50%</td><td align="center">38%</td><td align="center">0%</td></tr></tbody></table><p><strong>饥饿</strong>：调整复制人每周期需要摄入的食物量。</p><table><thead><tr><th align="center">难度</th><th align="center">进食量（千卡/周期）</th></tr></thead><tbody><tr><td align="center">无胃者</td><td align="center">不须进食</td></tr><tr><td align="center">节食</td><td align="center">500</td></tr><tr><td align="center">默认</td><td align="center">1000</td></tr><tr><td align="center">无底洞</td><td align="center">1500</td></tr><tr><td align="center">饥肠辘辘</td><td align="center">2000</td></tr></tbody></table><p><strong>压力</strong>：每周期向复制人施加压力。</p><table><thead><tr><th align="center">难度</th><th align="center">压力（ %/周期）</th></tr></thead><tbody><tr><td align="center">极乐之境</td><td align="center">0</td></tr><tr><td align="center">生气勃勃</td><td align="center">5</td></tr><tr><td align="center">默认</td><td align="center">10</td></tr><tr><td align="center">闷闷不乐</td><td align="center">15</td></tr><tr><td align="center">失魂落魄</td><td align="center">20</td></tr></tbody></table><p><strong>士气</strong>：士气对压力的影响程度。</p><table><thead><tr><th></th><th>总士气&gt;所需士气</th><th>总士气=所需士气</th><th>总士气&lt;所需士气</th></tr></thead><tbody><tr><td>完全麻木</td><td>无变化</td><td>无变化</td><td>无变化</td></tr><tr><td>冷酷</td><td>每多1士气减少压力10%/周期，最多减20%/周期。</td><td>减少压力5%/周期</td><td>每少1士气增加2%压力/周期，最多增加10%</td></tr><tr><td>默认</td><td>同上</td><td>同上</td><td>每少1士气增加2.5%压力/周期，最多增加20%</td></tr><tr><td>挑剔</td><td>同上</td><td>同上</td><td>每少1士气增加5%压力/周期，最多增加30%</td></tr><tr><td>严格要求</td><td>同上</td><td>同上</td><td>每少1士气增加10%压力/周期，最多增加50%</td></tr></tbody></table><p align="right">——作者@羊大</p><p><strong>压力反应</strong>：当压力达到100%时复制人触发压力反应。</p><p><strong>补给包裹</strong>：默认开启，开启后打印舱<strong>每3周期</strong>提供4份包裹——3名复制人和1份物资 或<br>2名复制人和2份物资，玩家从中选取一份。关闭后打印舱不提供物资，只提供3名复制人。</p><p><strong>快速工作模式</strong>：需要读条的工作瞬间完成（挖掘、建设、收获……），且体力下降缓慢，一睡觉就能瞬间回满体力。</p><p><strong>沙盒模式</strong>：允许玩家方便自由地建造建筑，生成物质、动植物等等。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-切换至中文语言"><a href="#1-切换至中文语言" class="headerlink" title="1 切换至中文语言"></a>1 切换至中文语言</h1><p>&emsp;&emsp;游戏默认语言是英文，换成中文的步骤如下：</p><p>&emsp;&emsp;在游戏的初始界面，点击<strong>TRRNSLRTIONS</strong>（如下图所示），选择中文，弹出提示框点击“重启”即可。</p><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/切换语言（en）.png" style="zoom: 67%;" /><p>&emsp;&emsp;中文界面如下图所示，切换语言即为下图的“翻译”。<br><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/切换语言（ch）.png" style="zoom: 67%;" /></p><h1 id="2-色盲模式"><a href="#2-色盲模式" class="headerlink" title="2 色盲模式"></a>2 色盲模式</h1><center>色盲模式可在“选项—图像”中切换。</center><img src="https://cdn.jsdelivr.net/gh/410091174/Image-Hosting-Service/img/色盲模式.png" style="zoom: 80%;" />]]></content>
       
       
       <categories>
