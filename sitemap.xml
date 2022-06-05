@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://410091174.github.io/archives/935ec319.html</loc>
+    <loc>https://410091174.github.io/archives/2b6a4e97.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://410091174.github.io/archives/bb1e1d3a.html</loc>
+    <loc>https://410091174.github.io/archives/oni-wiki.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -29,7 +29,16 @@
   </url>
   
   <url>
-    <loc>https://410091174.github.io/archives/2b6a4e97.html</loc>
+    <loc>https://410091174.github.io/archives/935ec319.html</loc>
+    
+    <lastmod>2022-06-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://410091174.github.io/archives/bb1e1d3a.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -237,15 +246,6 @@
   
   <url>
     <loc>https://410091174.github.io/archives/f95f95f4.html</loc>
-    
-    <lastmod>2022-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://410091174.github.io/archives/oni-wiki.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
