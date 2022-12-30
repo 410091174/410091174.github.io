@@ -2341,7 +2341,7 @@
   </entry>
   <entry>
     <title>实用技巧与模块</title>
-    <url>/archives/5e53001c.html</url>
+    <url>/archives/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E4%B8%8E%E6%A8%A1%E5%9D%97.html</url>
     <content><![CDATA[<h1 id="初期—衣食住行："><a href="#初期—衣食住行：" class="headerlink" title="初期—衣食住行："></a>初期—衣食住行：</h1><p>&emsp;&emsp;常用在出入口，分隔两边气体：<a href="https://410091174.github.io/archives/b33654cd" target="_blank">水门</a></p>
 <p>&emsp;&emsp;使上厕所更方便：<a href="https://410091174.github.io/archives/79f5cd92" target="_blank">自循环厕所</a>&emsp;|（<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体(气体)</a>）</p>
 <p>&emsp;&emsp;消除二氧化碳：<a href="https://410091174.github.io/archives/6db5c6aa" target="_blank">自循环碳素脱离器</a></p>
@@ -2547,7 +2547,7 @@
   </entry>
   <entry>
     <title>自循环厕所</title>
-    <url>/archives/79f5cd92.html</url>
+    <url>/archives/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80.html</url>
     <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;使复制人上厕所的一系列问题更方便。</p>
 <h2 id="2-模块搭建"><a href="#2-模块搭建" class="headerlink" title="2 模块搭建"></a>2 模块搭建</h2><h3 id="2-1-模块蓝图"><a href="#2-1-模块蓝图" class="headerlink" title="2.1 模块蓝图"></a>2.1 模块蓝图</h3><p>&emsp;&emsp;所需科技树：抽水马桶，洗手池，净水器。</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环厕所/自循环厕所科技树.png?imageMogr2/format/webp" alt="自循环厕所科技树.png" style="zoom: 100%;" />
@@ -2588,7 +2588,7 @@
   </entry>
   <entry>
     <title>油井模块</title>
-    <url>/archives/4b065add.html</url>
+    <url>/archives/%E6%B2%B9%E4%BA%95%E6%A8%A1%E5%9D%97.html</url>
     <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;生产原油，附带生产天然气。</p>
 <p>&emsp;&emsp;原油用于生产石油，石油用于发电、炼塑料、发射石油火箭等。</p>
 <h2 id="2-相关建筑介绍"><a href="#2-相关建筑介绍" class="headerlink" title="2 相关建筑介绍"></a>2 相关建筑介绍</h2><table>
@@ -2644,7 +2644,7 @@
   </entry>
   <entry>
     <title>原油精炼器模块</title>
-    <url>/archives/bb1e1d3a.html</url>
+    <url>/archives/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97.html</url>
     <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;把原油转化成石油，附带产出天然气。</p>
 <p>&emsp;&emsp;石油是非常重要的一项资源，用于发电、炼塑料、发射石油火箭……等。</p>
 <h2 id="2-相关建筑"><a href="#2-相关建筑" class="headerlink" title="2 相关建筑"></a>2 相关建筑</h2><p>&emsp;&emsp;原油精炼器，把原油转化为石油和天然气（原油通过液体管道输入。石油输出至液体管道，天然气输出到世界中）。</p>
@@ -2742,7 +2742,7 @@
   </entry>
   <entry>
     <title>降温模块（液冷+蒸汽机）</title>
-    <url>/archives/%E9%99%8D%E6%B8%A9%E6%A8%A1%E5%9D%97%EF%BC%88%E6%B6%B2%E5%86%B7+%E8%92%B8%E6%B1%BD%E6%9C%BA%EF%BC%89.html</url>
+    <url>/archives/%E9%99%8D%E6%B8%A9%E6%A8%A1%E5%9D%97.html</url>
     <content><![CDATA[<h1 id="1-降温模块介绍"><a href="#1-降温模块介绍" class="headerlink" title="1 降温模块介绍"></a>1 降温模块介绍</h1><p>&emsp;&emsp;蒸汽机指“蒸汽涡轮机”。</p>
 <p>&emsp;&emsp;液冷指“液温调节器”。</p>
 <p>&emsp;&emsp;蒸汽机和液冷是平时交流习惯用语，读者最好习惯一下。</p>
@@ -2907,7 +2907,7 @@
   </entry>
   <entry>
     <title>自循环碳素脱离器</title>
-    <url>/archives/6db5c6aa.html</url>
+    <url>/archives/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8.html</url>
     <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;消除二氧化碳。</p>
 <h2 id="2-模块搭建"><a href="#2-模块搭建" class="headerlink" title="2 模块搭建"></a>2 模块搭建</h2><h3 id="2-1-模块蓝图"><a href="#2-1-模块蓝图" class="headerlink" title="2.1 模块蓝图"></a>2.1 模块蓝图</h3><p>&emsp;&emsp;所需科技树：碳素脱离器，净水器。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8%E7%A7%91%E6%8A%80%E6%A0%91.png?imageMogr2/format/webp" alt="自循环碳素脱离器科技树.png"></p>
@@ -3034,21 +3034,8 @@
       </tags>
   </entry>
   <entry>
-    <title>太阳能</title>
-    <url>/archives/null.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>4 技术</category>
-        <category>模块</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>泉开发</title>
-    <url>/archives/null.html</url>
+    <url>/archives/%E6%B3%89%E5%BC%80%E5%8F%91.html</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3074,7 +3061,7 @@
   </entry>
   <entry>
     <title>金属精炼器模块</title>
-    <url>/archives/null.html</url>
+    <url>/archives/%E9%87%91%E5%B1%9E%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97.html</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>缺氧百科</category>
