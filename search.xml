@@ -779,6 +779,29 @@
       </tags>
   </entry>
   <entry>
+    <title>实用技巧与模块</title>
+    <url>/archives/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E4%B8%8E%E6%A8%A1%E5%9D%97.html</url>
+    <content><![CDATA[<h1 id="初期—衣食住行："><a href="#初期—衣食住行：" class="headerlink" title="初期—衣食住行："></a>初期—衣食住行：</h1><p>&emsp;&emsp;常用在出入口，分隔两边气体：<a href="https://410091174.github.io/archives/水门" target="_blank">水门</a></p>
+<p>&emsp;&emsp;使上厕所更方便：<a href="https://410091174.github.io/archives/自循环厕所" target="_blank">自循环厕所</a>&emsp;|（<a href="https://410091174.github.io/archives/用管桥对管道输入气液体" target="_blank">用管桥对管道输入气液体</a>）</p>
+<p>&emsp;&emsp;消除二氧化碳：<a href="https://410091174.github.io/archives/自循环碳素脱离器" target="_blank">自循环碳素脱离器</a></p>
+<h1 id="中期—工业革命："><a href="#中期—工业革命：" class="headerlink" title="中期—工业革命："></a>中期—工业革命：</h1><p>&emsp;&emsp;生产原油：<a href="https://410091174.github.io/archives/油井模块" target="_blank">油井模块</a>&emsp;|&emsp;<a href="https://410091174.github.io/archives/搭建真空室" target="_blank">搭建真空室</a></p>
+<p>&emsp;&emsp;生产石油：<a href="https://410091174.github.io/archives/原油精炼器模块" target="_blank">原油精炼器模块</a></p>
+<p>&emsp;&emsp;炼钢：金属精炼器配套模块</p>
+<p>&emsp;&emsp;温度控制：<a href="https://410091174.github.io/archives/降温系统" target="_blank">降温系统</a>&emsp;|（<a href="https://410091174.github.io/archives/循环管道" target="_blank">循环管道</a>）</p>
+<p>&emsp;&emsp;<a href="https://410091174.github.io/archives/过滤气液体" target="_blank">过滤气液体</a></p>
+<p>&emsp;&emsp;收集气液体</p>
+<p>&emsp;&emsp;资源可再生：泉的简单开发</p>
+<h1 id="后期—探索宇宙："><a href="#后期—探索宇宙：" class="headerlink" title="后期—探索宇宙："></a>后期—探索宇宙：</h1><p>&emsp;&emsp;研究行星：<a href="https://410091174.github.io/archives/望远镜的防陨石技巧" target="_blank">望远镜的防陨石技巧</a></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>4 技术</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>优先值系统</title>
     <url>/archives/%E4%BC%98%E5%85%88%E5%80%BC%E7%B3%BB%E7%BB%9F.html</url>
     <content><![CDATA[<h1 id="1-优先值"><a href="#1-优先值" class="headerlink" title="1 优先值"></a>1 优先值</h1><p>&emsp;&emsp;优先值用于给复制人判断任务的重要程度</p>
@@ -826,6 +849,31 @@
 <p>&emsp;</p>
 <p>空闲类（额外－100）：<br>存放太空服：0.03（通过检查站脱下太空服）<br>空闲：0.02 </p>
 ]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>3 百科</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>复制人</title>
+    <url>/archives/%E5%A4%8D%E5%88%B6%E4%BA%BA.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>3 百科</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建筑</title>
+    <url>/archives/%E5%BB%BA%E7%AD%91.html</url>
+    <content><![CDATA[<h1 id="1-建筑分类"><a href="#1-建筑分类" class="headerlink" title="1 建筑分类"></a>1 建筑分类</h1><p>建筑分为：砖，门，机器</p>
+<h1 id="2-砖的性质"><a href="#2-砖的性质" class="headerlink" title="2 砖的性质"></a>2 砖的性质</h1><h1 id="3-门的性质"><a href="#3-门的性质" class="headerlink" title="3 门的性质"></a>3 门的性质</h1><h1 id="4-机器的性质"><a href="#4-机器的性质" class="headerlink" title="4 机器的性质"></a>4 机器的性质</h1>]]></content>
       <categories>
         <category>缺氧百科</category>
         <category>3 百科</category>
@@ -892,6 +940,358 @@
 <p>&emsp;&emsp;建议设置为仅限空位。</p>
 <p>&emsp;&emsp;若“仅限空位”，复制人不会通过存满气压服的检查站，只会通过还有空位的检查站，从而避免复制人随地扔气压服。</p>
 <p>&emsp;&emsp;若“始终允许”，基地有多条气压服走廊且某一条气压服走廊的存放柜数量＜总气压服数量时，因复制人走最短路径，可能都在同一条气压服走廊回基地，导致通过人数过多，存放柜存满后还有复制人通过，复制人就会把气压服扔地上，导致可以使用的气压服数量减少（穿着中和在存放柜中的气压服），需要玩家再次手动点击运送气压服把气压服放回去。</p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>3 百科</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>沙盒与debug</title>
+    <url>/archives/%E6%B2%99%E7%9B%92%E4%B8%8Edebug.html</url>
+    <content><![CDATA[<h1 id="1-沙盒与debug介绍"><a href="#1-沙盒与debug介绍" class="headerlink" title="1 沙盒与debug介绍"></a>1 沙盒与debug介绍</h1><p>&emsp;&emsp;沙盒和debug相当于调试功能，方便玩家做测试。</p>
+<p>&emsp;&emsp;沙盒模式可以让玩家方便自由地建造建筑，生成物质、动植物等等。</p>
+<p>&emsp;&emsp;debug模式也可以生成物质，不需复制人就能进行挖掘、拆除、建筑调试等操作。</p>
+<p>&emsp;&emsp;沙盒或debug打开后无法解锁steam成就。（可以读档到没开启之前，成就还是绿√）</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/%E6%88%90%E5%B0%B1%E5%A4%B1%E6%95%88.png?imageMogr2/format/webp" alt="成就失效"></p>
+<h1 id="2-沙盒"><a href="#2-沙盒" class="headerlink" title="2 沙盒"></a>2 沙盒</h1><h2 id="2-1-开启沙盒"><a href="#2-1-开启沙盒" class="headerlink" title="2.1 开启沙盒"></a>2.1 开启沙盒</h2><p>&emsp;&emsp;方法一：在选择星体时，在游戏设置里勾选开启沙盒模式。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/沙盒与debug/1开启沙盒1.png?imageMogr2/format/webp" style="zoom:80%;" />
+
+
+
+<p>&emsp;&emsp;方法二：进入游戏——按Esc键弹出菜单——选项——游戏，勾选启用沙盒工具。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/沙盒与debug/1开启沙盒2.png?imageMogr2/format/webp"  />
+
+
+
+<p>&emsp;&emsp;开启沙盒模式后会在游戏界面的<strong>左上角出现一个“沙盒”按钮</strong>，点击后游戏界面<strong>右下角出现沙盒工具</strong>。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E5%BC%80%E5%90%AF%E6%B2%99%E7%9B%923.png?imageMogr2/format/webp" alt="1开启沙盒3"></p>
+<h2 id="2-2-沙盒功能"><a href="#2-2-沙盒功能" class="headerlink" title="2.2 沙盒功能"></a>2.2 沙盒功能</h2><h3 id="1-解锁全建筑"><a href="#1-解锁全建筑" class="headerlink" title="1.解锁全建筑"></a>1.解锁全建筑</h3><p>&emsp;&emsp;开启沙盒会解锁全部建筑。</p>
+<h3 id="2-即时建造模式"><a href="#2-即时建造模式" class="headerlink" title="2.即时建造模式"></a>2.即时建造模式</h3><p>&emsp;&emsp;默认开启，建筑一放置就是建好的，不消耗材料。</p>
+<p>&emsp;&emsp;若不想建筑一放置就是建好的，可关闭即使建造模式，回到正常模式（复制人运材料建）。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8D%B3%E6%97%B6%E5%BB%BA%E9%80%A0%E6%A8%A1%E5%BC%8F.png?imageMogr2/format/webp" alt="1沙盒即时建造模式"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8D%B3%E6%97%B6%E5%BB%BA%E9%80%A0%E6%A8%A1%E5%BC%8F2.png?imageMogr2/format/webp" alt="1沙盒即时建造模式2"></p>
+<h3 id="3-沙盒功能按钮"><a href="#3-沙盒功能按钮" class="headerlink" title="3.沙盒功能按钮"></a>3.沙盒功能按钮</h3><h4 id="1-刷子"><a href="#1-刷子" class="headerlink" title="(1)刷子"></a>(1)刷子</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD1%E5%88%B7%E5%AD%90.png?imageMogr2/format/webp" alt="1沙盒功能1刷子"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD1%E5%88%B7%E5%AD%901.png?imageMogr2/format/webp" alt="1沙盒功能1刷子1"></p>
+<h4 id="2-喷枪"><a href="#2-喷枪" class="headerlink" title="(2)喷枪"></a>(2)喷枪</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD2%E5%96%B7%E6%9E%AA.png?imageMogr2/format/webp" alt="1沙盒功能2喷枪"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD2%E5%96%B7%E6%9E%AA1.png?imageMogr2/format/webp" alt="1沙盒功能2喷枪1"></p>
+<h4 id="3-填充"><a href="#3-填充" class="headerlink" title="(3)填充"></a>(3)填充</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD3%E5%A1%AB%E5%85%85.png?imageMogr2/format/webp" alt="1沙盒功能3填充"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD3%E5%A1%AB%E5%85%851.png?imageMogr2/format/webp" alt="1沙盒功能3填充1"></p>
+<h4 id="4-取样"><a href="#4-取样" class="headerlink" title="(4)取样"></a>(4)取样</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD4%E5%8F%96%E6%A0%B7.png?imageMogr2/format/webp" alt="1沙盒功能4取样"></p>
+<p>&emsp;&emsp;“取样”一个单元格，会记录下该格的物质信息，再点击刷子/喷枪/填充，物质信息就会跟取样格一样。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD4%E5%8F%96%E6%A0%B71.png?imageMogr2/format/webp" alt="1沙盒功能4取样1"></p>
+<h4 id="5-热枪"><a href="#5-热枪" class="headerlink" title="(5)热枪"></a>(5)热枪</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD5%E7%83%AD%E6%9E%AA.png?imageMogr2/format/webp" alt="1沙盒功能5热枪"></p>
+<p>&emsp;&emsp;用于升温或降温。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD5%E7%83%AD%E6%9E%AA1.png?imageMogr2/format/webp" alt="1沙盒功能1热枪1"></p>
+<h4 id="6-生成"><a href="#6-生成" class="headerlink" title="(6)生成"></a>(6)生成</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD6%E7%94%9F%E6%88%90.png?imageMogr2/format/webp" alt="1沙盒功能6生成"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD6%E7%94%9F%E6%88%901.png?imageMogr2/format/webp" alt="1沙盒功能6生成1"></p>
+<h4 id="7-清理地面"><a href="#7-清理地面" class="headerlink" title="(7)清理地面"></a>(7)清理地面</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD7%E6%B8%85%E7%90%86%E5%9C%B0%E9%9D%A2.png?imageMogr2/format/webp" alt="1沙盒功能7清理地面"></p>
+<h4 id="8-摧毁"><a href="#8-摧毁" class="headerlink" title="(8)摧毁"></a>(8)摧毁</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD8%E6%91%A7%E6%AF%81.png?imageMogr2/format/webp" alt="1沙盒功能8摧毁"></p>
+<h4 id="9-揭示"><a href="#9-揭示" class="headerlink" title="(9)揭示"></a>(9)揭示</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD9%E6%8F%AD%E7%A4%BA.png?imageMogr2/format/webp" alt="1沙盒功能9揭示"></p>
+<h1 id="3-debug"><a href="#3-debug" class="headerlink" title="3 debug"></a>3 debug</h1><h2 id="3-1-开启debug"><a href="#3-1-开启debug" class="headerlink" title="3.1 开启debug"></a>3.1 开启debug</h2><p>&emsp;&emsp;在<code>OxygenNotIncluded</code>（或者<code>OxygenNotIncluded_Data</code>）文件夹里，新建一个命名为<code>debug_enable</code>的txt文件（记事本）。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E4%BD%8D%E7%BD%AE.png?imageMogr2/format/webp" alt="2debug位置"></p>
+<p>&emsp;&emsp;文件夹位置：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E4%BD%8D%E7%BD%AE1.png?imageMogr2/format/webp" alt="2debug位置1"></p>
+<p>&emsp;&emsp;或者用steam浏览本地文件。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E4%BD%8D%E7%BD%AE2.png?imageMogr2/format/webp" alt="2debug位置2"></p>
+<p>&emsp;&emsp;新建debug_enable的txt文件后，游戏版本号末尾显示-D，表示装入debug。</p>
+<p>&emsp;&emsp;&emsp;装入前 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E8%A3%85%E5%85%A5%E5%89%8D.png?imageMogr2/format/webp" alt="2debug装入前"></p>
+<p>&emsp;&emsp;&emsp;装入后 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E8%A3%85%E5%85%A5%E5%90%8E.png?imageMogr2/format/webp" alt="2debug装入后"></p>
+<p>&emsp;&emsp;但装入≠使用，只有在游戏里使用debug的功能之后，成就页面才会打上红叉×。</p>
+<p> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/%E6%88%90%E5%B0%B1%E5%A4%B1%E6%95%88.png?imageMogr2/format/webp" alt="成就失效"></p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-2-debug功能"><a href="#3-2-debug功能" class="headerlink" title="3.2 debug功能"></a>3.2 debug功能</h2><h3 id="（1）backspace"><a href="#（1）backspace" class="headerlink" title="（1）backspace"></a>（1）backspace</h3><p>&emsp;&emsp;按下键盘backspace（退格键（删除键），回车建上面的上面那个）</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E7%9A%84backspace.png?imageMogr2/format/webp" alt="2debug的backspace"></p>
+<p>&emsp;&emsp;格子打印器的打印和填充实际上是“覆盖”，若元素、质量、温度…的√取消掉，即该项为空，进行覆盖时，空项信息不覆盖，即空项还是该单元格原本的信息。</p>
+<p>&emsp;&emsp;如：质量取消，元素选“水”，往100kg的泥土打印，则100kg的泥土变成100kg的水。<br>&emsp;&emsp;&emsp;&emsp;元素取消，质量1kg，往100kg的水打印，则100kg的水变成1kg的水。</p>
+<p>&emsp;&emsp;模板存放的位置<code>OxygenNotIncluded\OxygenNotIncluded_Data\StreamingAssets\templates</code></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E6%A8%A1%E6%9D%BF%E5%AD%98%E6%94%BE%E7%9A%84%E4%BD%8D%E7%BD%AE.png?imageMogr2/format/webp" alt="2debug模板存放的位置"></p>
+<h3 id="（2）ctrl-f4"><a href="#（2）ctrl-f4" class="headerlink" title="（2）ctrl+f4"></a>（2）ctrl+f4</h3><p>&emsp;&emsp;注意！在一个存档内开启此功能后，即使切换存档，该功能也还处于开启状态，需要手动关闭。重启缺氧也能关闭。</p>
+<p>&emsp;&emsp;小心在测试档用该功能做完实验，忘记关闭，切换回生存档之后成就页面打了个×。（可以读档到没开启之前，成就还是绿√）</p>
+<p>&emsp;&emsp;ctrl+f4功能：</p>
+<p>&emsp;&emsp;（1）解锁全建筑，开启即时建造模式（且无法关闭即时建造）。</p>
+<p>&emsp;&emsp;&emsp;即时建造模式：建筑一放置就是建好的，不消耗材料。</p>
+<p>&emsp;&emsp;（2）挖掘、拆除、擦拭、取出管道内容物，框选完直接完成，不需要复制人。挖掘、拆除、取出管道内容物会掉落材料。擦拭不掉落瓶装液体，液体直接消失。</p>
+<p>&emsp;&emsp;（3）对建筑的调整也是直接完成，不需要复制人。</p>
+<p>&emsp;&emsp;（4）解锁右上角管理栏的技能、研究、星图，无需相应设施也可点开。复制人学习技能不需技能点，研究（科学研究、地址分析、星图分析）即点即完成，火箭发射无需装填燃料，一点就发射。</p>
+<h3 id="（3）十-五倍速，alt-z-ctrl-u"><a href="#（3）十-五倍速，alt-z-ctrl-u" class="headerlink" title="（3）十/五倍速，alt+z / ctrl+u"></a>（3）十/五倍速，alt+z / ctrl+u</h3><p>&emsp;&emsp;alt+z 把“快速”的3倍速换成10倍速。</p>
+<p>&emsp;&emsp;ctrl+u 开启5倍速。</p>
+<h3 id="（4）把选中的东西移动到鼠标位置，alt-q"><a href="#（4）把选中的东西移动到鼠标位置，alt-q" class="headerlink" title="（4）把选中的东西移动到鼠标位置，alt+q"></a>（4）把选中的东西移动到鼠标位置，alt+q</h3><p>&emsp;&emsp;如标题，略。</p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>3 百科</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>温度和热学概述（未完成）</title>
+    <url>/archives/78f15731.html</url>
+    <content><![CDATA[<h1 id="1-温度系统"><a href="#1-温度系统" class="headerlink" title="1 温度系统"></a>1 温度系统</h1><p>&emsp;&emsp;<strong>温度视图（快捷键：F3）</strong>，直观显示地图中温度的冷热情况。</p>
+<p>&emsp;&emsp;在温度视图下可以看到，不同的温度呈现不同的的颜色。温度越高越红，越低越蓝。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/3%E6%B8%A9%E5%BA%A6%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="3温度视图.png"></p>
+<p>&emsp;&emsp;一般来说，温度是否合适，是以玩家在种的农作物的生长温度为准，也就是说，只要农作物没因温度过高或过低而枯萎，就属于正常温度。</p>
+<p>&emsp;&emsp;温度最主要的负面作用有三点：</p>
+<p>&emsp;&emsp;（1）影响植物的生长，而食物是游戏里的重中之重，所以，特别是前期，基本是为了种菜才关注温度，比如米虱木，生长温度是10~30℃，那么就要保证基地或农场的温度在这个范围内。举个特别的例子，水草，存活温度高达70℃，编者玩干热地图时，基地里40℃都当没看见，因为温度对复制人有致命影响的，就是农作物（食物）。</p>
+<p>&emsp;&emsp;（2）建筑过热。见《–》。</p>
+<p>&emsp;&emsp;（3）如果温度太高，复制人会因“环境过热”而增加压力，当温度达到约100℃以上时，复制人会烫伤。温度低，复制人会因“环境过冷”而增加压力。</p>
+<h1 id="2-热学"><a href="#2-热学" class="headerlink" title="2 热学"></a>2 热学</h1><p>&emsp;&emsp;缺氧的热学是能量不守恒的，热能能凭空产生，也能凭空消失。本章的热学仅是游戏内容，与现实完全没有联系！</p>
+<h2 id="2-1-比热容"><a href="#2-1-比热容" class="headerlink" title="2.1 比热容"></a>2.1 比热容</h2><p>&emsp;&emsp;比热容，是指没有相变化和化学变化时，1kg均相物质温度升高1K所需的热量。</p>
+<p>&emsp;&emsp;比热容是热力学中常用的一个物理量，表示物质提高温度所需热量的能力。它指单位质量的某种物质升高（或下降）单位温度所吸收（或放出）的热量。其国际单位制中的单位是焦耳每千克开尔文[ J / (kg*K)]，即令1KG的物质的温度上升1开尔文所需的热量。根据此定理，最基本便可得出以下公式：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B8%A9%E5%BA%A6%E5%92%8C%E7%83%AD%E5%AD%A6%E6%A6%82%E8%BF%B0/2%E6%AF%94%E7%83%AD%E5%AE%B9%E5%85%AC%E5%BC%8F.png?imageMogr2/format/webp" alt="2比热容公式"></p>
+<p>&emsp;&emsp;物质的比热容越大，相同质量和温升时，需要更多热能。以水和油为例，水和油的比热容分别约为4200 J/(kg*K)和2000 J/(kg*K)，即把相同质量的水加热的热能比油多出约一倍。若以相同的热能分别把相同质量的水和油加热的话，油的温升将比水的温升大。</p>
+<h2 id="2-2-物态变化"><a href="#2-2-物态变化" class="headerlink" title="2.2 物态变化"></a>2.2 物态变化</h2><p>&emsp;&emsp;缺氧里物质到达一定的温度后就能从一种状态变化到另一种状态。缺氧的物态变化有四种：熔化、凝固、汽化、液化。（升华是先融化再汽化，凝华是先液化再凝固）。</p>
+<p>&emsp;&emsp;例如：蒸汽 &gt; 100℃ &gt; 水 &gt; 0℃ &gt; 冰</p>
+<h2 id="2-3-化学变化"><a href="#2-3-化学变化" class="headerlink" title="2.3 化学变化"></a>2.3 化学变化</h2><p>&emsp;&emsp;缺氧里的化学变化只需一种物质到达一定的温度就能发生。（且只能是一种物质，游戏设定是一格只有一种物质，不存在混合物，所有物质都是纯净物）</p>
+<p>&emsp;&emsp;例如：原油→ 400℃ →石油→ 539℃ →酸性天然气→&ensp;－161.5℃ →甲烷和硫。</p>
+<p>&emsp;&emsp;物质只需温度到达临界点就能直接转变成另一种物质。</p>
+<h2 id="2-4-假汽化潜热"><a href="#2-4-假汽化潜热" class="headerlink" title="2.4 假汽化潜热"></a>2.4 假汽化潜热</h2><p>&emsp;&emsp;缺氧里的物态变化和化学变化，实际变化温度比沸点和熔点高3℃，比凝点和凝固点低3℃。</p>
+<p>&emsp;&emsp;所以《(2)物态变化》和《(3)化学变化》给的例子，实际变化温度是：</p>
+<p>&emsp;&emsp;&emsp;水→&ensp;－3℃→冰，冰→ 3℃→水。</p>
+<p>&emsp;&emsp;&emsp;原油→403℃→石油。</p>
+<h2 id="2-5-真空"><a href="#2-5-真空" class="headerlink" title="2.5 真空"></a>2.5 真空</h2><p>&emsp;&emsp;真空，不存在任何物质的空间，也就意味着不存在热，也不存在热传导。</p>
+<table>
+    <tr>
+    <td>&emsp;&emsp;真空一般用于隔热。(缺氧无热辐射)<br/>&emsp;&emsp;右图中，左边是0℃的气体，右边是100℃的气体，中间真空，相当于左右两边的气体没有接触，温度不会发生交换，各自的温度能永远维持下去。</td>
+    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/温度和热学概述/2真空.gif?imageMogr2/format/webp" alt="2真空"  /></td></tr>
+</table>
+
+
+
+<h2 id="2-6-导热率"><a href="#2-6-导热率" class="headerlink" title="2.6 导热率"></a>2.6 导热率</h2><p>&emsp;&emsp;导热率，是表示材料<a href="https://baike.baidu.com/item/%E7%83%AD%E4%BC%A0%E5%AF%BC/6319918">热传导</a>能力大小的物理量，单位w/(m·K)。导热率越高传递热量越快，导热率越低传递热量速度越慢。</p>
+<p>&emsp;&emsp;导热率K是材料本身的固有性能参数，用于描述材料的导热能力。这个特性跟材料本身的大小、形状、厚度都是没有关系的，只是跟材料本身的成分有关系。所以同类材料的导热率都是一样的，并不会因为厚度不一样而变化。</p>
+<h2 id="2-7-发生热交换的接触位置"><a href="#2-7-发生热交换的接触位置" class="headerlink" title="2.7 发生热交换的接触位置"></a>2.7 发生热交换的接触位置</h2><p>&emsp;&emsp;①“格”与其上下左右的四个“格”发生热交换。</p>
+<p>&emsp;&emsp;&emsp;&emsp;以格存在的物品及建筑：天然方块，液体格，气体格，除透气砖、透水砖外所有的砖，除气动门外闭合的门。</p>
+<p>&emsp;&emsp;&emsp;&emsp;“真空”格不导热。</p>
+<p>&emsp;&emsp;②“除了以格存在的建筑”与其模型所在范围内的“格”发生热交换。</p>
+<p>&emsp;&emsp;&emsp;&emsp;也就是除了①以外的建筑。此类建筑相互之间无法发生热交换，因为相互之间不存在接触。</p>
+<p>&emsp;&emsp;③“杂物”与所在“格”和下方“格”发生热交换。</p>
+<p>&emsp;&emsp;&emsp;&emsp;杂物：碎片、液体瓶、气体瓶。（包括轨道上的碎片）</p>
+<ul>
+<li>特例：</li>
+</ul>
+<p>&emsp;&emsp;散热板，虽然是一格建筑，但热交换相当于3×3建筑，属于第②类。（在热交换中可以看作等同于煤炭发电机，质量和范围相同，如果材料也相同就真一模一样。）</p>
+<p>&emsp;&emsp;透气砖、透水砖、气动门、开启的门，只会与其内部的物质发生热交换，相当于第②类。</p>
+<p>—————下面了解即可—————</p>
+<ul>
+<li>“建筑内容物”与“放置建筑蓝图时，鼠标指着建筑模型的那格”及下方一格。</li>
+</ul>
+<p>&emsp;&emsp;若建筑有多种不同的内容物，内容物之间无法直接发生热交换。</p>
+<ul>
+<li><p>管道与其内容物。</p>
+</li>
+<li><p>“复制人下半身”与“格”。</p>
+</li>
+<li><p>往上生长的植物的热交换发生在其模型最下方一格。</p>
+</li>
+</ul>
+<p>&emsp;&emsp;沙盐藤和火椒藤的热交换发生在其模型最上方一格和最上方的下方一格。</p>
+<p>&emsp;&emsp;释气草的热交换发生在地基、模型最下方一格和模型最上方一格。</p>
+<ul>
+<li>动物，模型自身一格及模型下方一格（螃蟹模型为下半身、壁虎模型为头部）。</li>
+</ul>
+<p>&emsp;&emsp;释气海牛为尾部下半身一格及尾部下半身下方一格。</p>
+<ul>
+<li>特例：</li>
+</ul>
+<p>&emsp;&emsp;蒸汽机，能与模型所在范围内的格和地基的格发生热交换。</p>
+<h2 id="2-8-热学补充"><a href="#2-8-热学补充" class="headerlink" title="2.8 热学补充*"></a>2.8 热学补充*</h2><h3 id="2-8-1-热扩散率"><a href="#2-8-1-热扩散率" class="headerlink" title="2.8.1 热扩散率"></a>2.8.1 热扩散率</h3><p>&emsp;&emsp;在缺氧中热扩散系数只是作为不同物品比较温度变化快慢的参考值，需要基于一样的热传导公式才有意义，即隔热砖对比隔热砖、普通砖块对比普通砖块、碎片对比碎片……</p>
+<p>&emsp;&emsp;热扩散率表示物体在加热或冷却中，温度趋于均匀一致的能力；表示物体增温快慢的物理量。</p>
+<p>&emsp;&emsp;热扩散率公式：</p>
+<p>&emsp;&emsp;&emsp;&emsp;热扩散系数=导热率/(密度×比热容）</p>
+<p>&emsp;&emsp;&emsp;&emsp;α=λ/(ρc)</p>
+<p>&emsp;&emsp;为方便计算可设一格为1m<sup>3</sup>，密度的数值就等于质量，故不看单位只看数值的情况下，</p>
+<p>&emsp;&emsp;热扩散系数=导热率/(一格的质量×比热容）。</p>
+<p>&emsp;&emsp;应用实例：</p>
+<p>&emsp;&emsp;分别以火成岩和黑曜石做“砖块”，分别对这两砖块施加恒定的热源。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>导热率</th>
+<th>比热容</th>
+<th>密度（质量/1m3）</th>
+<th>热扩散率</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>火成岩</td>
+<td>2</td>
+<td>1</td>
+<td>200</td>
+<td>0.01</td>
+</tr>
+<tr>
+<td>黑曜石</td>
+<td>2</td>
+<td>0.2</td>
+<td>200</td>
+<td>0.05</td>
+</tr>
+</tbody></table>
+<p>&emsp;&emsp;因热扩散率 黑曜石＞火成岩，所以黑曜石砖块比火成岩砖块升温更快。</p>
+<p><strong>参考文献</strong></p>
+<p>[1] nlr84jwo205.缺氧热交换精简版，养殖2.百度贴吧缺氧吧.2018-05-31.</p>
+<p>贴子没有附上链接，是因为年代较为久远，怕挖坟的人打扰到作者，有需要的可自行百度，切记不要挖坟！（挖坟，指对老旧的贴子进行回复，导致旧贴重新被顶上列表的前列）</p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>3 百科</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>房间</title>
+    <url>/archives/%E6%88%BF%E9%97%B4.html</url>
+    <content><![CDATA[<h1 id="1-房间的作用与形成"><a href="#1-房间的作用与形成" class="headerlink" title="1 房间的作用与形成"></a>1 房间的作用与形成</h1><p>&emsp;&emsp;房间的作用：<strong>加士气，实现相应的功能。</strong></p>
+<p>&emsp;&emsp;形成房间的基本要求是<strong>用实体方块围成一个密闭的空间</strong>。(实体方块：天然方块、人造砖、门。)</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/1%E6%88%BF%E9%97%B4.png?imageMogr2/format/webp" alt="1房间"></p>
+<p>&emsp;&emsp;打开房间视图（快捷键：F11）</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/1房间视图.png?imageMogr2/format/webp" style="zoom: 67%;" />
+
+
+
+<p>&emsp;&emsp;可以看到，上面的房间属于“杂间”，也就是最基本的、没有任何效果的房间。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/1房间视图1.png?imageMogr2/format/webp" style="zoom: 80%;" />
+
+
+<h1 id="2-功能房间的介绍与形成"><a href="#2-功能房间的介绍与形成" class="headerlink" title="2 功能房间的介绍与形成"></a>2 功能房间的介绍与形成</h1><p>&emsp;&emsp;形成具有特定功能的房间还需要达到一些要求，如房间大小、特定的建筑……</p>
+<p>&emsp;&emsp;房间的详细信息请自行把鼠标移到“房间视图”对应的房间查看，本文不作赘述。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E5%85%AC%E5%85%B1%E5%8E%95%E6%89%80.png?imageMogr2/format/webp" alt="21公共厕所"></p>
+<h2 id="2-1-常用的士气房间"><a href="#2-1-常用的士气房间" class="headerlink" title="2.1 常用的士气房间"></a>2.1 常用的士气房间</h2><p>&emsp;&emsp;下文对常用的房间做介绍，介绍其形成要点，以及实用摆法。</p>
+<p>&emsp;&emsp;本文标准房间大小为 长×高 = 16×4。部分房间要求“无工业机械”，工业机械见文章末附表。</p>
+<h3 id="公共厕所"><a href="#公共厕所" class="headerlink" title="公共厕所"></a>公共厕所</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E5%85%AC%E5%85%B1%E5%8E%95%E6%89%801.png?imageMogr2/format/webp" alt="21公共厕所1"></p>
+<p>&emsp;&emsp;洗手盆设置方向，指向出口，只在出去时洗手。这样避免带菌复制人上厕所时洗手一次，出去又洗一次。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E6%B4%97%E6%89%8B%E7%9B%98%E8%AE%BE%E7%BD%AE%E6%96%B9%E5%90%91.png?imageMogr2/format/webp" alt="21洗手盘设置方向"></p>
+<p>&emsp;&emsp;把门打开，方便进出。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E6%89%93%E5%BC%80%E9%97%A8.png?imageMogr2/format/webp" alt="21打开门"></p>
+<h3 id="营房"><a href="#营房" class="headerlink" title="营房"></a>营房</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/22%E8%90%A5%E6%88%BF.png?imageMogr2/format/webp" alt="22营房"></p>
+<p>&emsp;&emsp;可以把门打开，方便进出。(借用厕所的图，懒得截图)</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E6%89%93%E5%BC%80%E9%97%A8.png?imageMogr2/format/webp" alt="21打开门"></p>
+<p>&emsp;&emsp;如果把门打开，到处乱飞的<strong>“发光虫</strong>会飞进房间里，<strong>打扰小人睡觉</strong>。（可以把发光虫都宰掉//发光虫协会表示谴责）</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/22%E8%90%A5%E6%88%BF%E6%9D%80%E5%8F%91%E5%85%89%E8%99%AB.png?imageMogr2/format/webp" alt="22营房杀发光虫"></p>
+<h3 id="高档餐厅"><a href="#高档餐厅" class="headerlink" title="高档餐厅"></a>高档餐厅</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%85.png?imageMogr2/format/webp" alt="23高档餐厅"></p>
+<p>&emsp;&emsp;需要至少一个有20以上装饰度的装饰物，比如盆栽。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%851.png?imageMogr2/format/webp" alt="23高档餐厅1"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%852.png?imageMogr2/format/webp" alt="23高档餐厅2"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;把饮水机禁用，没啥用，浪费水。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%85%E7%A6%81%E7%94%A8%E9%A5%AE%E6%B0%B4%E6%9C%BA.png?imageMogr2/format/webp" alt="23高档餐厅禁用饮水机"></p>
+<h3 id="卫生间"><a href="#卫生间" class="headerlink" title="卫生间"></a>卫生间</h3><p>&emsp;&emsp;如果要建卫生间，就参考建<a href="https://410091174.github.io/archives/79f5cd92" target="_blank">自循环厕所</a>。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/1/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80.jpg?imageMogr2/format/webp" alt="自循环厕所"></p>
+<p>&emsp;&emsp;</p>
+<h3 id="卧室"><a href="#卧室" class="headerlink" title="卧室"></a>卧室</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/24%E5%8D%A7%E5%AE%A4.png?imageMogr2/format/webp" alt="24卧室"></p>
+<ul>
+<li>房间需要至少4格高</li>
+</ul>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/24%E5%8D%A7%E5%AE%A41.png?imageMogr2/format/webp" alt="24卧室1"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/24%E5%8D%A7%E5%AE%A42.png?imageMogr2/format/webp" alt="24卧室2"></p>
+<p>&emsp;&emsp;</p>
+<h3 id="自然保护区"><a href="#自然保护区" class="headerlink" title="自然保护区"></a>自然保护区</h3><h4 id="（1）自然保护区介绍"><a href="#（1）自然保护区介绍" class="headerlink" title="（1）自然保护区介绍"></a>（1）自然保护区介绍</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/25%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA.png?imageMogr2/format/webp" alt="25自然保护区"></p>
+<p>&emsp;&emsp;自然保护区的难点是需要<strong>4株野生植物</strong>，同时保证所有复制人每天经过自然保护区。</p>
+<p>&emsp;&emsp;野生植物的来源有二：</p>
+<p>&emsp;&emsp;（1）利用开局就有的野生植物，比较方便，但因植物随机分布更考验玩家的灵活变通。</p>
+<p>&emsp;&emsp;（2）用<strong>树鼠</strong>种植野生植物，比较麻烦，但可以把野生植物种在自己想要的位置。</p>
+<p>&emsp;&emsp;下文着重叙述这两种方法，同时给出多种规划自然保护区的方法，以供读者参考。</p>
+<h4 id="2-利用开局的野生植物"><a href="#2-利用开局的野生植物" class="headerlink" title="(2)利用开局的野生植物"></a>(2)利用开局的野生植物</h4><p>&emsp;&emsp;因为野生植物随机分布在各处，所以居住区布局需要向自然保护区妥协，即先设计好自然保护区在何处，再设计其他房间的位置。</p>
+<p>&emsp;&emsp;那么，自然保护区的位置就比较灵活多变了，比如在楼梯、生活房间的出入口、食物储藏间、太空服走廊……当然，合适的位置肯定不止这些，下文介绍一些比较方便的方法，至于其他的编者懒得想也懒得写，读者们自行发挥啦。</p>
+<p>&emsp;&emsp;</p>
+<p><strong>楼梯型</strong>：</p>
+<p>&emsp;&emsp;把自然保护区建在楼梯间，把厕所、餐厅、卧室其中之一的门口对着楼梯（自然保护区），以此保证自然保护区是必经之路。</p>
+<p>&emsp;&emsp;适用于野生植物在楼梯附近，或在野生植物附近建楼梯。</p>
+<table>
+    <tr>
+    <td>图例</td>
+    <td>实操</td>
+    </tr>
+    <td> 下图给出野生植物可以在哪些位置。</td>
+    <td> 实际上野生植物位置一般会扎堆，如下图的最底部。</td>
+     </tr>
+    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2楼梯型.png?imageMogr2/format/webp" style="zoom:80%;" /></td>
+    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2楼梯实例.png?imageMogr2/format/webp" style="zoom:80%;" /></td>
+</table>
+
+<p>&emsp;&emsp;</p>
+<p><strong>食物储藏间型</strong>：</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2食物储藏间.png?imageMogr2/format/webp" style="zoom:67%;" />
+
+<p>&emsp;&emsp;</p>
+<p><strong>生活房间门口型</strong>：</p>
+<p>&emsp;&emsp;野生植物可能扎堆出现在玩家的规划区域之外，可以建一条“通道”把自然保护区引到规划区内。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2生活房间门口型1.png?imageMogr2/format/webp" style="zoom: 67%;" />
+
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2生活房间门口型2.png?imageMogr2/format/webp" style="zoom:80%;" />
+
+
+
+<h4 id="3-利用树鼠种野生植物"><a href="#3-利用树鼠种野生植物" class="headerlink" title="(3)利用树鼠种野生植物"></a>(3)利用树鼠种野生植物</h4><p>&emsp;&emsp;树鼠可以叼起种子种到天然方块上生成野生植物，并且玩家还能通过卡位置决定树鼠的种植位置，所以用此方法可以把野生植物种在自己想要的位置。</p>
+<p>&emsp;&emsp;不过这方法有一定的弊端：</p>
+<p>&emsp;&emsp;（1）需要先确定自然保护区的位置，想种野生植物的天然方块不能挖，留着给树鼠种植物。如果忘记留天然方块，可以人造天然方块，但比较麻烦。</p>
+<p>&emsp;&emsp;（2）砂石区开局的地图没有树鼠，要等打印仓刷出树鼠。或者星图上的行星可能有生命行星，派火箭上天拉。</p>
+<p>&emsp;&emsp;树鼠种植野生植物教学见《–》，人造天然方块见《–》。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区3.png?imageMogr2/format/webp" style="zoom: 80%;" />
+
+
+
+<h2 id="2-2-功能房间"><a href="#2-2-功能房间" class="headerlink" title="2.2 功能房间"></a>2.2 功能房间</h2><h3 id="温室"><a href="#温室" class="headerlink" title="温室"></a>温室</h3><p>&emsp;&emsp;农业站只能在温室中使用。复制人能在农业站中制作“微肥”，对温室内的植物使用微肥能增加100%的生长速度。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/3温室.png?imageMogr2/format/webp" style="zoom:80%;" />
+
+
+<h3 id="畜舍"><a href="#畜舍" class="headerlink" title="畜舍"></a>畜舍</h3><p>&emsp;&emsp;照料站只能在畜舍中使用。复制人通过照料站驯服畜舍内的动物，把野生动物变得温顺，加快动物繁殖速度。</p>
+<p>&emsp;&emsp;修建站（剪毛机器）也能形成畜舍。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/3畜舍.png?imageMogr2/format/webp" style="zoom:80%;" />
+
+
+
+<h3 id="发电厂"><a href="#发电厂" class="headerlink" title="发电厂"></a>发电厂</h3><p>&emsp;&emsp;电控站只能在发电厂中使用。复制人能在电控站制作“芯片”，对电控站内的发电机使用芯片调整可增加50%的发电量。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/3发电厂.png?imageMogr2/format/webp" style="zoom:80%;" />
+
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/3发电厂1.png?imageMogr2/format/webp" style="zoom:80%;" />
+
+<center>(电池可以放去外面)</center>
+
+
+
+<h2 id="2-3-不常用的房间"><a href="#2-3-不常用的房间" class="headerlink" title="2.3 不常用的房间"></a>2.3 不常用的房间</h2><h3 id="娱乐室"><a href="#娱乐室" class="headerlink" title="娱乐室"></a>娱乐室</h3><p>本节大量参考此文献：EWZP.<a href="https://www.bilibili.com/video/BV1R64y1t7Y6">【缺氧】娱乐室到底有啥用</a>.bilibili. 2021-06-28.</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/4娱乐室.png?imageMogr2/format/webp" style="zoom: 80%;" />
+
+<p>&emsp;&emsp;1、只要有娱乐室存在，无论娱乐建筑是否在娱乐室内，复制人都不会重复使用娱乐建筑，即娱乐建筑士气加成消失之后才会再用娱乐建筑；如果没有娱乐室，复制人每半周期用一次同一种类的娱乐建筑（浴室要等BUFF消失才可再用）。<sup>[1]</sup></p>
+<p>&emsp;&emsp;2、复制人在休息时间无事可干时，会到娱乐室内路径上有氧气的格子休息。<sup>[1]</sup></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/4%E5%A8%B1%E4%B9%90%E5%AE%A41.png?imageMogr2/format/webp" alt="4娱乐室1"></p>
+<p>&emsp;&emsp;如下图，在休息时间里，复制人一直呆在路径上有氧气的地方，即使穿着太空服也是如此。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/4%E5%A8%B1%E4%B9%90%E5%AE%A42.png?imageMogr2/format/webp" alt="4娱乐室2"></p>
+<p>&emsp;&emsp;所以可利用此功能，把娱乐室装饰搞好，让休息的复制人聚集在一起，提高复制人的装饰士气。</p>
+<p>&emsp;&emsp;之所以把娱乐室列为不常用房间，是因为在当今士气溢出的版本，没必要再用娱乐建筑，房间和食物的士气已经绰绰有余。（说个好笑事，编者从玩缺氧开始就没用过娱乐建筑，萌新时没能力用，有能力时用不上……）</p>
+<h3 id="按摩诊所"><a href="#按摩诊所" class="headerlink" title="按摩诊所"></a>按摩诊所</h3><p>&emsp;&emsp;形成条件：按摩床+装饰建筑。</p>
+<p>&emsp;&emsp;在按摩诊所里的按摩床每周期降低复制人60%压力。（按摩床每周期降低复制人30%压力，在按摩诊所内效率翻倍。）</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/4按摩诊所.png?imageMogr2/format/webp" style="zoom:67%;" />
+
+
+
+<h3 id="医院"><a href="#医院" class="headerlink" title="医院"></a>医院</h3><p>&emsp;&emsp;编者无能，不知道医院有啥用。隔离复制人隔离了个寂寞。就算没医院，医疗建筑也能用。</p>
+<p>&emsp;&emsp;在现今病菌不致命且感染率极低的版本，医疗显得作用不大，即使得病，等几周期也能自然痊愈。</p>
+<h3 id="食堂"><a href="#食堂" class="headerlink" title="食堂"></a>食堂</h3><p>&emsp;&emsp;看高档餐厅不好吗？</p>
+<h3 id="公园"><a href="#公园" class="headerlink" title="公园"></a>公园</h3><p>&emsp;&emsp;看自然保护区不香吗？</p>
+<hr>
+<h1 id="附表–工业机器"><a href="#附表–工业机器" class="headerlink" title="附表–工业机器"></a>附表–工业机器</h1><p>&emsp;&emsp;基地、食物、家具、医疗没有工业机器。</p>
+<p>&emsp;&emsp;氧气：碳素脱离器，电解器，铁锈脱氧机。</p>
+<p>&emsp;&emsp;电力：功率转变器、大功率转变器、除蒸汽涡轮机和开发者发电机以外的所有发电机。</p>
+<p>&emsp;&emsp;水管、通风：泵，过滤器。</p>
+<p>&emsp;&emsp;精炼：净水器、脱盐器、肥料合成器、藻类蒸馏器、乙醇蒸馏器、窑炉、原油精炼器、聚合物压塑器、氧石精炼炉。</p>
+<p>&emsp;&emsp;站台：剪毛站、技能涤除器、、工作台、纺织机、太空服锻造台。</p>
+<p>&emsp;&emsp;实用：矿石洗涤器。</p>
+<p>&emsp;&emsp;信号：雷达。</p>
+<p>&emsp;&emsp;运输：运输装载器、固体过滤器。</p>
+<p>&emsp;&emsp;火箭：除发射支架外都是工业机器。</p>
+<p><strong>参考文献</strong></p>
+<p>[1]EWZP.<a href="https://www.bilibili.com/video/BV1R64y1t7Y6">【缺氧】娱乐室到底有啥用</a>.bilibili. 2021-06-28.</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -1065,240 +1465,6 @@
 <p>&emsp;&emsp;根据树鼠这项能力，通过一些手法让树鼠在一片区域内有规律地种野生植物，打造一片野生植物农场。树鼠种植技术见《–》</p>
 <p>&emsp;&emsp;因为缺氧的地形不是“平整”的，可能需要人工制造天然方块，不过编者建议能利用自然天然方块最好（也就是需要玩家有意识的留地），人造天然方块非常麻烦。人造天然方块见《–》。</p>
 <p>&emsp;&emsp;（因为百科还没写御鼠术和人造天然方块，所以，咕咕咕~）</p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>3 百科</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>沙盒与debug</title>
-    <url>/archives/%E6%B2%99%E7%9B%92%E4%B8%8Edebug.html</url>
-    <content><![CDATA[<h1 id="1-沙盒与debug介绍"><a href="#1-沙盒与debug介绍" class="headerlink" title="1 沙盒与debug介绍"></a>1 沙盒与debug介绍</h1><p>&emsp;&emsp;沙盒和debug相当于调试功能，方便玩家做测试。</p>
-<p>&emsp;&emsp;沙盒模式可以让玩家方便自由地建造建筑，生成物质、动植物等等。</p>
-<p>&emsp;&emsp;debug模式也可以生成物质，不需复制人就能进行挖掘、拆除、建筑调试等操作。</p>
-<p>&emsp;&emsp;沙盒或debug打开后无法解锁steam成就。（可以读档到没开启之前，成就还是绿√）</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/%E6%88%90%E5%B0%B1%E5%A4%B1%E6%95%88.png?imageMogr2/format/webp" alt="成就失效"></p>
-<h1 id="2-沙盒"><a href="#2-沙盒" class="headerlink" title="2 沙盒"></a>2 沙盒</h1><h2 id="2-1-开启沙盒"><a href="#2-1-开启沙盒" class="headerlink" title="2.1 开启沙盒"></a>2.1 开启沙盒</h2><p>&emsp;&emsp;方法一：在选择星体时，在游戏设置里勾选开启沙盒模式。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/沙盒与debug/1开启沙盒1.png?imageMogr2/format/webp" style="zoom:80%;" />
-
-
-
-<p>&emsp;&emsp;方法二：进入游戏——按Esc键弹出菜单——选项——游戏，勾选启用沙盒工具。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/沙盒与debug/1开启沙盒2.png?imageMogr2/format/webp"  />
-
-
-
-<p>&emsp;&emsp;开启沙盒模式后会在游戏界面的<strong>左上角出现一个“沙盒”按钮</strong>，点击后游戏界面<strong>右下角出现沙盒工具</strong>。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E5%BC%80%E5%90%AF%E6%B2%99%E7%9B%923.png?imageMogr2/format/webp" alt="1开启沙盒3"></p>
-<h2 id="2-2-沙盒功能"><a href="#2-2-沙盒功能" class="headerlink" title="2.2 沙盒功能"></a>2.2 沙盒功能</h2><h3 id="1-解锁全建筑"><a href="#1-解锁全建筑" class="headerlink" title="1.解锁全建筑"></a>1.解锁全建筑</h3><p>&emsp;&emsp;开启沙盒会解锁全部建筑。</p>
-<h3 id="2-即时建造模式"><a href="#2-即时建造模式" class="headerlink" title="2.即时建造模式"></a>2.即时建造模式</h3><p>&emsp;&emsp;默认开启，建筑一放置就是建好的，不消耗材料。</p>
-<p>&emsp;&emsp;若不想建筑一放置就是建好的，可关闭即使建造模式，回到正常模式（复制人运材料建）。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8D%B3%E6%97%B6%E5%BB%BA%E9%80%A0%E6%A8%A1%E5%BC%8F.png?imageMogr2/format/webp" alt="1沙盒即时建造模式"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8D%B3%E6%97%B6%E5%BB%BA%E9%80%A0%E6%A8%A1%E5%BC%8F2.png?imageMogr2/format/webp" alt="1沙盒即时建造模式2"></p>
-<h3 id="3-沙盒功能按钮"><a href="#3-沙盒功能按钮" class="headerlink" title="3.沙盒功能按钮"></a>3.沙盒功能按钮</h3><h4 id="1-刷子"><a href="#1-刷子" class="headerlink" title="(1)刷子"></a>(1)刷子</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD1%E5%88%B7%E5%AD%90.png?imageMogr2/format/webp" alt="1沙盒功能1刷子"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD1%E5%88%B7%E5%AD%901.png?imageMogr2/format/webp" alt="1沙盒功能1刷子1"></p>
-<h4 id="2-喷枪"><a href="#2-喷枪" class="headerlink" title="(2)喷枪"></a>(2)喷枪</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD2%E5%96%B7%E6%9E%AA.png?imageMogr2/format/webp" alt="1沙盒功能2喷枪"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD2%E5%96%B7%E6%9E%AA1.png?imageMogr2/format/webp" alt="1沙盒功能2喷枪1"></p>
-<h4 id="3-填充"><a href="#3-填充" class="headerlink" title="(3)填充"></a>(3)填充</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD3%E5%A1%AB%E5%85%85.png?imageMogr2/format/webp" alt="1沙盒功能3填充"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD3%E5%A1%AB%E5%85%851.png?imageMogr2/format/webp" alt="1沙盒功能3填充1"></p>
-<h4 id="4-取样"><a href="#4-取样" class="headerlink" title="(4)取样"></a>(4)取样</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD4%E5%8F%96%E6%A0%B7.png?imageMogr2/format/webp" alt="1沙盒功能4取样"></p>
-<p>&emsp;&emsp;“取样”一个单元格，会记录下该格的物质信息，再点击刷子/喷枪/填充，物质信息就会跟取样格一样。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD4%E5%8F%96%E6%A0%B71.png?imageMogr2/format/webp" alt="1沙盒功能4取样1"></p>
-<h4 id="5-热枪"><a href="#5-热枪" class="headerlink" title="(5)热枪"></a>(5)热枪</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD5%E7%83%AD%E6%9E%AA.png?imageMogr2/format/webp" alt="1沙盒功能5热枪"></p>
-<p>&emsp;&emsp;用于升温或降温。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD5%E7%83%AD%E6%9E%AA1.png?imageMogr2/format/webp" alt="1沙盒功能1热枪1"></p>
-<h4 id="6-生成"><a href="#6-生成" class="headerlink" title="(6)生成"></a>(6)生成</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD6%E7%94%9F%E6%88%90.png?imageMogr2/format/webp" alt="1沙盒功能6生成"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD6%E7%94%9F%E6%88%901.png?imageMogr2/format/webp" alt="1沙盒功能6生成1"></p>
-<h4 id="7-清理地面"><a href="#7-清理地面" class="headerlink" title="(7)清理地面"></a>(7)清理地面</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD7%E6%B8%85%E7%90%86%E5%9C%B0%E9%9D%A2.png?imageMogr2/format/webp" alt="1沙盒功能7清理地面"></p>
-<h4 id="8-摧毁"><a href="#8-摧毁" class="headerlink" title="(8)摧毁"></a>(8)摧毁</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD8%E6%91%A7%E6%AF%81.png?imageMogr2/format/webp" alt="1沙盒功能8摧毁"></p>
-<h4 id="9-揭示"><a href="#9-揭示" class="headerlink" title="(9)揭示"></a>(9)揭示</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/1%E6%B2%99%E7%9B%92%E5%8A%9F%E8%83%BD9%E6%8F%AD%E7%A4%BA.png?imageMogr2/format/webp" alt="1沙盒功能9揭示"></p>
-<h1 id="3-debug"><a href="#3-debug" class="headerlink" title="3 debug"></a>3 debug</h1><h2 id="3-1-开启debug"><a href="#3-1-开启debug" class="headerlink" title="3.1 开启debug"></a>3.1 开启debug</h2><p>&emsp;&emsp;在<code>OxygenNotIncluded</code>（或者<code>OxygenNotIncluded_Data</code>）文件夹里，新建一个命名为<code>debug_enable</code>的txt文件（记事本）。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E4%BD%8D%E7%BD%AE.png?imageMogr2/format/webp" alt="2debug位置"></p>
-<p>&emsp;&emsp;文件夹位置：</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E4%BD%8D%E7%BD%AE1.png?imageMogr2/format/webp" alt="2debug位置1"></p>
-<p>&emsp;&emsp;或者用steam浏览本地文件。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E4%BD%8D%E7%BD%AE2.png?imageMogr2/format/webp" alt="2debug位置2"></p>
-<p>&emsp;&emsp;新建debug_enable的txt文件后，游戏版本号末尾显示-D，表示装入debug。</p>
-<p>&emsp;&emsp;&emsp;装入前 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E8%A3%85%E5%85%A5%E5%89%8D.png?imageMogr2/format/webp" alt="2debug装入前"></p>
-<p>&emsp;&emsp;&emsp;装入后 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E8%A3%85%E5%85%A5%E5%90%8E.png?imageMogr2/format/webp" alt="2debug装入后"></p>
-<p>&emsp;&emsp;但装入≠使用，只有在游戏里使用debug的功能之后，成就页面才会打上红叉×。</p>
-<p> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/%E6%88%90%E5%B0%B1%E5%A4%B1%E6%95%88.png?imageMogr2/format/webp" alt="成就失效"></p>
-<p>&emsp;&emsp;</p>
-<h2 id="3-2-debug功能"><a href="#3-2-debug功能" class="headerlink" title="3.2 debug功能"></a>3.2 debug功能</h2><h3 id="（1）backspace"><a href="#（1）backspace" class="headerlink" title="（1）backspace"></a>（1）backspace</h3><p>&emsp;&emsp;按下键盘backspace（退格键（删除键），回车建上面的上面那个）</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E7%9A%84backspace.png?imageMogr2/format/webp" alt="2debug的backspace"></p>
-<p>&emsp;&emsp;格子打印器的打印和填充实际上是“覆盖”，若元素、质量、温度…的√取消掉，即该项为空，进行覆盖时，空项信息不覆盖，即空项还是该单元格原本的信息。</p>
-<p>&emsp;&emsp;如：质量取消，元素选“水”，往100kg的泥土打印，则100kg的泥土变成100kg的水。<br>&emsp;&emsp;&emsp;&emsp;元素取消，质量1kg，往100kg的水打印，则100kg的水变成1kg的水。</p>
-<p>&emsp;&emsp;模板存放的位置<code>OxygenNotIncluded\OxygenNotIncluded_Data\StreamingAssets\templates</code></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B2%99%E7%9B%92%E4%B8%8Edebug/2debug%E6%A8%A1%E6%9D%BF%E5%AD%98%E6%94%BE%E7%9A%84%E4%BD%8D%E7%BD%AE.png?imageMogr2/format/webp" alt="2debug模板存放的位置"></p>
-<h3 id="（2）ctrl-f4"><a href="#（2）ctrl-f4" class="headerlink" title="（2）ctrl+f4"></a>（2）ctrl+f4</h3><p>&emsp;&emsp;注意！在一个存档内开启此功能后，即使切换存档，该功能也还处于开启状态，需要手动关闭。重启缺氧也能关闭。</p>
-<p>&emsp;&emsp;小心在测试档用该功能做完实验，忘记关闭，切换回生存档之后成就页面打了个×。（可以读档到没开启之前，成就还是绿√）</p>
-<p>&emsp;&emsp;ctrl+f4功能：</p>
-<p>&emsp;&emsp;（1）解锁全建筑，开启即时建造模式（且无法关闭即时建造）。</p>
-<p>&emsp;&emsp;&emsp;即时建造模式：建筑一放置就是建好的，不消耗材料。</p>
-<p>&emsp;&emsp;（2）挖掘、拆除、擦拭、取出管道内容物，框选完直接完成，不需要复制人。挖掘、拆除、取出管道内容物会掉落材料。擦拭不掉落瓶装液体，液体直接消失。</p>
-<p>&emsp;&emsp;（3）对建筑的调整也是直接完成，不需要复制人。</p>
-<p>&emsp;&emsp;（4）解锁右上角管理栏的技能、研究、星图，无需相应设施也可点开。复制人学习技能不需技能点，研究（科学研究、地址分析、星图分析）即点即完成，火箭发射无需装填燃料，一点就发射。</p>
-<h3 id="（3）十-五倍速，alt-z-ctrl-u"><a href="#（3）十-五倍速，alt-z-ctrl-u" class="headerlink" title="（3）十/五倍速，alt+z / ctrl+u"></a>（3）十/五倍速，alt+z / ctrl+u</h3><p>&emsp;&emsp;alt+z 把“快速”的3倍速换成10倍速。</p>
-<p>&emsp;&emsp;ctrl+u 开启5倍速。</p>
-<h3 id="（4）把选中的东西移动到鼠标位置，alt-q"><a href="#（4）把选中的东西移动到鼠标位置，alt-q" class="headerlink" title="（4）把选中的东西移动到鼠标位置，alt+q"></a>（4）把选中的东西移动到鼠标位置，alt+q</h3><p>&emsp;&emsp;如标题，略。</p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>3 百科</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>房间</title>
-    <url>/archives/%E6%88%BF%E9%97%B4.html</url>
-    <content><![CDATA[<h1 id="1-房间的作用与形成"><a href="#1-房间的作用与形成" class="headerlink" title="1 房间的作用与形成"></a>1 房间的作用与形成</h1><p>&emsp;&emsp;房间的作用：<strong>加士气，实现相应的功能。</strong></p>
-<p>&emsp;&emsp;形成房间的基本要求是<strong>用实体方块围成一个密闭的空间</strong>。(实体方块：天然方块、人造砖、门。)</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/1%E6%88%BF%E9%97%B4.png?imageMogr2/format/webp" alt="1房间"></p>
-<p>&emsp;&emsp;打开房间视图（快捷键：F11）</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/1房间视图.png?imageMogr2/format/webp" style="zoom: 67%;" />
-
-
-
-<p>&emsp;&emsp;可以看到，上面的房间属于“杂间”，也就是最基本的、没有任何效果的房间。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/1房间视图1.png?imageMogr2/format/webp" style="zoom: 80%;" />
-
-
-<h1 id="2-功能房间的介绍与形成"><a href="#2-功能房间的介绍与形成" class="headerlink" title="2 功能房间的介绍与形成"></a>2 功能房间的介绍与形成</h1><p>&emsp;&emsp;形成具有特定功能的房间还需要达到一些要求，如房间大小、特定的建筑……</p>
-<p>&emsp;&emsp;房间的详细信息请自行把鼠标移到“房间视图”对应的房间查看，本文不作赘述。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E5%85%AC%E5%85%B1%E5%8E%95%E6%89%80.png?imageMogr2/format/webp" alt="21公共厕所"></p>
-<h2 id="2-1-常用的士气房间"><a href="#2-1-常用的士气房间" class="headerlink" title="2.1 常用的士气房间"></a>2.1 常用的士气房间</h2><p>&emsp;&emsp;下文对常用的房间做介绍，介绍其形成要点，以及实用摆法。</p>
-<p>&emsp;&emsp;本文标准房间大小为 长×高 = 16×4。部分房间要求“无工业机械”，工业机械见文章末附表。</p>
-<h3 id="公共厕所"><a href="#公共厕所" class="headerlink" title="公共厕所"></a>公共厕所</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E5%85%AC%E5%85%B1%E5%8E%95%E6%89%801.png?imageMogr2/format/webp" alt="21公共厕所1"></p>
-<p>&emsp;&emsp;洗手盆设置方向，指向出口，只在出去时洗手。这样避免带菌复制人上厕所时洗手一次，出去又洗一次。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E6%B4%97%E6%89%8B%E7%9B%98%E8%AE%BE%E7%BD%AE%E6%96%B9%E5%90%91.png?imageMogr2/format/webp" alt="21洗手盘设置方向"></p>
-<p>&emsp;&emsp;把门打开，方便进出。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E6%89%93%E5%BC%80%E9%97%A8.png?imageMogr2/format/webp" alt="21打开门"></p>
-<h3 id="营房"><a href="#营房" class="headerlink" title="营房"></a>营房</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/22%E8%90%A5%E6%88%BF.png?imageMogr2/format/webp" alt="22营房"></p>
-<p>&emsp;&emsp;可以把门打开，方便进出。(借用厕所的图，懒得截图)</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/21%E6%89%93%E5%BC%80%E9%97%A8.png?imageMogr2/format/webp" alt="21打开门"></p>
-<p>&emsp;&emsp;如果把门打开，到处乱飞的<strong>“发光虫</strong>会飞进房间里，<strong>打扰小人睡觉</strong>。（可以把发光虫都宰掉//发光虫协会表示谴责）</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/22%E8%90%A5%E6%88%BF%E6%9D%80%E5%8F%91%E5%85%89%E8%99%AB.png?imageMogr2/format/webp" alt="22营房杀发光虫"></p>
-<h3 id="高档餐厅"><a href="#高档餐厅" class="headerlink" title="高档餐厅"></a>高档餐厅</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%85.png?imageMogr2/format/webp" alt="23高档餐厅"></p>
-<p>&emsp;&emsp;需要至少一个有20以上装饰度的装饰物，比如盆栽。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%851.png?imageMogr2/format/webp" alt="23高档餐厅1"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%852.png?imageMogr2/format/webp" alt="23高档餐厅2"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;把饮水机禁用，没啥用，浪费水。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%85%E7%A6%81%E7%94%A8%E9%A5%AE%E6%B0%B4%E6%9C%BA.png?imageMogr2/format/webp" alt="23高档餐厅禁用饮水机"></p>
-<h3 id="卫生间"><a href="#卫生间" class="headerlink" title="卫生间"></a>卫生间</h3><p>&emsp;&emsp;如果要建卫生间，就参考建<a href="https://410091174.github.io/archives/79f5cd92" target="_blank">自循环厕所</a>。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/1/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80.jpg?imageMogr2/format/webp" alt="自循环厕所"></p>
-<p>&emsp;&emsp;</p>
-<h3 id="卧室"><a href="#卧室" class="headerlink" title="卧室"></a>卧室</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/24%E5%8D%A7%E5%AE%A4.png?imageMogr2/format/webp" alt="24卧室"></p>
-<ul>
-<li>房间需要至少4格高</li>
-</ul>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/24%E5%8D%A7%E5%AE%A41.png?imageMogr2/format/webp" alt="24卧室1"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/24%E5%8D%A7%E5%AE%A42.png?imageMogr2/format/webp" alt="24卧室2"></p>
-<p>&emsp;&emsp;</p>
-<h3 id="自然保护区"><a href="#自然保护区" class="headerlink" title="自然保护区"></a>自然保护区</h3><h4 id="（1）自然保护区介绍"><a href="#（1）自然保护区介绍" class="headerlink" title="（1）自然保护区介绍"></a>（1）自然保护区介绍</h4><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/25%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA.png?imageMogr2/format/webp" alt="25自然保护区"></p>
-<p>&emsp;&emsp;自然保护区的难点是需要<strong>4株野生植物</strong>，同时保证所有复制人每天经过自然保护区。</p>
-<p>&emsp;&emsp;野生植物的来源有二：</p>
-<p>&emsp;&emsp;（1）利用开局就有的野生植物，比较方便，但因植物随机分布更考验玩家的灵活变通。</p>
-<p>&emsp;&emsp;（2）用<strong>树鼠</strong>种植野生植物，比较麻烦，但可以把野生植物种在自己想要的位置。</p>
-<p>&emsp;&emsp;下文着重叙述这两种方法，同时给出多种规划自然保护区的方法，以供读者参考。</p>
-<h4 id="2-利用开局的野生植物"><a href="#2-利用开局的野生植物" class="headerlink" title="(2)利用开局的野生植物"></a>(2)利用开局的野生植物</h4><p>&emsp;&emsp;因为野生植物随机分布在各处，所以居住区布局需要向自然保护区妥协，即先设计好自然保护区在何处，再设计其他房间的位置。</p>
-<p>&emsp;&emsp;那么，自然保护区的位置就比较灵活多变了，比如在楼梯、生活房间的出入口、食物储藏间、太空服走廊……当然，合适的位置肯定不止这些，下文介绍一些比较方便的方法，至于其他的编者懒得想也懒得写，读者们自行发挥啦。</p>
-<p>&emsp;&emsp;</p>
-<p><strong>楼梯型</strong>：</p>
-<p>&emsp;&emsp;把自然保护区建在楼梯间，把厕所、餐厅、卧室其中之一的门口对着楼梯（自然保护区），以此保证自然保护区是必经之路。</p>
-<p>&emsp;&emsp;适用于野生植物在楼梯附近，或在野生植物附近建楼梯。</p>
-<table>
-    <tr>
-    <td>图例</td>
-    <td>实操</td>
-    </tr>
-    <td> 下图给出野生植物可以在哪些位置。</td>
-    <td> 实际上野生植物位置一般会扎堆，如下图的最底部。</td>
-     </tr>
-    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2楼梯型.png?imageMogr2/format/webp" style="zoom:80%;" /></td>
-    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2楼梯实例.png?imageMogr2/format/webp" style="zoom:80%;" /></td>
-</table>
-
-<p>&emsp;&emsp;</p>
-<p><strong>食物储藏间型</strong>：</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2食物储藏间.png?imageMogr2/format/webp" style="zoom:67%;" />
-
-<p>&emsp;&emsp;</p>
-<p><strong>生活房间门口型</strong>：</p>
-<p>&emsp;&emsp;野生植物可能扎堆出现在玩家的规划区域之外，可以建一条“通道”把自然保护区引到规划区内。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2生活房间门口型1.png?imageMogr2/format/webp" style="zoom: 67%;" />
-
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区2生活房间门口型2.png?imageMogr2/format/webp" style="zoom:80%;" />
-
-
-
-<h4 id="3-利用树鼠种野生植物"><a href="#3-利用树鼠种野生植物" class="headerlink" title="(3)利用树鼠种野生植物"></a>(3)利用树鼠种野生植物</h4><p>&emsp;&emsp;树鼠可以叼起种子种到天然方块上生成野生植物，并且玩家还能通过卡位置决定树鼠的种植位置，所以用此方法可以把野生植物种在自己想要的位置。</p>
-<p>&emsp;&emsp;不过这方法有一定的弊端：</p>
-<p>&emsp;&emsp;（1）需要先确定自然保护区的位置，想种野生植物的天然方块不能挖，留着给树鼠种植物。如果忘记留天然方块，可以人造天然方块，但比较麻烦。</p>
-<p>&emsp;&emsp;（2）砂石区开局的地图没有树鼠，要等打印仓刷出树鼠。或者星图上的行星可能有生命行星，派火箭上天拉。</p>
-<p>&emsp;&emsp;树鼠种植野生植物教学见《–》，人造天然方块见《–》。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/25自然保护区3.png?imageMogr2/format/webp" style="zoom: 80%;" />
-
-
-
-<h2 id="2-2-功能房间"><a href="#2-2-功能房间" class="headerlink" title="2.2 功能房间"></a>2.2 功能房间</h2><h3 id="温室"><a href="#温室" class="headerlink" title="温室"></a>温室</h3><p>&emsp;&emsp;农业站只能在温室中使用。复制人能在农业站中制作“微肥”，对温室内的植物使用微肥能增加100%的生长速度。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/3温室.png?imageMogr2/format/webp" style="zoom:80%;" />
-
-
-<h3 id="畜舍"><a href="#畜舍" class="headerlink" title="畜舍"></a>畜舍</h3><p>&emsp;&emsp;照料站只能在畜舍中使用。复制人通过照料站驯服畜舍内的动物，把野生动物变得温顺，加快动物繁殖速度。</p>
-<p>&emsp;&emsp;修建站（剪毛机器）也能形成畜舍。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/3畜舍.png?imageMogr2/format/webp" style="zoom:80%;" />
-
-
-
-<h3 id="发电厂"><a href="#发电厂" class="headerlink" title="发电厂"></a>发电厂</h3><p>&emsp;&emsp;电控站只能在发电厂中使用。复制人能在电控站制作“芯片”，对电控站内的发电机使用芯片调整可增加50%的发电量。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/3发电厂.png?imageMogr2/format/webp" style="zoom:80%;" />
-
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/3发电厂1.png?imageMogr2/format/webp" style="zoom:80%;" />
-
-<center>(电池可以放去外面)</center>
-
-
-
-<h2 id="2-3-不常用的房间"><a href="#2-3-不常用的房间" class="headerlink" title="2.3 不常用的房间"></a>2.3 不常用的房间</h2><h3 id="娱乐室"><a href="#娱乐室" class="headerlink" title="娱乐室"></a>娱乐室</h3><p>本节大量参考此文献：EWZP.<a href="https://www.bilibili.com/video/BV1R64y1t7Y6">【缺氧】娱乐室到底有啥用</a>.bilibili. 2021-06-28.</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/4娱乐室.png?imageMogr2/format/webp" style="zoom: 80%;" />
-
-<p>&emsp;&emsp;1、只要有娱乐室存在，无论娱乐建筑是否在娱乐室内，复制人都不会重复使用娱乐建筑，即娱乐建筑士气加成消失之后才会再用娱乐建筑；如果没有娱乐室，复制人每半周期用一次同一种类的娱乐建筑（浴室要等BUFF消失才可再用）。<sup>[1]</sup></p>
-<p>&emsp;&emsp;2、复制人在休息时间无事可干时，会到娱乐室内路径上有氧气的格子休息。<sup>[1]</sup></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/4%E5%A8%B1%E4%B9%90%E5%AE%A41.png?imageMogr2/format/webp" alt="4娱乐室1"></p>
-<p>&emsp;&emsp;如下图，在休息时间里，复制人一直呆在路径上有氧气的地方，即使穿着太空服也是如此。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/4%E5%A8%B1%E4%B9%90%E5%AE%A42.png?imageMogr2/format/webp" alt="4娱乐室2"></p>
-<p>&emsp;&emsp;所以可利用此功能，把娱乐室装饰搞好，让休息的复制人聚集在一起，提高复制人的装饰士气。</p>
-<p>&emsp;&emsp;之所以把娱乐室列为不常用房间，是因为在当今士气溢出的版本，没必要再用娱乐建筑，房间和食物的士气已经绰绰有余。（说个好笑事，编者从玩缺氧开始就没用过娱乐建筑，萌新时没能力用，有能力时用不上……）</p>
-<h3 id="按摩诊所"><a href="#按摩诊所" class="headerlink" title="按摩诊所"></a>按摩诊所</h3><p>&emsp;&emsp;形成条件：按摩床+装饰建筑。</p>
-<p>&emsp;&emsp;在按摩诊所里的按摩床每周期降低复制人60%压力。（按摩床每周期降低复制人30%压力，在按摩诊所内效率翻倍。）</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/4按摩诊所.png?imageMogr2/format/webp" style="zoom:67%;" />
-
-
-
-<h3 id="医院"><a href="#医院" class="headerlink" title="医院"></a>医院</h3><p>&emsp;&emsp;编者无能，不知道医院有啥用。隔离复制人隔离了个寂寞。就算没医院，医疗建筑也能用。</p>
-<p>&emsp;&emsp;在现今病菌不致命且感染率极低的版本，医疗显得作用不大，即使得病，等几周期也能自然痊愈。</p>
-<h3 id="食堂"><a href="#食堂" class="headerlink" title="食堂"></a>食堂</h3><p>&emsp;&emsp;看高档餐厅不好吗？</p>
-<h3 id="公园"><a href="#公园" class="headerlink" title="公园"></a>公园</h3><p>&emsp;&emsp;看自然保护区不香吗？</p>
-<hr>
-<h1 id="附表–工业机器"><a href="#附表–工业机器" class="headerlink" title="附表–工业机器"></a>附表–工业机器</h1><p>&emsp;&emsp;基地、食物、家具、医疗没有工业机器。</p>
-<p>&emsp;&emsp;氧气：碳素脱离器，电解器，铁锈脱氧机。</p>
-<p>&emsp;&emsp;电力：功率转变器、大功率转变器、除蒸汽涡轮机和开发者发电机以外的所有发电机。</p>
-<p>&emsp;&emsp;水管、通风：泵，过滤器。</p>
-<p>&emsp;&emsp;精炼：净水器、脱盐器、肥料合成器、藻类蒸馏器、乙醇蒸馏器、窑炉、原油精炼器、聚合物压塑器、氧石精炼炉。</p>
-<p>&emsp;&emsp;站台：剪毛站、技能涤除器、、工作台、纺织机、太空服锻造台。</p>
-<p>&emsp;&emsp;实用：矿石洗涤器。</p>
-<p>&emsp;&emsp;信号：雷达。</p>
-<p>&emsp;&emsp;运输：运输装载器、固体过滤器。</p>
-<p>&emsp;&emsp;火箭：除发射支架外都是工业机器。</p>
-<p><strong>参考文献</strong></p>
-<p>[1]EWZP.<a href="https://www.bilibili.com/video/BV1R64y1t7Y6">【缺氧】娱乐室到底有啥用</a>.bilibili. 2021-06-28.</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -1519,114 +1685,40 @@
       </tags>
   </entry>
   <entry>
-    <title>温度和热学概述（未完成）</title>
-    <url>/archives/78f15731.html</url>
-    <content><![CDATA[<h1 id="1-温度系统"><a href="#1-温度系统" class="headerlink" title="1 温度系统"></a>1 温度系统</h1><p>&emsp;&emsp;<strong>温度视图（快捷键：F3）</strong>，直观显示地图中温度的冷热情况。</p>
-<p>&emsp;&emsp;在温度视图下可以看到，不同的温度呈现不同的的颜色。温度越高越红，越低越蓝。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/3%E6%B8%A9%E5%BA%A6%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="3温度视图.png"></p>
-<p>&emsp;&emsp;一般来说，温度是否合适，是以玩家在种的农作物的生长温度为准，也就是说，只要农作物没因温度过高或过低而枯萎，就属于正常温度。</p>
-<p>&emsp;&emsp;温度最主要的负面作用有三点：</p>
-<p>&emsp;&emsp;（1）影响植物的生长，而食物是游戏里的重中之重，所以，特别是前期，基本是为了种菜才关注温度，比如米虱木，生长温度是10~30℃，那么就要保证基地或农场的温度在这个范围内。举个特别的例子，水草，存活温度高达70℃，编者玩干热地图时，基地里40℃都当没看见，因为温度对复制人有致命影响的，就是农作物（食物）。</p>
-<p>&emsp;&emsp;（2）建筑过热。见《–》。</p>
-<p>&emsp;&emsp;（3）如果温度太高，复制人会因“环境过热”而增加压力，当温度达到约100℃以上时，复制人会烫伤。温度低，复制人会因“环境过冷”而增加压力。</p>
-<h1 id="2-热学"><a href="#2-热学" class="headerlink" title="2 热学"></a>2 热学</h1><p>&emsp;&emsp;缺氧的热学是能量不守恒的，热能能凭空产生，也能凭空消失。本章的热学仅是游戏内容，与现实完全没有联系！</p>
-<h2 id="2-1-比热容"><a href="#2-1-比热容" class="headerlink" title="2.1 比热容"></a>2.1 比热容</h2><p>&emsp;&emsp;比热容，是指没有相变化和化学变化时，1kg均相物质温度升高1K所需的热量。</p>
-<p>&emsp;&emsp;比热容是热力学中常用的一个物理量，表示物质提高温度所需热量的能力。它指单位质量的某种物质升高（或下降）单位温度所吸收（或放出）的热量。其国际单位制中的单位是焦耳每千克开尔文[ J / (kg*K)]，即令1KG的物质的温度上升1开尔文所需的热量。根据此定理，最基本便可得出以下公式：</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%B8%A9%E5%BA%A6%E5%92%8C%E7%83%AD%E5%AD%A6%E6%A6%82%E8%BF%B0/2%E6%AF%94%E7%83%AD%E5%AE%B9%E5%85%AC%E5%BC%8F.png?imageMogr2/format/webp" alt="2比热容公式"></p>
-<p>&emsp;&emsp;物质的比热容越大，相同质量和温升时，需要更多热能。以水和油为例，水和油的比热容分别约为4200 J/(kg*K)和2000 J/(kg*K)，即把相同质量的水加热的热能比油多出约一倍。若以相同的热能分别把相同质量的水和油加热的话，油的温升将比水的温升大。</p>
-<h2 id="2-2-物态变化"><a href="#2-2-物态变化" class="headerlink" title="2.2 物态变化"></a>2.2 物态变化</h2><p>&emsp;&emsp;缺氧里物质到达一定的温度后就能从一种状态变化到另一种状态。缺氧的物态变化有四种：熔化、凝固、汽化、液化。（升华是先融化再汽化，凝华是先液化再凝固）。</p>
-<p>&emsp;&emsp;例如：蒸汽 &gt; 100℃ &gt; 水 &gt; 0℃ &gt; 冰</p>
-<h2 id="2-3-化学变化"><a href="#2-3-化学变化" class="headerlink" title="2.3 化学变化"></a>2.3 化学变化</h2><p>&emsp;&emsp;缺氧里的化学变化只需一种物质到达一定的温度就能发生。（且只能是一种物质，游戏设定是一格只有一种物质，不存在混合物，所有物质都是纯净物）</p>
-<p>&emsp;&emsp;例如：原油→ 400℃ →石油→ 539℃ →酸性天然气→&ensp;－161.5℃ →甲烷和硫。</p>
-<p>&emsp;&emsp;物质只需温度到达临界点就能直接转变成另一种物质。</p>
-<h2 id="2-4-假汽化潜热"><a href="#2-4-假汽化潜热" class="headerlink" title="2.4 假汽化潜热"></a>2.4 假汽化潜热</h2><p>&emsp;&emsp;缺氧里的物态变化和化学变化，实际变化温度比沸点和熔点高3℃，比凝点和凝固点低3℃。</p>
-<p>&emsp;&emsp;所以《(2)物态变化》和《(3)化学变化》给的例子，实际变化温度是：</p>
-<p>&emsp;&emsp;&emsp;水→&ensp;－3℃→冰，冰→ 3℃→水。</p>
-<p>&emsp;&emsp;&emsp;原油→403℃→石油。</p>
-<h2 id="2-5-真空"><a href="#2-5-真空" class="headerlink" title="2.5 真空"></a>2.5 真空</h2><p>&emsp;&emsp;真空，不存在任何物质的空间，也就意味着不存在热，也不存在热传导。</p>
+    <title>研究</title>
+    <url>/archives/%E7%A0%94%E7%A9%B6.html</url>
+    <content><![CDATA[<h1 id="1-研究的作用"><a href="#1-研究的作用" class="headerlink" title="1 研究的作用"></a>1 研究的作用</h1><p>&emsp;&emsp;研究能<strong>解锁新建筑</strong>。</p>
+<h1 id="2-研究机器"><a href="#2-研究机器" class="headerlink" title="2 研究机器"></a>2 研究机器</h1><p>&emsp;&emsp;进行研究的机器在建造栏的<strong>站台</strong>，有研究站、超级计算机、虚拟天象仪，分别对应基础研究、高级研究、星际研究。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E5%BB%BA%E9%80%A0%E6%A0%8F%E7%AB%99%E5%8F%B0.png?imageMogr2/format/webp" alt="建造栏站台"></p>
+<p>&emsp;&emsp;研究站开局自带，超级计算机和虚拟天象仪需要研究相应的科技才能解锁。</p>
 <table>
-    <tr>
-    <td>&emsp;&emsp;真空一般用于隔热。(缺氧无热辐射)<br/>&emsp;&emsp;右图中，左边是0℃的气体，右边是100℃的气体，中间真空，相当于左右两边的气体没有接触，温度不会发生交换，各自的温度能永远维持下去。</td>
-    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/温度和热学概述/2真空.gif?imageMogr2/format/webp" alt="2真空"  /></td></tr>
+<tr>
+    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/研究/研究站.png?imageMogr2/format/webp"  /></td>
+    <td>研究站（基础研究），开局自带，初期研究设备。 每生成一个基础研究点消耗50kg泥土。</td>
+</tr>
+<tr>
+    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/研究/超级计算机.png?imageMogr2/format/webp"  /></td>
+    <td>超级计算机（高级研究），研究“高级研究”解锁。 复制人学习“改良研究”技能（1级研究）才能使用。 每生成一个高级研究点消耗50kg水。</td>
+</tr>
+<tr>
+    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/研究/虚拟天象仪.png?imageMogr2/format/webp"  /></td>
+    <td>虚拟天象仪（星际研究），研究“信息处理”解锁。 复制人学习“天文学”技能（3级研究）才能使用。 每生成一个星际研究点消耗1单位数据磁盘。</td>
+</tr>
 </table>
 
 
 
-<h2 id="2-6-导热率"><a href="#2-6-导热率" class="headerlink" title="2.6 导热率"></a>2.6 导热率</h2><p>&emsp;&emsp;导热率，是表示材料<a href="https://baike.baidu.com/item/%E7%83%AD%E4%BC%A0%E5%AF%BC/6319918">热传导</a>能力大小的物理量，单位w/(m·K)。导热率越高传递热量越快，导热率越低传递热量速度越慢。</p>
-<p>&emsp;&emsp;导热率K是材料本身的固有性能参数，用于描述材料的导热能力。这个特性跟材料本身的大小、形状、厚度都是没有关系的，只是跟材料本身的成分有关系。所以同类材料的导热率都是一样的，并不会因为厚度不一样而变化。</p>
-<h2 id="2-7-发生热交换的接触位置"><a href="#2-7-发生热交换的接触位置" class="headerlink" title="2.7 发生热交换的接触位置"></a>2.7 发生热交换的接触位置</h2><p>&emsp;&emsp;①“格”与其上下左右的四个“格”发生热交换。</p>
-<p>&emsp;&emsp;&emsp;&emsp;以格存在的物品及建筑：天然方块，液体格，气体格，除透气砖、透水砖外所有的砖，除气动门外闭合的门。</p>
-<p>&emsp;&emsp;&emsp;&emsp;“真空”格不导热。</p>
-<p>&emsp;&emsp;②“除了以格存在的建筑”与其模型所在范围内的“格”发生热交换。</p>
-<p>&emsp;&emsp;&emsp;&emsp;也就是除了①以外的建筑。此类建筑相互之间无法发生热交换，因为相互之间不存在接触。</p>
-<p>&emsp;&emsp;③“杂物”与所在“格”和下方“格”发生热交换。</p>
-<p>&emsp;&emsp;&emsp;&emsp;杂物：碎片、液体瓶、气体瓶。（包括轨道上的碎片）</p>
-<ul>
-<li>特例：</li>
-</ul>
-<p>&emsp;&emsp;散热板，虽然是一格建筑，但热交换相当于3×3建筑，属于第②类。（在热交换中可以看作等同于煤炭发电机，质量和范围相同，如果材料也相同就真一模一样。）</p>
-<p>&emsp;&emsp;透气砖、透水砖、气动门、开启的门，只会与其内部的物质发生热交换，相当于第②类。</p>
-<p>—————下面了解即可—————</p>
-<ul>
-<li>“建筑内容物”与“放置建筑蓝图时，鼠标指着建筑模型的那格”及下方一格。</li>
-</ul>
-<p>&emsp;&emsp;若建筑有多种不同的内容物，内容物之间无法直接发生热交换。</p>
-<ul>
-<li><p>管道与其内容物。</p>
-</li>
-<li><p>“复制人下半身”与“格”。</p>
-</li>
-<li><p>往上生长的植物的热交换发生在其模型最下方一格。</p>
-</li>
-</ul>
-<p>&emsp;&emsp;沙盐藤和火椒藤的热交换发生在其模型最上方一格和最上方的下方一格。</p>
-<p>&emsp;&emsp;释气草的热交换发生在地基、模型最下方一格和模型最上方一格。</p>
-<ul>
-<li>动物，模型自身一格及模型下方一格（螃蟹模型为下半身、壁虎模型为头部）。</li>
-</ul>
-<p>&emsp;&emsp;释气海牛为尾部下半身一格及尾部下半身下方一格。</p>
-<ul>
-<li>特例：</li>
-</ul>
-<p>&emsp;&emsp;蒸汽机，能与模型所在范围内的格和地基的格发生热交换。</p>
-<h2 id="2-8-热学补充"><a href="#2-8-热学补充" class="headerlink" title="2.8 热学补充*"></a>2.8 热学补充*</h2><h3 id="2-8-1-热扩散率"><a href="#2-8-1-热扩散率" class="headerlink" title="2.8.1 热扩散率"></a>2.8.1 热扩散率</h3><p>&emsp;&emsp;在缺氧中热扩散系数只是作为不同物品比较温度变化快慢的参考值，需要基于一样的热传导公式才有意义，即隔热砖对比隔热砖、普通砖块对比普通砖块、碎片对比碎片……</p>
-<p>&emsp;&emsp;热扩散率表示物体在加热或冷却中，温度趋于均匀一致的能力；表示物体增温快慢的物理量。</p>
-<p>&emsp;&emsp;热扩散率公式：</p>
-<p>&emsp;&emsp;&emsp;&emsp;热扩散系数=导热率/(密度×比热容）</p>
-<p>&emsp;&emsp;&emsp;&emsp;α=λ/(ρc)</p>
-<p>&emsp;&emsp;为方便计算可设一格为1m<sup>3</sup>，密度的数值就等于质量，故不看单位只看数值的情况下，</p>
-<p>&emsp;&emsp;热扩散系数=导热率/(一格的质量×比热容）。</p>
-<p>&emsp;&emsp;应用实例：</p>
-<p>&emsp;&emsp;分别以火成岩和黑曜石做“砖块”，分别对这两砖块施加恒定的热源。</p>
-<table>
-<thead>
-<tr>
-<th></th>
-<th>导热率</th>
-<th>比热容</th>
-<th>密度（质量/1m3）</th>
-<th>热扩散率</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>火成岩</td>
-<td>2</td>
-<td>1</td>
-<td>200</td>
-<td>0.01</td>
-</tr>
-<tr>
-<td>黑曜石</td>
-<td>2</td>
-<td>0.2</td>
-<td>200</td>
-<td>0.05</td>
-</tr>
-</tbody></table>
-<p>&emsp;&emsp;因热扩散率 黑曜石＞火成岩，所以黑曜石砖块比火成岩砖块升温更快。</p>
-<p><strong>参考文献</strong></p>
-<p>[1] nlr84jwo205.缺氧热交换精简版，养殖2.百度贴吧缺氧吧.2018-05-31.</p>
-<p>贴子没有附上链接，是因为年代较为久远，怕挖坟的人打扰到作者，有需要的可自行百度，切记不要挖坟！（挖坟，指对老旧的贴子进行回复，导致旧贴重新被顶上列表的前列）</p>
+<h1 id="3-研究界面与进行研究"><a href="#3-研究界面与进行研究" class="headerlink" title="3 研究界面与进行研究"></a>3 研究界面与进行研究</h1><p>&emsp;&emsp;打开研究界面的两种方式（需要建有研究机器）：</p>
+<p>&emsp;&emsp;方法一：点击右上角管理栏的“研究”。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E7%AE%A1%E7%90%86%E6%A0%8F%E7%A0%94%E7%A9%B6.png?imageMogr2/format/webp" alt="管理栏研究"></p>
+<p>&emsp;&emsp;方法二：在研究机器的信息窗口点击“研究”。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E4%BF%A1%E6%81%AF%E7%AA%97%E5%8F%A3%E7%82%B9%E5%87%BB%E7%A0%94%E7%A9%B6.png?imageMogr2/format/webp" alt="信息窗口点击研究"></p>
+<p>&emsp;&emsp;下图为研究界面。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E7%A0%94%E7%A9%B6%E7%95%8C%E9%9D%A2%E8%8A%82%E9%80%89.png?imageMogr2/format/webp" alt="研究界面节选"></p>
+<p>&emsp;&emsp;玩家需要在研究界面点击科技，复制人才会进行研究。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E8%BF%9B%E8%A1%8C%E7%A0%94%E7%A9%B6.png?imageMogr2/format/webp" alt="进行研究"></p>
+<p>&emsp;&emsp;研究进度条，从上到下为基础研究 、高级研究 、星际研究，分别需要对应的研究机器。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%BA%A6%E6%9D%A1.png?imageMogr2/format/webp" alt="研究进度条"></p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -1769,40 +1861,60 @@
       </tags>
   </entry>
   <entry>
-    <title>研究</title>
-    <url>/archives/%E7%A0%94%E7%A9%B6.html</url>
-    <content><![CDATA[<h1 id="1-研究的作用"><a href="#1-研究的作用" class="headerlink" title="1 研究的作用"></a>1 研究的作用</h1><p>&emsp;&emsp;研究能<strong>解锁新建筑</strong>。</p>
-<h1 id="2-研究机器"><a href="#2-研究机器" class="headerlink" title="2 研究机器"></a>2 研究机器</h1><p>&emsp;&emsp;进行研究的机器在建造栏的<strong>站台</strong>，有研究站、超级计算机、虚拟天象仪，分别对应基础研究、高级研究、星际研究。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E5%BB%BA%E9%80%A0%E6%A0%8F%E7%AB%99%E5%8F%B0.png?imageMogr2/format/webp" alt="建造栏站台"></p>
-<p>&emsp;&emsp;研究站开局自带，超级计算机和虚拟天象仪需要研究相应的科技才能解锁。</p>
+    <title>装饰</title>
+    <url>/archives/%E8%A3%85%E9%A5%B0.html</url>
+    <content><![CDATA[<h1 id="1-装饰概述"><a href="#1-装饰概述" class="headerlink" title="1 装饰概述"></a>1 装饰概述</h1><p>&emsp;&emsp;装饰的作用是给复制人<strong>增加或减少士气</strong>。</p>
+<p>&emsp;&emsp;搞装饰的目的是给复制人增加士气。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/1装饰1.png?imageMogr2/format/webp"  />
+
+<p>&emsp;&emsp;打开<strong>装饰视图</strong>（快捷键：F8），越绿装饰越高，红则装饰低。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/1装饰2.png?imageMogr2/format/webp"  />
+
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;装饰系统属性:</p>
+<p>&emsp;&emsp;（1）装饰度：属于建筑、杂物、动植物、服装、光照、太空工艺品…的一种属性，会对单元格散发装饰度。</p>
+<p>&emsp;&emsp;（2）环境装饰度，属于单元格的一种属性，受装饰度影响。</p>
+<p>&emsp;&emsp;（3）平均装饰度，属于复制人的一种属性，受环境装饰度影响，能增加或减少士气。</p>
+<h1 id="2-装饰度"><a href="#2-装饰度" class="headerlink" title="2 装饰度"></a>2 装饰度</h1><h2 id="2-1-装饰度来源"><a href="#2-1-装饰度来源" class="headerlink" title="2.1 装饰度来源"></a>2.1 装饰度来源</h2><p>&emsp;&emsp;装饰度属于建筑、杂物、动植物、服装、光照、太空工艺品…的一种属性，会对单元格散发装饰度。</p>
+<h2 id="2-1-装饰度的范围"><a href="#2-1-装饰度的范围" class="headerlink" title="2.1 装饰度的范围"></a>2.1 装饰度的范围</h2><p>&emsp;&emsp;装饰度范围是“自身整个物品”再向外延申“范围格数”。</p>
+<p>&emsp;&emsp;例如：</p>
 <table>
-<tr>
-    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/研究/研究站.png?imageMogr2/format/webp"  /></td>
-    <td>研究站（基础研究），开局自带，初期研究设备。 每生成一个基础研究点消耗50kg泥土。</td>
-</tr>
-<tr>
-    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/研究/超级计算机.png?imageMogr2/format/webp"  /></td>
-    <td>超级计算机（高级研究），研究“高级研究”解锁。 复制人学习“改良研究”技能（1级研究）才能使用。 每生成一个高级研究点消耗50kg水。</td>
-</tr>
-<tr>
-    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/研究/虚拟天象仪.png?imageMogr2/format/webp"  /></td>
-    <td>虚拟天象仪（星际研究），研究“信息处理”解锁。 复制人学习“天文学”技能（3级研究）才能使用。 每生成一个星际研究点消耗1单位数据磁盘。</td>
-</tr>
+    <tr>
+    <td>&emsp;&emsp;砖块装饰效果范围是1格，自身大小是1×1，所以装饰影响范围是3×3。</td>
+    </tr>
+    <tr>
+    <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围1.png?imageMogr2/format/webp"  /></td>
+    <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围2.png?imageMogr2/format/webp" style="zoom:80%;" /></td>
+    </tr>
+    <tr>   
+    <td>&emsp;&emsp;煤炭发电机装饰效果范围是3格，自身大小是3×3，所以装饰影响范围是9×9。</td>
+    </tr>
+    <tr>   
+     <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围3.png?imageMogr2/format/webp"  /></td>
+    <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围4.png?imageMogr2/format/webp" style="zoom:80%;" /></td>
+           </tr>
+    <tr>   
+             <td>&emsp;至于其他东西，可在信息窗口查看</td>
+    <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围5.png?imageMogr2/format/webp"  /></td>
+           </tr>
 </table>
 
-
-
-<h1 id="3-研究界面与进行研究"><a href="#3-研究界面与进行研究" class="headerlink" title="3 研究界面与进行研究"></a>3 研究界面与进行研究</h1><p>&emsp;&emsp;打开研究界面的两种方式（需要建有研究机器）：</p>
-<p>&emsp;&emsp;方法一：点击右上角管理栏的“研究”。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E7%AE%A1%E7%90%86%E6%A0%8F%E7%A0%94%E7%A9%B6.png?imageMogr2/format/webp" alt="管理栏研究"></p>
-<p>&emsp;&emsp;方法二：在研究机器的信息窗口点击“研究”。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E4%BF%A1%E6%81%AF%E7%AA%97%E5%8F%A3%E7%82%B9%E5%87%BB%E7%A0%94%E7%A9%B6.png?imageMogr2/format/webp" alt="信息窗口点击研究"></p>
-<p>&emsp;&emsp;下图为研究界面。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E7%A0%94%E7%A9%B6%E7%95%8C%E9%9D%A2%E8%8A%82%E9%80%89.png?imageMogr2/format/webp" alt="研究界面节选"></p>
-<p>&emsp;&emsp;玩家需要在研究界面点击科技，复制人才会进行研究。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E8%BF%9B%E8%A1%8C%E7%A0%94%E7%A9%B6.png?imageMogr2/format/webp" alt="进行研究"></p>
-<p>&emsp;&emsp;研究进度条，从上到下为基础研究 、高级研究 、星际研究，分别需要对应的研究机器。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E7%A0%94%E7%A9%B6/%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%BA%A6%E6%9D%A1.png?imageMogr2/format/webp" alt="研究进度条"></p>
+<p>&emsp;&emsp;</p>
+<h2 id="2-2-材料对建筑装饰度的影响"><a href="#2-2-材料对建筑装饰度的影响" class="headerlink" title="2.2 材料对建筑装饰度的影响"></a>2.2 材料对建筑装饰度的影响</h2><p>&emsp;&emsp;部分材料能增加或减少建筑的装饰度。</p>
+<p>&emsp;&emsp;建筑装饰度 = 建筑基本装饰度 * [1+材料装饰百分比 * sgn(建筑基本装饰度)]</p>
+<p>&emsp;&emsp;例如：建筑+10装饰度，所选材料+10%装饰度，则实际+11装饰度。 </p>
+<p>&emsp;&emsp;加装饰度的材料能减少负装饰度，减装饰度的材料能增加负装饰度。 某建筑-10装饰度，所选材料+10%装饰度，则实际-9装饰度。 </p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/2%E8%A3%85%E9%A5%B0%E5%BA%A6%E6%9D%90%E6%96%99.png?imageMogr2/format/webp" alt="2装饰度材料"></p>
+<h1 id="3-环境装饰度"><a href="#3-环境装饰度" class="headerlink" title="3 环境装饰度"></a>3 环境装饰度</h1><p>&emsp;&emsp;环境装饰度，属于世界单元格的一种属性，受装饰度影响，其值为影响到单元格的装饰度之和。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/3%E7%8E%AF%E5%A2%83%E8%A3%85%E9%A5%B0%E5%BA%A61.png?imageMogr2/format/webp" alt="3环境装饰度1"></p>
+<p>&emsp;&emsp;环境装饰度无上下限。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/3%E7%8E%AF%E5%A2%83%E8%A3%85%E9%A5%B0%E5%BA%A62.png?imageMogr2/format/webp" alt="3环境装饰度2"></p>
+<p>&emsp;&emsp;下图的“总装饰度＋120（最大装饰度）”是平均装饰度对士气的加成上限，并非环境装饰度上限，对此见下下图可知。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/3%E7%8E%AF%E5%A2%83%E8%A3%85%E9%A5%B0%E5%BA%A63.png?imageMogr2/format/webp" alt="3环境装饰度3"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/3%E7%8E%AF%E5%A2%83%E8%A3%85%E9%A5%B0%E5%BA%A64.png?imageMogr2/format/webp" alt="3环境装饰度4"></p>
+<h1 id="4-平均装饰度"><a href="#4-平均装饰度" class="headerlink" title="4 平均装饰度"></a>4 平均装饰度</h1><p>&emsp;&emsp;平均装饰度，属于复制人的一种属性，受环境装饰度影响，能增加或减少士气。</p>
+<p>&emsp;&emsp;平均装饰度每周期结算一次，其值为复制人一周期所受环境装饰影响的平均值。<br>||||<br>| :–: | :—————-: | :—–: |<br>| 丑陋 |  平均装饰度＜-30   | -1士气  |<br>| 低劣 | 0＞平均装饰度≥-30  | +0士气  |<br>| 普通 |  30＞平均装饰度≥0  | +1士气  |<br>| 平均 | 60＞平均装饰度≥30  | +3士气  |<br>| 良好 | 90＞平均装饰度≥60  | +6士气  |<br>| 迷人 | 120＞平均装饰度≥90 | +9士气  |<br>| 华丽 |   平均装饰度≥120   | +12士气 |</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/4%E5%B9%B3%E5%9D%87%E8%A3%85%E9%A5%B0%E5%BA%A6.png?imageMogr2/format/webp" alt="4平均装饰度"></p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -2207,64 +2319,41 @@
       </tags>
   </entry>
   <entry>
-    <title>装饰</title>
-    <url>/archives/%E8%A3%85%E9%A5%B0.html</url>
-    <content><![CDATA[<h1 id="1-装饰概述"><a href="#1-装饰概述" class="headerlink" title="1 装饰概述"></a>1 装饰概述</h1><p>&emsp;&emsp;装饰的作用是给复制人<strong>增加或减少士气</strong>。</p>
-<p>&emsp;&emsp;搞装饰的目的是给复制人增加士气。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/1装饰1.png?imageMogr2/format/webp"  />
-
-<p>&emsp;&emsp;打开<strong>装饰视图</strong>（快捷键：F8），越绿装饰越高，红则装饰低。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/1装饰2.png?imageMogr2/format/webp"  />
-
+    <title>循环管道</title>
+    <url>/archives/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93.html</url>
+    <content><![CDATA[<p>&emsp;&emsp;循环管道，用管桥连接管道的首端和末端，使液体循环流动。</p>
+<p>&emsp;&emsp;循环管道常用于利用液体的循环流动来传递热量（控制温度——降温或升温）。</p>
+<p>&emsp;&emsp;循环管道原理：利用白口的特性，“液体往白口流动”相当于给液体一个流动的方向，然后液体进入白口后再从绿口出来，再继续往白口流动，以此循环。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93/1%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93.gif?imageMogr2/format/webp" alt="循环管道.gif"></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;装饰系统属性:</p>
-<p>&emsp;&emsp;（1）装饰度：属于建筑、杂物、动植物、服装、光照、太空工艺品…的一种属性，会对单元格散发装饰度。</p>
-<p>&emsp;&emsp;（2）环境装饰度，属于单元格的一种属性，受装饰度影响。</p>
-<p>&emsp;&emsp;（3）平均装饰度，属于复制人的一种属性，受环境装饰度影响，能增加或减少士气。</p>
-<h1 id="2-装饰度"><a href="#2-装饰度" class="headerlink" title="2 装饰度"></a>2 装饰度</h1><h2 id="2-1-装饰度来源"><a href="#2-1-装饰度来源" class="headerlink" title="2.1 装饰度来源"></a>2.1 装饰度来源</h2><p>&emsp;&emsp;装饰度属于建筑、杂物、动植物、服装、光照、太空工艺品…的一种属性，会对单元格散发装饰度。</p>
-<h2 id="2-1-装饰度的范围"><a href="#2-1-装饰度的范围" class="headerlink" title="2.1 装饰度的范围"></a>2.1 装饰度的范围</h2><p>&emsp;&emsp;装饰度范围是“自身整个物品”再向外延申“范围格数”。</p>
-<p>&emsp;&emsp;例如：</p>
-<table>
-    <tr>
-    <td>&emsp;&emsp;砖块装饰效果范围是1格，自身大小是1×1，所以装饰影响范围是3×3。</td>
-    </tr>
-    <tr>
-    <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围1.png?imageMogr2/format/webp"  /></td>
-    <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围2.png?imageMogr2/format/webp" style="zoom:80%;" /></td>
-    </tr>
-    <tr>   
-    <td>&emsp;&emsp;煤炭发电机装饰效果范围是3格，自身大小是3×3，所以装饰影响范围是9×9。</td>
-    </tr>
-    <tr>   
-     <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围3.png?imageMogr2/format/webp"  /></td>
-    <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围4.png?imageMogr2/format/webp" style="zoom:80%;" /></td>
-           </tr>
-    <tr>   
-             <td>&emsp;至于其他东西，可在信息窗口查看</td>
-    <td> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/装饰/2装饰度范围5.png?imageMogr2/format/webp"  /></td>
-           </tr>
-</table>
-
+<p>&emsp;&emsp;能满足此效果的建筑还有“调节阀”，下文叙述的管桥也可用调节阀实现。</p>
 <p>&emsp;&emsp;</p>
-<h2 id="2-2-材料对建筑装饰度的影响"><a href="#2-2-材料对建筑装饰度的影响" class="headerlink" title="2.2 材料对建筑装饰度的影响"></a>2.2 材料对建筑装饰度的影响</h2><p>&emsp;&emsp;部分材料能增加或减少建筑的装饰度。</p>
-<p>&emsp;&emsp;建筑装饰度 = 建筑基本装饰度 * [1+材料装饰百分比 * sgn(建筑基本装饰度)]</p>
-<p>&emsp;&emsp;例如：建筑+10装饰度，所选材料+10%装饰度，则实际+11装饰度。 </p>
-<p>&emsp;&emsp;加装饰度的材料能减少负装饰度，减装饰度的材料能增加负装饰度。 某建筑-10装饰度，所选材料+10%装饰度，则实际-9装饰度。 </p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/2%E8%A3%85%E9%A5%B0%E5%BA%A6%E6%9D%90%E6%96%99.png?imageMogr2/format/webp" alt="2装饰度材料"></p>
-<h1 id="3-环境装饰度"><a href="#3-环境装饰度" class="headerlink" title="3 环境装饰度"></a>3 环境装饰度</h1><p>&emsp;&emsp;环境装饰度，属于世界单元格的一种属性，受装饰度影响，其值为影响到单元格的装饰度之和。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/3%E7%8E%AF%E5%A2%83%E8%A3%85%E9%A5%B0%E5%BA%A61.png?imageMogr2/format/webp" alt="3环境装饰度1"></p>
-<p>&emsp;&emsp;环境装饰度无上下限。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/3%E7%8E%AF%E5%A2%83%E8%A3%85%E9%A5%B0%E5%BA%A62.png?imageMogr2/format/webp" alt="3环境装饰度2"></p>
-<p>&emsp;&emsp;下图的“总装饰度＋120（最大装饰度）”是平均装饰度对士气的加成上限，并非环境装饰度上限，对此见下下图可知。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/3%E7%8E%AF%E5%A2%83%E8%A3%85%E9%A5%B0%E5%BA%A63.png?imageMogr2/format/webp" alt="3环境装饰度3"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/3%E7%8E%AF%E5%A2%83%E8%A3%85%E9%A5%B0%E5%BA%A64.png?imageMogr2/format/webp" alt="3环境装饰度4"></p>
-<h1 id="4-平均装饰度"><a href="#4-平均装饰度" class="headerlink" title="4 平均装饰度"></a>4 平均装饰度</h1><p>&emsp;&emsp;平均装饰度，属于复制人的一种属性，受环境装饰度影响，能增加或减少士气。</p>
-<p>&emsp;&emsp;平均装饰度每周期结算一次，其值为复制人一周期所受环境装饰影响的平均值。<br>||||<br>| :–: | :—————-: | :—–: |<br>| 丑陋 |  平均装饰度＜-30   | -1士气  |<br>| 低劣 | 0＞平均装饰度≥-30  | +0士气  |<br>| 普通 |  30＞平均装饰度≥0  | +1士气  |<br>| 平均 | 60＞平均装饰度≥30  | +3士气  |<br>| 良好 | 90＞平均装饰度≥60  | +6士气  |<br>| 迷人 | 120＞平均装饰度≥90 | +9士气  |<br>| 华丽 |   平均装饰度≥120   | +12士气 |</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%A3%85%E9%A5%B0/4%E5%B9%B3%E5%9D%87%E8%A3%85%E9%A5%B0%E5%BA%A6.png?imageMogr2/format/webp" alt="4平均装饰度"></p>
+<p>&emsp;循环管道中，液体碰到白口就立马从绿口出来，所以管桥白口的那节管道是空的，因此循环管道实际上不能充满液体，必须留空了一节。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%932.png?imageMogr2/format/webp" alt="循环管道2.png"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/2循环管道空一节.gif?imageMogr2/format/webp" alt="2循环管道空一节.gif"  />
+
+<p>&emsp;</p>
+<p>&emsp;&emsp;对循环管道输入液体一定要用管桥，管桥能对循环管道在满足循环的同时充入最大量液体。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/循环管道1.png?imageMogr2/format/webp" alt="循环管道1.png?imageMogr2/format/webp" style="zoom: 67%;" />
+
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/4管桥输入循环管道.gif?imageMogr2/format/webp" alt="4管桥输入循环管道.gif?imageMogr2/format/webp"  />
+
+<p>&emsp;</p>
+<p>&emsp;&emsp;如果不用管桥，而是输入管道直接连接循环管道：</p>
+<p>&emsp;&emsp;输入管道会把循环管道充满液体。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/5直接输入循环管道.gif?imageMogr2/format/webp" alt="5直接输入循环管道.gif?imageMogr2/format/webp"  />
+
+<p>&emsp;</p>
+<p>&emsp;&emsp;因为循环管道充满了液体，绿口的管道有液体卡住，白口无法吸入液体，导致管桥无法工作，液体停下不动。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%933.png?imageMogr2/format/webp" alt="循环管道3.png?imageMogr2/format/webp"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/3充满循环管道不.gif?imageMogr2/format/webp" alt="3充满循环管道不.gif?imageMogr2/format/webp"  />
+
+
+
 ]]></content>
       <categories>
         <category>缺氧百科</category>
-        <category>3 百科</category>
+        <category>1 教程</category>
       </categories>
       <tags>
         <tag>缺氧百科</tag>
@@ -2340,244 +2429,65 @@
       </tags>
   </entry>
   <entry>
-    <title>实用技巧与模块</title>
-    <url>/archives/%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%E4%B8%8E%E6%A8%A1%E5%9D%97.html</url>
-    <content><![CDATA[<h1 id="初期—衣食住行："><a href="#初期—衣食住行：" class="headerlink" title="初期—衣食住行："></a>初期—衣食住行：</h1><p>&emsp;&emsp;常用在出入口，分隔两边气体：<a href="https://410091174.github.io/archives/水门" target="_blank">水门</a></p>
-<p>&emsp;&emsp;使上厕所更方便：<a href="https://410091174.github.io/archives/自循环厕所" target="_blank">自循环厕所</a>&emsp;|（<a href="https://410091174.github.io/archives/用管桥对管道输入气液体" target="_blank">用管桥对管道输入气液体</a>）</p>
-<p>&emsp;&emsp;消除二氧化碳：<a href="https://410091174.github.io/archives/自循环碳素脱离器" target="_blank">自循环碳素脱离器</a></p>
-<h1 id="中期—工业革命："><a href="#中期—工业革命：" class="headerlink" title="中期—工业革命："></a>中期—工业革命：</h1><p>&emsp;&emsp;生产原油：<a href="https://410091174.github.io/archives/油井模块" target="_blank">油井模块</a>&emsp;|&emsp;<a href="https://410091174.github.io/archives/搭建真空室" target="_blank">搭建真空室</a></p>
-<p>&emsp;&emsp;生产石油：<a href="https://410091174.github.io/archives/原油精炼器模块" target="_blank">原油精炼器模块</a></p>
-<p>&emsp;&emsp;炼钢：金属精炼器配套模块</p>
-<p>&emsp;&emsp;温度控制：<a href="https://410091174.github.io/archives/降温系统" target="_blank">降温系统</a>&emsp;|（<a href="https://410091174.github.io/archives/循环管道" target="_blank">循环管道</a>）</p>
-<p>&emsp;&emsp;<a href="https://410091174.github.io/archives/过滤气液体" target="_blank">过滤气液体</a></p>
-<p>&emsp;&emsp;收集气液体</p>
-<p>&emsp;&emsp;资源可再生：泉的简单开发</p>
-<h1 id="后期—探索宇宙："><a href="#后期—探索宇宙：" class="headerlink" title="后期—探索宇宙："></a>后期—探索宇宙：</h1><p>&emsp;&emsp;研究行星：<a href="https://410091174.github.io/archives/望远镜的防陨石技巧" target="_blank">望远镜的防陨石技巧</a></p>
+    <title>泉开发</title>
+    <url>/archives/%E6%B3%89%E5%BC%80%E5%8F%91.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>4 技术</category>
+        <category>模块</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用管桥对管道输入气液体</title>
+    <url>/archives/%E7%94%A8%E7%AE%A1%E6%A1%A5%E5%AF%B9%E7%AE%A1%E9%81%93%E8%BE%93%E5%85%A5%E6%B0%94%E6%B6%B2%E4%BD%93.html</url>
+    <content><![CDATA[<p>&emsp;&emsp;下文以液体管道举例，气体管道同理。</p>
+<p>&emsp;</p>
+<h1 id="用管桥对管道输入液体-气体"><a href="#用管桥对管道输入液体-气体" class="headerlink" title="用管桥对管道输入液体(气体)"></a>用管桥对管道输入液体(气体)</h1><p>&emsp;&emsp;用外部的管道对模块管道输入水，并且输完后就拆掉外部管道，推荐使用“管桥”连接外部管道和模块管道。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/用管桥对管道输入液体气体/气体和液体管桥.png?imageMogr2/format/webp" alt="气体和液体管桥.png?imageMogr2/format/webp" style="zoom:25%;" />
+
+<p>&emsp;&emsp;用液体管桥注入液体的好处（气体同理）：</p>
+<p>&emsp;&emsp;（1）拆除管桥不会漏水，管桥没有内容物，也就是管桥内部没有液体。</p>
+<p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。具体见《<a href="https://410091174.github.io/archives/6d4d5131" target="_blank">循环管道</a>》。</p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/用管桥对管道输入液体气体/对模块注入水的管道接法.png?imageMogr2/format/webp" alt="对模块注入水的管道接法.png" style="zoom:67%;" />
+
+<p>&emsp;</p>
+<p>&emsp;&emsp;如果直接把管道连起来，拆掉的那节管道会漏一地水，事后还要拖地，所以为了避免麻烦，推荐用管桥。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/%E7%94%A8%E7%AE%A1%E6%A1%A5%E5%AF%B9%E7%AE%A1%E9%81%93%E8%BE%93%E5%85%A5%E6%B6%B2%E4%BD%93%E6%B0%94%E4%BD%93/%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%AE%A1%E9%81%93%E8%BF%9E%E8%B5%B7%E6%9D%A5.png?imageMogr2/format/webp" alt="直接把管道连起来.png?imageMogr2/format/webp"></p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
-        <category>4 技术</category>
+        <category>1 教程</category>
       </categories>
       <tags>
         <tag>缺氧百科</tag>
       </tags>
   </entry>
   <entry>
-    <title>望远镜防陨石的简单技巧</title>
-    <url>/archives/%E6%9C%9B%E8%BF%9C%E9%95%9C%E9%98%B2%E9%99%A8%E7%9F%B3%E7%9A%84%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7.html</url>
-    <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;研究行星。</p>
-<h2 id="2-模块介绍"><a href="#2-模块介绍" class="headerlink" title="2 模块介绍"></a>2 模块介绍</h2><p>&emsp;&emsp;怎么简单怎么来，虽然能见度只有45%，但是简单无脑啊。</p>
-<p>&emsp;&emsp;堡垒砖比较短，望远镜有1%的概率会被砸到，一般研究完全部行星都不会被砸到，要是被砸了，出门小心点。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C%E9%98%B2%E9%99%A8%E7%9F%B3%E7%9A%84%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C.png?imageMogr2/format/webp" alt="望远镜.png"></p>
-<p>&emsp;&emsp;可以两边再往外延申一格堡垒砖，万无一失，但能见度只剩下25%。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C%E9%98%B2%E9%99%A8%E7%9F%B3%E7%9A%84%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C1.png?imageMogr2/format/webp" alt="望远镜1"></p>
-<p>&emsp;&emsp;再抠门一点，把堡垒砖省掉。用砖块把浮土陨石接住，用浮土挡有伤害的陨石。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C%E9%98%B2%E9%99%A8%E7%9F%B3%E7%9A%84%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C2.png?imageMogr2/format/webp" alt="望远镜2"></p>
-<p>&emsp;&emsp;不过要是脸黑刚建好就飞来两个以上有伤害的陨石，又正好砸在同一个地方把砖块砸没了，那我也没辙了，脸黑认命吧。</p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>4 技术</category>
-        <category>技巧</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>搭建真空室</title>
-    <url>/archives/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4.html</url>
-    <content><![CDATA[<h1 id="1-真空室"><a href="#1-真空室" class="headerlink" title="1 真空室"></a>1 真空室</h1><p>&emsp;&emsp;真空，即空间内没有任何气体、液体、固体。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E7%9C%9F%E7%A9%BA.png?imageMogr2/format/webp" alt="真空.png"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;搭建一个真空室的主要用途：</p>
-<p>（1）该区域用于单独生产某种气体，先把房间弄成真空去除杂气，再作气体生产。</p>
-<p>（2）用于隔热，真空不传热。</p>
-<p>&emsp;……</p>
-<h1 id="2-气泵抽真空"><a href="#2-气泵抽真空" class="headerlink" title="2 气泵抽真空"></a>2 气泵抽真空</h1><p>&emsp;&emsp;搭好房间，直接用气泵抽到真空。优点是省事，缺点是比较费电。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/搭建真空室/气泵抽真空.png?imageMogr2/format/webp" alt="气泵抽真空.png?imageMogr2/format/webp" style="zoom:80%;" />
+    <title>原油精炼器模块</title>
+    <url>/archives/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97.html</url>
+    <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;把原油转化成石油，附带产出天然气。</p>
+<p>&emsp;&emsp;石油是非常重要的一项资源，用于发电、炼塑料、发射石油火箭……等。</p>
+<h2 id="2-相关建筑"><a href="#2-相关建筑" class="headerlink" title="2 相关建筑"></a>2 相关建筑</h2><p>&emsp;&emsp;原油精炼器，把原油转化为石油和天然气（原油通过液体管道输入。石油输出至液体管道，天然气输出到世界中）。</p>
+<table>
+    <tr>
+        <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/原油精炼器模块/原油精炼器.jpg?imageMogr2/format/webp" alt="原油精炼器.jpg"  /></td>
+    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/原油精炼器模块/原油精炼器信息.jpg?imageMogr2/format/webp" alt="原油精炼器信息.jpg"  /></td></tr>
+</table>
 
-<p>&emsp;&emsp;当然，除了气泵，也可以用各种抽气方式抽真空，比如液推，推气门等等，可见《–》。</p>
-<h1 id="3-挖天然方块和填砖出真空"><a href="#3-挖天然方块和填砖出真空" class="headerlink" title="3 挖天然方块和填砖出真空"></a>3 挖天然方块和填砖出真空</h1><p>步骤一：</p>
-<p>&emsp;&emsp;找一片完整的天然方块区域。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%8C%96%E5%A4%A9%E7%84%B6%E6%96%B9%E5%9D%971.png?imageMogr2/format/webp" alt="挖天然方块1.png"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;如果天然方块中间有空缺，并且里面有气体，可以挖一条通道进去，再用砖块填掉空缺处，然后再把通道填掉。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E5%A4%A9%E7%84%B6%E6%96%B9%E5%9D%97%E6%9C%89%E6%B0%94%E4%BD%931.png?imageMogr2/format/webp" alt="天然方块有气体1.png"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E5%A4%A9%E7%84%B6%E6%96%B9%E5%9D%97%E6%9C%89%E6%B0%94%E4%BD%932.png?imageMogr2/format/webp" alt="天然方块有气体2.png"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E5%A4%A9%E7%84%B6%E6%96%B9%E5%9D%97%E6%9C%89%E6%B0%94%E4%BD%933.png?imageMogr2/format/webp" alt="天然方块有气体3.png"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;也可以直接用砖块填出一片区域。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E7%A0%96%E5%A1%AB%E5%87%BA%E4%B8%80%E7%89%87%E5%8C%BA%E5%9F%9F.png?imageMogr2/format/webp" alt="砖填出一片区域.png"></p>
-<p>&emsp;</p>
-<p>步骤二：</p>
-<p>&emsp;&emsp;搭建<a href="https://410091174.github.io/archives/b33654cd" target="_blank">水门</a>。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A81.png?imageMogr2/format/webp" alt="搭建水门1.png"></p>
-<p>&emsp;&emsp;倒入水，形成水门。（如果水门右边有气体卡住，可以建造砖块把气体填掉）</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A82.png?imageMogr2/format/webp" alt="搭建水门2.png"></p>
-<p>步骤3：</p>
-<p>&emsp;&emsp;挖出一片区域，内部自然形成真空。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%8C%96%E5%87%BA%E7%9C%9F%E7%A9%BA.png?imageMogr2/format/webp" alt="挖出真空.png"></p>
-<p>&emsp;&emsp;如果有需要，可以用砖块包围真空室，方便电线和管道进出。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E7%A0%96%E5%9B%B4%E4%BD%8F%E7%9C%9F%E7%A9%BA%E5%AE%A4.png?imageMogr2/format/webp" alt="砖围住真空室.png"></p>
-<p>&emsp;&emsp;为真空室围上砖块可能会遇上这种情况，天然方块只有一层，外面就是杂气，如果直接建造砖块，杂气有可能混入模块内。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%96%B9%E5%9D%97%E5%A4%96%E9%9D%A2%E6%98%AF%E6%9D%82%E6%B0%941.jpg?imageMogr2/format/webp" alt="方块外面是杂气1.jpg"></p>
-<p>&emsp;&emsp;可以先在外围建一层砖块挡着，再建真空室的砖块。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%96%B9%E5%9D%97%E5%A4%96%E9%9D%A2%E6%98%AF%E6%9D%82%E6%B0%942.png?imageMogr2/format/webp" alt="方块外面是杂气2.png"></p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>4 技术</category>
-        <category>技巧</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>水门</title>
-    <url>/archives/%E6%B0%B4%E9%97%A8.html</url>
-    <content><![CDATA[<h1 id="1-水门的作用"><a href="#1-水门的作用" class="headerlink" title="1 水门的作用"></a>1 水门的作用</h1><p>&emsp;&emsp;水门，用于分隔两边气体，并且可以让复制人通过。</p>
-<p>&emsp;&emsp;水门是非常实用的一个小技巧，相当于存水管的水封（厕所马桶的u型管）。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%B0%B4%E9%97%A8%E5%88%86%E9%9A%94%E6%B0%94%E4%BD%93.jpg?imageMogr2/format/webp" alt="水门分隔气体.jpg"><br>&emsp;&emsp;上图可以看到，左边是氧气，右边是氢气，两边气体被水门分隔无法相互流通。</p>
-<p>&emsp;&emsp;原理：利用缺氧里一格只能有一种物质，以及液体比气体重的特性，用液体挡在气体中间分隔两边气体。</p>
-<p>&emsp;&emsp;水门的基本结构：<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="水门.png"></p>
+<p>&emsp;&emsp;原油精炼器科技树：<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/原油精炼器模块/原油精炼器科技树.png?imageMogr2/format/webp" alt="原油精炼器科技树.png"  /></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;下图是比较常见的使用方式，在基地出入口做水门，防止野外杂气混入基地，同时保证复制人出行。（你也不想家里的气体五颜六色吧。）</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E5%9F%BA%E5%9C%B0%E9%97%A8%E5%8F%A3%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="基地门口水门.jpg"></p>
-<h1 id="2-搭建水门"><a href="#2-搭建水门" class="headerlink" title="2 搭建水门"></a>2 搭建水门</h1><p>&emsp;&emsp;搭建出水门的轮廓和“空桶器”，空桶器勾选需要倒入的液体，点击“启用自动装瓶”（允许复制人用“手压泵”抽水给空桶器），调高优先级。</p>
-<p>&emsp;&emsp;待水浸没至第二层，先取消勾选液体，再拆除空桶器。（标记上拆除，复制人也能运液体给空桶器，所以最好先取消勾选。）</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A81.jpg?imageMogr2/format/webp" alt="搭建水门1.jpg"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A82.jpg?imageMogr2/format/webp" alt="搭建水门2.jpg"></p>
-<p>&emsp;&emsp;</p>
-<h1 id="3-各类水门"><a href="#3-各类水门" class="headerlink" title="3 各类水门"></a>3 各类水门</h1><h2 id="3-1-水门"><a href="#3-1-水门" class="headerlink" title="3.1 水门"></a>3.1 水门</h2><p>&emsp;&emsp;最普通的水门，也是最稳定的水门。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="水门.png"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;普通水门的变种，比普通水门省两格水，目测通过速度比上面的水门快0.1s。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%B0%B4%E9%97%A82.jpg?imageMogr2/format/webp" alt="水门2.jpg?"></p>
-<p>&emsp;&emsp;</p>
-<h2 id="3-2-双层液体水门"><a href="#3-2-双层液体水门" class="headerlink" title="3.2 双层液体水门"></a>3.2 双层液体水门</h2><p>&emsp;&emsp;利用游戏一格一物的规则，用两层液体，一层液体只需几十克，也可以搭建出一个水门，大幅度节省水。</p>
-<p>&emsp;&emsp;（注意事项：因为液体质量小，如果复制人拿几百上千度的碎片通过，可能会导致水门液体蒸发使水门破坏。）</p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;搭建方法：</p>
-<p>&emsp;&emsp;先倒入重的液体，再倒入轻的液体。（轻→重：水&lt;污染水&lt;盐水&lt;石油&lt;原油)</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E5%8F%8C%E5%B1%82%E6%B0%B4%E9%97%A81.jpg?imageMogr2/format/webp" alt="双层水门1.jpg"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E5%8F%8C%E5%B1%82%E6%B0%B4%E9%97%A82.jpg?imageMogr2/format/webp" alt="双层水门2.jpg"></p>
-<p>&emsp;&emsp;</p>
-<h2 id="3-3-耐温水门（石油-原油水门）"><a href="#3-3-耐温水门（石油-原油水门）" class="headerlink" title="3.3 耐温水门（石油/原油水门）"></a>3.3 耐温水门（石油/原油水门）</h2><p>&emsp;&emsp;用石油和原油做水门，石油耐温 -57~539℃，原油耐温 -40~400℃。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E8%80%90%E6%B8%A9%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="耐温水门.jpg"></p>
-<p>&emsp;&emsp;</p>
-<h2 id="3-4-隔热水门"><a href="#3-4-隔热水门" class="headerlink" title="3.4 隔热水门"></a>3.4 隔热水门</h2><h3 id="3-4-1-隔热水门基础版"><a href="#3-4-1-隔热水门基础版" class="headerlink" title="3.4.1 隔热水门基础版"></a>3.4.1 隔热水门基础版</h3><h4 id="（1）介绍"><a href="#（1）介绍" class="headerlink" title="（1）介绍"></a>（1）介绍</h4><p>&emsp;&emsp;隔热水门，利用真空隔热，解决了水门不隔热的问题。</p>
-<p>&emsp;&emsp;隔热水门常用于需要复制人出入且隔离温度的区域。</p>
-<p>&emsp;&emsp;（真空不导热。内部真空的透气砖不导热。）</p>
-<p>&emsp;&emsp;下图中，左边是用于需要隔离温度的区域，用隔热砖围起来，右边是常温区，用普通砖块即可。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门.png?imageMogr2/format/webp" alt="隔热水门" style="zoom: 70%;" />
-
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;可以看到，左边是超高温气体，右边是常温气体，左右两边并没有发生热交换。（严格来说，热交换发生在：左边高温气体→隔热砖→砖块→常温气体。不过隔热砖的导热率非常低，基本可以忽略不计。）</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门温度视图.png?imageMogr2/format/webp" alt="隔热水门" style="zoom: 70%;" />
-
-<p> &emsp;&emsp;</p>
-<h4 id="（2）搭建"><a href="#（2）搭建" class="headerlink" title="（2）搭建"></a>（2）搭建</h4><p>&emsp;&emsp;先圈出轮廓，一般中间都会残留气体（如下图中间的氧气）。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门搭建1.png?imageMogr2/format/webp" alt="隔热水门搭建1" style="zoom: 70%;" />
-
-<p> &emsp;&emsp;</p>
-<p>&emsp;&emsp;填砖，把气体填掉。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门搭建2.png?imageMogr2/format/webp" alt="隔热水门搭建2" style="zoom: 70%;" />
-
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;建透气砖，把填的砖拆掉。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门搭建3.png?imageMogr2/format/webp" alt="隔热水门搭建3" style="zoom: 70%;" />
-
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;完工。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门搭建4.png?imageMogr2/format/webp" alt="隔热水门搭建4" style="zoom: 70%;" />
-
-<p>&emsp;</p>
-<h3 id="3-4-2-隔热水门简化版"><a href="#3-4-2-隔热水门简化版" class="headerlink" title="3.4.2 隔热水门简化版"></a>3.4.2 隔热水门简化版</h3><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门简化版1.png?imageMogr2/format/webp" alt="隔热水门简化版1" style="zoom: 70%;" />
-
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门简化版2.png?imageMogr2/format/webp" alt="隔热水门简化版2" style="zoom: 70%;" />
-
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;先如下图建好，1000kg&gt;倒水量&gt;100g。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门简化版搭建1.png?imageMogr2/format/webp" alt="隔热水门简化版搭建1" style="zoom: 70%;" />
-
-<p>&emsp;&emsp;拆掉橙色框的砖块就能形成隔热水门。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门简化版搭建2.png?imageMogr2/format/webp" alt="隔热水门简化版搭建2" style="zoom: 70%;" />
-
-<p>&emsp;&emsp;</p>
-<h2 id="3-5-凝胶水门"><a href="#3-5-凝胶水门" class="headerlink" title="3.5 凝胶水门"></a>3.5 凝胶水门</h2><p>&emsp;&emsp;凝胶，太空 （后期）材料，详细介绍见《–》。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E5%87%9D%E8%83%B6%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="凝胶水门.jpg"></p>
-<p>&emsp;&emsp;</p>
-<h2 id="3-6-二格水门"><a href="#3-6-二格水门" class="headerlink" title="3.6 二格水门"></a>3.6 二格水门</h2><p>&emsp;&emsp;用两格不同的液体形成的水门。</p>
-<p>&emsp;&emsp;不推荐使用。这种水门容易因玩家的无意操作波及到水门，导致水门崩坏。例如，复制人拿着挥发物通过水门，复制人在水门里面时，刚好挥发物喷发气体，导致水门崩坏；液体流过来把水门冲破……</p>
-<p>&emsp;&emsp;（编者已标明不推荐使用，因水门崩坏导致的问题，编者不承担责任，自己哭去）</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E4%BA%8C%E6%A0%BC%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="二格水门.jpg"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;搭建：如下，不作解释，当作设立学习门槛。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E4%BA%8C%E6%A0%BC%E6%B0%B4%E9%97%A8%E6%90%AD%E5%BB%BA.jpg?imageMogr2/format/webp" alt="二格水门搭建.jpg"></p>
-<p>&emsp;&emsp;</p>
-<h2 id="3-7-一格水门"><a href="#3-7-一格水门" class="headerlink" title="3.7 一格水门"></a>3.7 一格水门</h2><p>&emsp;&emsp;用一格液体形成的水门。相对其他液体用石脑油比较稳定。</p>
-<p>&emsp;&emsp;不推荐使用。这种水门容易因玩家的无意操作波及到水门，导致水门崩坏。例如，复制人拿着挥发物通过水门，复制人在水门里面时，刚好挥发物喷发气体，导致水门崩坏；或者有液体流过来把水门冲破……</p>
-<p>&emsp;&emsp;（编者已标明不推荐使用，因水门崩坏导致的问题，编者不承担责任，自己哭去）</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/一格水门.png?imageMogr2/format/webp" style="zoom: 70%;" />
-
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/一格水门视图.png?imageMogr2/format/webp" style="zoom: 70%;" />
-
-<p>&emsp;&emsp;</p>
-<h2 id="3-8-水门拓展"><a href="#3-8-水门拓展" class="headerlink" title="3.8 水门拓展"></a>3.8 水门拓展</h2><h3 id="3-8-1-分隔液体"><a href="#3-8-1-分隔液体" class="headerlink" title="3.8.1 分隔液体"></a>3.8.1 分隔液体</h3><p>&emsp;&emsp;水门也能分隔液体，只要水门的液体比被隔离的液体重。<br>&emsp;&emsp;常见液体-重&gt;轻：原油&gt;石油&gt;盐水&gt;污染水&gt;水</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/水门-隔绝液体.png?imageMogr2/format/webp" alt="水门-隔绝液体.png" style="zoom: 70%;" /> 
-
-<p>&emsp;&emsp;</p>
-<h3 id="3-8-2-气门"><a href="#3-8-2-气门" class="headerlink" title="3.8.2 气门"></a>3.8.2 气门</h3><p>&emsp;&emsp;用气体也能做“水门”，越重的气体沉得越低，用重的气体沉到底部分隔较轻的气体。一般用二氧化碳，方便易得。<br>&emsp;&emsp;注意，气门不稳定，气体有流动性会到处飘。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/气门1.png?imageMogr2/format/webp" alt="气门1.png?imageMogr2/format/webp" /></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/气门2.png?imageMogr2/format/webp" alt="气门2.png?imageMogr2/format/webp" />
-&emsp;&emsp;
-
-<p>&emsp;&emsp;气门一般用在开荒时，要挖入一个区域，不想让区域里面的杂气飘出来，但又不怕杂气飘出来（气门不稳定)，并且要挖进去的那个地方刚好有二氧化碳，就可以挖出个水门形状的出入口，让二氧化碳充当水门。</p>
-<p>&emsp;&emsp;常见气体-重&gt;轻：二氧化碳&gt;氯气&gt;污染氧&gt;氧气&gt;氢气</p>
-<p>&emsp;&emsp;二氧化碳门不能完全阻挡氯气，如果用二氧化碳门分隔氯气，氯气能慢慢一点点地通过二氧化碳门。</p>
-<h3 id="3-8-3-无湿透debuff水门"><a href="#3-8-3-无湿透debuff水门" class="headerlink" title="3.8.3 无湿透debuff水门"></a>3.8.3 无湿透debuff水门</h3><p>参考文献：大biubiu的缺氧日常.<a href="https://www.bilibili.com/video/BV12K41137MW">【缺氧】不带负面buff的水门</a>.bilibili. 2020-12-12.</p>
-<p>&emsp;&emsp;复制人跳跃经过水门，不会浑身湿透。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/无湿透debuff水门.png?imageMogr2/format/webp" alt="无湿透debuff水门" />]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>4 技术</category>
-        <category>技巧</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>自循环厕所</title>
-    <url>/archives/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80.html</url>
-    <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;使复制人上厕所的一系列问题更方便。</p>
-<h2 id="2-模块搭建"><a href="#2-模块搭建" class="headerlink" title="2 模块搭建"></a>2 模块搭建</h2><h3 id="2-1-模块蓝图"><a href="#2-1-模块蓝图" class="headerlink" title="2.1 模块蓝图"></a>2.1 模块蓝图</h3><p>&emsp;&emsp;所需科技树：抽水马桶，洗手池，净水器。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环厕所/自循环厕所科技树.png?imageMogr2/format/webp" alt="自循环厕所科技树.png" style="zoom: 100%;" />
-
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;蓝图如下：</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80.jpg?imageMogr2/format/webp" alt="自循环厕所"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80%E7%AE%A1%E9%81%93.png?imageMogr2/format/webp" alt="自循环厕所管道"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;自循环厕所的工作方式：</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环厕所/自循环厕所的工作方式.png?imageMogr2/format/webp" alt="自循环厕所的工作方式。png" style="zoom: 25%;" />
-
-<p>&emsp;</p>
-<p>&emsp;&emsp;复制人尿尿产出6.7kg污染水；马桶消耗5kg水，排出11.7kg污染水(6.7kg尿+5kg水)；净水器过滤污染水百分百转换成水；所以<strong>模块能产出水 (6.7*人口)kg/周期</strong>。</p>
-<p>&emsp;&emsp;产出的水必须尽快输出，不要留在模块内部，不然会导致厕所无法运作。水的去处有很多，比如种菜、电解器、油井……</p>
-<p>&emsp;&emsp;</p>
-<h3 id="2-2-启动模块输入水的管道接法"><a href="#2-2-启动模块输入水的管道接法" class="headerlink" title="2.2 启动模块输入水的管道接法"></a>2.2 启动模块输入水的管道接法</h3><p>&emsp;&emsp;从黄框处用“液体管桥”对厕所输入水，输满水后拆掉管桥。理由见《<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体/气体</a>》。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环厕所/对模块注入水的管道接法.png?imageMogr2/format/webp" alt="对模块注入水的管道接法.png" style="zoom:80%;" /> 
-
-<p>&emsp;&emsp;</p>
-<h3 id="2-3-输出水的用途及管道接法"><a href="#2-3-输出水的用途及管道接法" class="headerlink" title="2.3 输出水的用途及管道接法"></a>2.3 输出水的用途及管道接法</h3><p>&emsp;&emsp;模块产出的水必须尽快排出去，否则会导致厕所无法工作。</p>
-<p>&emsp;&emsp;如果水没被消耗，会慢慢积满管道，堵塞净水器输出口，导致净水器无法工作，污染水因无法过滤而停留在污水管内，堵塞厕所，进而导致厕所无法工作。</p>
-<p>&emsp;&emsp;对外输出的水可以种菜、电解器、油井等需要用水的地方，实在没地方消耗，可以暂时存到储液库，或者随便挖个坑先排出来。</p>
-<p>&emsp;&emsp;</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%BE%93%E5%87%BA%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png?imageMogr2/format/webp" alt="输出水的管道接法.png"></p>
-<p>&emsp;&emsp;</p>
-<h3 id="2-4-对外输出污染水的管道接法"><a href="#2-4-对外输出污染水的管道接法" class="headerlink" title="2.4 对外输出污染水的管道接法"></a>2.4 对外输出污染水的管道接法</h3><p>&emsp;&emsp;下图管道接法不能断电，如果断电，净水器不工作，污染水顺着对外输出管道流走，导致模块无水可用。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E5%AF%B9%E5%A4%96%E8%BE%93%E5%87%BA%E6%B1%A1%E6%9F%93%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png?imageMogr2/format/webp" alt="对外输出污染水的管道接法.png"></p>
+<h2 id="3-模块介绍"><a href="#3-模块介绍" class="headerlink" title="3 模块介绍"></a>3 模块介绍</h2><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97.png?imageMogr2/format/webp" alt="原油精炼器模块.png"></p>
+<p>&emsp;&emsp;液体管道图：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97%E7%AE%A1%E9%81%93.jpg?imageMogr2/format/webp" alt="原油精炼器模块管道.jpg"></p>
+<p>&emsp;&emsp;搭建模块：</p>
+<p>&emsp;&emsp;首先做出一个真空区域（见《<a href="https://410091174.github.io/archives/935ec319" target="_blank">真空室</a>》），然后把建筑放进去。</p>
+<p>&emsp;&emsp;之所以要真空，是因为原油精炼器会产出天然气，先把杂气抽走，方便收集纯净的天然气。</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -2645,25 +2555,36 @@
       </tags>
   </entry>
   <entry>
-    <title>原油精炼器模块</title>
-    <url>/archives/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97.html</url>
-    <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;把原油转化成石油，附带产出天然气。</p>
-<p>&emsp;&emsp;石油是非常重要的一项资源，用于发电、炼塑料、发射石油火箭……等。</p>
-<h2 id="2-相关建筑"><a href="#2-相关建筑" class="headerlink" title="2 相关建筑"></a>2 相关建筑</h2><p>&emsp;&emsp;原油精炼器，把原油转化为石油和天然气（原油通过液体管道输入。石油输出至液体管道，天然气输出到世界中）。</p>
-<table>
-    <tr>
-        <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/原油精炼器模块/原油精炼器.jpg?imageMogr2/format/webp" alt="原油精炼器.jpg"  /></td>
-    <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/原油精炼器模块/原油精炼器信息.jpg?imageMogr2/format/webp" alt="原油精炼器信息.jpg"  /></td></tr>
-</table>
+    <title>自循环厕所</title>
+    <url>/archives/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80.html</url>
+    <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;使复制人上厕所的一系列问题更方便。</p>
+<h2 id="2-模块搭建"><a href="#2-模块搭建" class="headerlink" title="2 模块搭建"></a>2 模块搭建</h2><h3 id="2-1-模块蓝图"><a href="#2-1-模块蓝图" class="headerlink" title="2.1 模块蓝图"></a>2.1 模块蓝图</h3><p>&emsp;&emsp;所需科技树：抽水马桶，洗手池，净水器。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环厕所/自循环厕所科技树.png?imageMogr2/format/webp" alt="自循环厕所科技树.png" style="zoom: 100%;" />
 
-<p>&emsp;&emsp;原油精炼器科技树：<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/原油精炼器模块/原油精炼器科技树.png?imageMogr2/format/webp" alt="原油精炼器科技树.png"  /></p>
 <p>&emsp;&emsp;</p>
-<h2 id="3-模块介绍"><a href="#3-模块介绍" class="headerlink" title="3 模块介绍"></a>3 模块介绍</h2><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97.png?imageMogr2/format/webp" alt="原油精炼器模块.png"></p>
-<p>&emsp;&emsp;液体管道图：</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97%E7%AE%A1%E9%81%93.jpg?imageMogr2/format/webp" alt="原油精炼器模块管道.jpg"></p>
-<p>&emsp;&emsp;搭建模块：</p>
-<p>&emsp;&emsp;首先做出一个真空区域（见《<a href="https://410091174.github.io/archives/935ec319" target="_blank">真空室</a>》），然后把建筑放进去。</p>
-<p>&emsp;&emsp;之所以要真空，是因为原油精炼器会产出天然气，先把杂气抽走，方便收集纯净的天然气。</p>
+<p>&emsp;&emsp;蓝图如下：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80.jpg?imageMogr2/format/webp" alt="自循环厕所"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80%E7%AE%A1%E9%81%93.png?imageMogr2/format/webp" alt="自循环厕所管道"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;自循环厕所的工作方式：</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环厕所/自循环厕所的工作方式.png?imageMogr2/format/webp" alt="自循环厕所的工作方式。png" style="zoom: 25%;" />
+
+<p>&emsp;</p>
+<p>&emsp;&emsp;复制人尿尿产出6.7kg污染水；马桶消耗5kg水，排出11.7kg污染水(6.7kg尿+5kg水)；净水器过滤污染水百分百转换成水；所以<strong>模块能产出水 (6.7*人口)kg/周期</strong>。</p>
+<p>&emsp;&emsp;产出的水必须尽快输出，不要留在模块内部，不然会导致厕所无法运作。水的去处有很多，比如种菜、电解器、油井……</p>
+<p>&emsp;&emsp;</p>
+<h3 id="2-2-启动模块输入水的管道接法"><a href="#2-2-启动模块输入水的管道接法" class="headerlink" title="2.2 启动模块输入水的管道接法"></a>2.2 启动模块输入水的管道接法</h3><p>&emsp;&emsp;从黄框处用“液体管桥”对厕所输入水，输满水后拆掉管桥。理由见《<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体/气体</a>》。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环厕所/对模块注入水的管道接法.png?imageMogr2/format/webp" alt="对模块注入水的管道接法.png" style="zoom:80%;" /> 
+
+<p>&emsp;&emsp;</p>
+<h3 id="2-3-输出水的用途及管道接法"><a href="#2-3-输出水的用途及管道接法" class="headerlink" title="2.3 输出水的用途及管道接法"></a>2.3 输出水的用途及管道接法</h3><p>&emsp;&emsp;模块产出的水必须尽快排出去，否则会导致厕所无法工作。</p>
+<p>&emsp;&emsp;如果水没被消耗，会慢慢积满管道，堵塞净水器输出口，导致净水器无法工作，污染水因无法过滤而停留在污水管内，堵塞厕所，进而导致厕所无法工作。</p>
+<p>&emsp;&emsp;对外输出的水可以种菜、电解器、油井等需要用水的地方，实在没地方消耗，可以暂时存到储液库，或者随便挖个坑先排出来。</p>
+<p>&emsp;&emsp;</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%BE%93%E5%87%BA%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png?imageMogr2/format/webp" alt="输出水的管道接法.png"></p>
+<p>&emsp;&emsp;</p>
+<h3 id="2-4-对外输出污染水的管道接法"><a href="#2-4-对外输出污染水的管道接法" class="headerlink" title="2.4 对外输出污染水的管道接法"></a>2.4 对外输出污染水的管道接法</h3><p>&emsp;&emsp;下图管道接法不能断电，如果断电，净水器不工作，污染水顺着对外输出管道流走，导致模块无水可用。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E5%AF%B9%E5%A4%96%E8%BE%93%E5%87%BA%E6%B1%A1%E6%9F%93%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.png?imageMogr2/format/webp" alt="对外输出污染水的管道接法.png"></p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -2675,41 +2596,52 @@
       </tags>
   </entry>
   <entry>
-    <title>循环管道</title>
-    <url>/archives/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93.html</url>
-    <content><![CDATA[<p>&emsp;&emsp;循环管道，用管桥连接管道的首端和末端，使液体循环流动。</p>
-<p>&emsp;&emsp;循环管道常用于利用液体的循环流动来传递热量（控制温度——降温或升温）。</p>
-<p>&emsp;&emsp;循环管道原理：利用白口的特性，“液体往白口流动”相当于给液体一个流动的方向，然后液体进入白口后再从绿口出来，再继续往白口流动，以此循环。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93/1%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93.gif?imageMogr2/format/webp" alt="循环管道.gif"></p>
+    <title>金属精炼器模块</title>
+    <url>/archives/%E9%87%91%E5%B1%9E%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>4 技术</category>
+        <category>模块</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自循环碳素脱离器</title>
+    <url>/archives/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8.html</url>
+    <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;消除二氧化碳。</p>
+<h2 id="2-模块搭建"><a href="#2-模块搭建" class="headerlink" title="2 模块搭建"></a>2 模块搭建</h2><h3 id="2-1-模块蓝图"><a href="#2-1-模块蓝图" class="headerlink" title="2.1 模块蓝图"></a>2.1 模块蓝图</h3><p>&emsp;&emsp;所需科技树：碳素脱离器，净水器。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8%E7%A7%91%E6%8A%80%E6%A0%91.png?imageMogr2/format/webp" alt="自循环碳素脱离器科技树.png"></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;能满足此效果的建筑还有“调节阀”，下文叙述的管桥也可用调节阀实现。</p>
+<p>&emsp;&emsp;自循环碳素脱离器的工作方式：</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环碳素脱离器/自循环碳素脱离器的工作方式.png?imageMogr2/format/webp" style="zoom:25%;" />
+
 <p>&emsp;&emsp;</p>
-<p>&emsp;循环管道中，液体碰到白口就立马从绿口出来，所以管桥白口的那节管道是空的，因此循环管道实际上不能充满液体，必须留空了一节。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%932.png?imageMogr2/format/webp" alt="循环管道2.png"></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/2循环管道空一节.gif?imageMogr2/format/webp" alt="2循环管道空一节.gif"  />
-
-<p>&emsp;</p>
-<p>&emsp;&emsp;对循环管道输入液体一定要用管桥，管桥能对循环管道在满足循环的同时充入最大量液体。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/循环管道1.png?imageMogr2/format/webp" alt="循环管道1.png?imageMogr2/format/webp" style="zoom: 67%;" />
-
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/4管桥输入循环管道.gif?imageMogr2/format/webp" alt="4管桥输入循环管道.gif?imageMogr2/format/webp"  />
-
-<p>&emsp;</p>
-<p>&emsp;&emsp;如果不用管桥，而是输入管道直接连接循环管道：</p>
-<p>&emsp;&emsp;输入管道会把循环管道充满液体。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/5直接输入循环管道.gif?imageMogr2/format/webp" alt="5直接输入循环管道.gif?imageMogr2/format/webp"  />
-
-<p>&emsp;</p>
-<p>&emsp;&emsp;因为循环管道充满了液体，绿口的管道有液体卡住，白口无法吸入液体，导致管桥无法工作，液体停下不动。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%933.png?imageMogr2/format/webp" alt="循环管道3.png?imageMogr2/format/webp"></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/循环管道/3充满循环管道不.gif?imageMogr2/format/webp" alt="3充满循环管道不.gif?imageMogr2/format/webp"  />
-
-
-
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8.jpg?imageMogr2/format/webp" alt="自循环碳素脱离器.jpg"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8%E7%AE%A1%E9%81%93.jpg?imageMogr2/format/webp" alt="自循环碳素脱离器管道.jpg"></p>
+<p>&emsp;&emsp;</p>
+<h3 id="2-2-对模块注入水的管道接法"><a href="#2-2-对模块注入水的管道接法" class="headerlink" title="2.2 对模块注入水的管道接法"></a>2.2 对模块注入水的管道接法</h3><p>&emsp;&emsp;从黄框处，用“液体管桥”对厕所输入水，输满水后拆掉管桥。理由见《<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体/气体</a>》。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.jpg?imageMogr2/format/webp" alt="对模块注入水的管道接法.jpg"></p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
-        <category>1 教程</category>
+        <category>4 技术</category>
+        <category>模块</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电解器模块</title>
+    <url>/archives/%E7%94%B5%E8%A7%A3%E5%99%A8%E6%A8%A1%E5%9D%97.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>4 技术</category>
+        <category>模块</category>
       </categories>
       <tags>
         <tag>缺氧百科</tag>
@@ -2881,57 +2813,6 @@
       </tags>
   </entry>
   <entry>
-    <title>自循环碳素脱离器</title>
-    <url>/archives/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8.html</url>
-    <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;消除二氧化碳。</p>
-<h2 id="2-模块搭建"><a href="#2-模块搭建" class="headerlink" title="2 模块搭建"></a>2 模块搭建</h2><h3 id="2-1-模块蓝图"><a href="#2-1-模块蓝图" class="headerlink" title="2.1 模块蓝图"></a>2.1 模块蓝图</h3><p>&emsp;&emsp;所需科技树：碳素脱离器，净水器。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8%E7%A7%91%E6%8A%80%E6%A0%91.png?imageMogr2/format/webp" alt="自循环碳素脱离器科技树.png"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;自循环碳素脱离器的工作方式：</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环碳素脱离器/自循环碳素脱离器的工作方式.png?imageMogr2/format/webp" style="zoom:25%;" />
-
-<p>&emsp;&emsp;</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8.jpg?imageMogr2/format/webp" alt="自循环碳素脱离器.jpg"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8%E7%AE%A1%E9%81%93.jpg?imageMogr2/format/webp" alt="自循环碳素脱离器管道.jpg"></p>
-<p>&emsp;&emsp;</p>
-<h3 id="2-2-对模块注入水的管道接法"><a href="#2-2-对模块注入水的管道接法" class="headerlink" title="2.2 对模块注入水的管道接法"></a>2.2 对模块注入水的管道接法</h3><p>&emsp;&emsp;从黄框处，用“液体管桥”对厕所输入水，输满水后拆掉管桥。理由见《<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体/气体</a>》。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.jpg?imageMogr2/format/webp" alt="对模块注入水的管道接法.jpg"></p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>4 技术</category>
-        <category>模块</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>建筑</title>
-    <url>/archives/%E5%BB%BA%E7%AD%91.html</url>
-    <content><![CDATA[<h1 id="1-建筑分类"><a href="#1-建筑分类" class="headerlink" title="1 建筑分类"></a>1 建筑分类</h1><p>建筑分为：砖，门，机器</p>
-<h1 id="2-砖的性质"><a href="#2-砖的性质" class="headerlink" title="2 砖的性质"></a>2 砖的性质</h1><h1 id="3-门的性质"><a href="#3-门的性质" class="headerlink" title="3 门的性质"></a>3 门的性质</h1><h1 id="4-机器的性质"><a href="#4-机器的性质" class="headerlink" title="4 机器的性质"></a>4 机器的性质</h1>]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>3 百科</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>复制人</title>
-    <url>/archives/%E5%A4%8D%E5%88%B6%E4%BA%BA.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>3 百科</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>收集气液体</title>
     <url>/archives/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93.html</url>
     <content><![CDATA[<p>&emsp;&emsp;</p>
@@ -2967,6 +2848,77 @@
       </tags>
   </entry>
   <entry>
+    <title>搭建真空室</title>
+    <url>/archives/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4.html</url>
+    <content><![CDATA[<h1 id="1-真空室"><a href="#1-真空室" class="headerlink" title="1 真空室"></a>1 真空室</h1><p>&emsp;&emsp;真空，即空间内没有任何气体、液体、固体。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E7%9C%9F%E7%A9%BA.png?imageMogr2/format/webp" alt="真空.png"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;搭建一个真空室的主要用途：</p>
+<p>（1）该区域用于单独生产某种气体，先把房间弄成真空去除杂气，再作气体生产。</p>
+<p>（2）用于隔热，真空不传热。</p>
+<p>&emsp;……</p>
+<h1 id="2-气泵抽真空"><a href="#2-气泵抽真空" class="headerlink" title="2 气泵抽真空"></a>2 气泵抽真空</h1><p>&emsp;&emsp;搭好房间，直接用气泵抽到真空。优点是省事，缺点是比较费电。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/搭建真空室/气泵抽真空.png?imageMogr2/format/webp" alt="气泵抽真空.png?imageMogr2/format/webp" style="zoom:80%;" />
+
+<p>&emsp;&emsp;当然，除了气泵，也可以用各种抽气方式抽真空，比如液推，推气门等等，可见《–》。</p>
+<h1 id="3-挖天然方块和填砖出真空"><a href="#3-挖天然方块和填砖出真空" class="headerlink" title="3 挖天然方块和填砖出真空"></a>3 挖天然方块和填砖出真空</h1><p>步骤一：</p>
+<p>&emsp;&emsp;找一片完整的天然方块区域。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%8C%96%E5%A4%A9%E7%84%B6%E6%96%B9%E5%9D%971.png?imageMogr2/format/webp" alt="挖天然方块1.png"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;如果天然方块中间有空缺，并且里面有气体，可以挖一条通道进去，再用砖块填掉空缺处，然后再把通道填掉。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E5%A4%A9%E7%84%B6%E6%96%B9%E5%9D%97%E6%9C%89%E6%B0%94%E4%BD%931.png?imageMogr2/format/webp" alt="天然方块有气体1.png"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E5%A4%A9%E7%84%B6%E6%96%B9%E5%9D%97%E6%9C%89%E6%B0%94%E4%BD%932.png?imageMogr2/format/webp" alt="天然方块有气体2.png"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E5%A4%A9%E7%84%B6%E6%96%B9%E5%9D%97%E6%9C%89%E6%B0%94%E4%BD%933.png?imageMogr2/format/webp" alt="天然方块有气体3.png"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;也可以直接用砖块填出一片区域。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E7%A0%96%E5%A1%AB%E5%87%BA%E4%B8%80%E7%89%87%E5%8C%BA%E5%9F%9F.png?imageMogr2/format/webp" alt="砖填出一片区域.png"></p>
+<p>&emsp;</p>
+<p>步骤二：</p>
+<p>&emsp;&emsp;搭建<a href="https://410091174.github.io/archives/b33654cd" target="_blank">水门</a>。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A81.png?imageMogr2/format/webp" alt="搭建水门1.png"></p>
+<p>&emsp;&emsp;倒入水，形成水门。（如果水门右边有气体卡住，可以建造砖块把气体填掉）</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A82.png?imageMogr2/format/webp" alt="搭建水门2.png"></p>
+<p>步骤3：</p>
+<p>&emsp;&emsp;挖出一片区域，内部自然形成真空。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%8C%96%E5%87%BA%E7%9C%9F%E7%A9%BA.png?imageMogr2/format/webp" alt="挖出真空.png"></p>
+<p>&emsp;&emsp;如果有需要，可以用砖块包围真空室，方便电线和管道进出。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E7%A0%96%E5%9B%B4%E4%BD%8F%E7%9C%9F%E7%A9%BA%E5%AE%A4.png?imageMogr2/format/webp" alt="砖围住真空室.png"></p>
+<p>&emsp;&emsp;为真空室围上砖块可能会遇上这种情况，天然方块只有一层，外面就是杂气，如果直接建造砖块，杂气有可能混入模块内。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%96%B9%E5%9D%97%E5%A4%96%E9%9D%A2%E6%98%AF%E6%9D%82%E6%B0%941.jpg?imageMogr2/format/webp" alt="方块外面是杂气1.jpg"></p>
+<p>&emsp;&emsp;可以先在外围建一层砖块挡着，再建真空室的砖块。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%96%B9%E5%9D%97%E5%A4%96%E9%9D%A2%E6%98%AF%E6%9D%82%E6%B0%942.png?imageMogr2/format/webp" alt="方块外面是杂气2.png"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>4 技术</category>
+        <category>技巧</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>望远镜防陨石的简单技巧</title>
+    <url>/archives/%E6%9C%9B%E8%BF%9C%E9%95%9C%E9%98%B2%E9%99%A8%E7%9F%B3%E7%9A%84%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7.html</url>
+    <content><![CDATA[<h2 id="1-目的"><a href="#1-目的" class="headerlink" title="1 目的"></a>1 目的</h2><p>&emsp;&emsp;研究行星。</p>
+<h2 id="2-模块介绍"><a href="#2-模块介绍" class="headerlink" title="2 模块介绍"></a>2 模块介绍</h2><p>&emsp;&emsp;怎么简单怎么来，虽然能见度只有45%，但是简单无脑啊。</p>
+<p>&emsp;&emsp;堡垒砖比较短，望远镜有1%的概率会被砸到，一般研究完全部行星都不会被砸到，要是被砸了，出门小心点。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C%E9%98%B2%E9%99%A8%E7%9F%B3%E7%9A%84%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C.png?imageMogr2/format/webp" alt="望远镜.png"></p>
+<p>&emsp;&emsp;可以两边再往外延申一格堡垒砖，万无一失，但能见度只剩下25%。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C%E9%98%B2%E9%99%A8%E7%9F%B3%E7%9A%84%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C1.png?imageMogr2/format/webp" alt="望远镜1"></p>
+<p>&emsp;&emsp;再抠门一点，把堡垒砖省掉。用砖块把浮土陨石接住，用浮土挡有伤害的陨石。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C%E9%98%B2%E9%99%A8%E7%9F%B3%E7%9A%84%E7%AE%80%E5%8D%95%E6%8A%80%E5%B7%A7/%E6%9C%9B%E8%BF%9C%E9%95%9C2.png?imageMogr2/format/webp" alt="望远镜2"></p>
+<p>&emsp;&emsp;不过要是脸黑刚建好就飞来两个以上有伤害的陨石，又正好砸在同一个地方把砖块砸没了，那我也没辙了，脸黑认命吧。</p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>4 技术</category>
+        <category>技巧</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>树鼠种植野生植物</title>
     <url>/archives/%E6%A0%91%E9%BC%A0%E7%A7%8D%E6%A4%8D%E9%87%8E%E7%94%9F%E6%A4%8D%E7%89%A9.html</url>
     <content><![CDATA[<h1 id="树鼠种植规律"><a href="#树鼠种植规律" class="headerlink" title="树鼠种植规律"></a>树鼠种植规律</h1><h1 id="树鼠种植实操教学"><a href="#树鼠种植实操教学" class="headerlink" title="树鼠种植实操教学"></a>树鼠种植实操教学</h1>]]></content>
@@ -2980,234 +2932,114 @@
       </tags>
   </entry>
   <entry>
-    <title>泉开发</title>
-    <url>/archives/%E6%B3%89%E5%BC%80%E5%8F%91.html</url>
-    <content><![CDATA[]]></content>
+    <title>水门</title>
+    <url>/archives/%E6%B0%B4%E9%97%A8.html</url>
+    <content><![CDATA[<h1 id="1-水门的作用"><a href="#1-水门的作用" class="headerlink" title="1 水门的作用"></a>1 水门的作用</h1><p>&emsp;&emsp;水门，用于分隔两边气体，并且可以让复制人通过。</p>
+<p>&emsp;&emsp;水门是非常实用的一个小技巧，相当于存水管的水封（厕所马桶的u型管）。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%B0%B4%E9%97%A8%E5%88%86%E9%9A%94%E6%B0%94%E4%BD%93.jpg?imageMogr2/format/webp" alt="水门分隔气体.jpg"><br>&emsp;&emsp;上图可以看到，左边是氧气，右边是氢气，两边气体被水门分隔无法相互流通。</p>
+<p>&emsp;&emsp;原理：利用缺氧里一格只能有一种物质，以及液体比气体重的特性，用液体挡在气体中间分隔两边气体。</p>
+<p>&emsp;&emsp;水门的基本结构：<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="水门.png"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;下图是比较常见的使用方式，在基地出入口做水门，防止野外杂气混入基地，同时保证复制人出行。（你也不想家里的气体五颜六色吧。）</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E5%9F%BA%E5%9C%B0%E9%97%A8%E5%8F%A3%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="基地门口水门.jpg"></p>
+<h1 id="2-搭建水门"><a href="#2-搭建水门" class="headerlink" title="2 搭建水门"></a>2 搭建水门</h1><p>&emsp;&emsp;搭建出水门的轮廓和“空桶器”，空桶器勾选需要倒入的液体，点击“启用自动装瓶”（允许复制人用“手压泵”抽水给空桶器），调高优先级。</p>
+<p>&emsp;&emsp;待水浸没至第二层，先取消勾选液体，再拆除空桶器。（标记上拆除，复制人也能运液体给空桶器，所以最好先取消勾选。）</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A81.jpg?imageMogr2/format/webp" alt="搭建水门1.jpg"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A82.jpg?imageMogr2/format/webp" alt="搭建水门2.jpg"></p>
+<p>&emsp;&emsp;</p>
+<h1 id="3-各类水门"><a href="#3-各类水门" class="headerlink" title="3 各类水门"></a>3 各类水门</h1><h2 id="3-1-水门"><a href="#3-1-水门" class="headerlink" title="3.1 水门"></a>3.1 水门</h2><p>&emsp;&emsp;最普通的水门，也是最稳定的水门。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="水门.png"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;普通水门的变种，比普通水门省两格水，目测通过速度比上面的水门快0.1s。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E6%B0%B4%E9%97%A82.jpg?imageMogr2/format/webp" alt="水门2.jpg?"></p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-2-双层液体水门"><a href="#3-2-双层液体水门" class="headerlink" title="3.2 双层液体水门"></a>3.2 双层液体水门</h2><p>&emsp;&emsp;利用游戏一格一物的规则，用两层液体，一层液体只需几十克，也可以搭建出一个水门，大幅度节省水。</p>
+<p>&emsp;&emsp;（注意事项：因为液体质量小，如果复制人拿几百上千度的碎片通过，可能会导致水门液体蒸发使水门破坏。）</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;搭建方法：</p>
+<p>&emsp;&emsp;先倒入重的液体，再倒入轻的液体。（轻→重：水&lt;污染水&lt;盐水&lt;石油&lt;原油)</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E5%8F%8C%E5%B1%82%E6%B0%B4%E9%97%A81.jpg?imageMogr2/format/webp" alt="双层水门1.jpg"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E5%8F%8C%E5%B1%82%E6%B0%B4%E9%97%A82.jpg?imageMogr2/format/webp" alt="双层水门2.jpg"></p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-3-耐温水门（石油-原油水门）"><a href="#3-3-耐温水门（石油-原油水门）" class="headerlink" title="3.3 耐温水门（石油/原油水门）"></a>3.3 耐温水门（石油/原油水门）</h2><p>&emsp;&emsp;用石油和原油做水门，石油耐温 -57~539℃，原油耐温 -40~400℃。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E8%80%90%E6%B8%A9%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="耐温水门.jpg"></p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-4-隔热水门"><a href="#3-4-隔热水门" class="headerlink" title="3.4 隔热水门"></a>3.4 隔热水门</h2><h3 id="3-4-1-隔热水门基础版"><a href="#3-4-1-隔热水门基础版" class="headerlink" title="3.4.1 隔热水门基础版"></a>3.4.1 隔热水门基础版</h3><h4 id="（1）介绍"><a href="#（1）介绍" class="headerlink" title="（1）介绍"></a>（1）介绍</h4><p>&emsp;&emsp;隔热水门，利用真空隔热，解决了水门不隔热的问题。</p>
+<p>&emsp;&emsp;隔热水门常用于需要复制人出入且隔离温度的区域。</p>
+<p>&emsp;&emsp;（真空不导热。内部真空的透气砖不导热。）</p>
+<p>&emsp;&emsp;下图中，左边是用于需要隔离温度的区域，用隔热砖围起来，右边是常温区，用普通砖块即可。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门.png?imageMogr2/format/webp" alt="隔热水门" style="zoom: 70%;" />
+
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;可以看到，左边是超高温气体，右边是常温气体，左右两边并没有发生热交换。（严格来说，热交换发生在：左边高温气体→隔热砖→砖块→常温气体。不过隔热砖的导热率非常低，基本可以忽略不计。）</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门温度视图.png?imageMogr2/format/webp" alt="隔热水门" style="zoom: 70%;" />
+
+<p> &emsp;&emsp;</p>
+<h4 id="（2）搭建"><a href="#（2）搭建" class="headerlink" title="（2）搭建"></a>（2）搭建</h4><p>&emsp;&emsp;先圈出轮廓，一般中间都会残留气体（如下图中间的氧气）。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门搭建1.png?imageMogr2/format/webp" alt="隔热水门搭建1" style="zoom: 70%;" />
+
+<p> &emsp;&emsp;</p>
+<p>&emsp;&emsp;填砖，把气体填掉。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门搭建2.png?imageMogr2/format/webp" alt="隔热水门搭建2" style="zoom: 70%;" />
+
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;建透气砖，把填的砖拆掉。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门搭建3.png?imageMogr2/format/webp" alt="隔热水门搭建3" style="zoom: 70%;" />
+
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;完工。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门搭建4.png?imageMogr2/format/webp" alt="隔热水门搭建4" style="zoom: 70%;" />
+
+<p>&emsp;</p>
+<h3 id="3-4-2-隔热水门简化版"><a href="#3-4-2-隔热水门简化版" class="headerlink" title="3.4.2 隔热水门简化版"></a>3.4.2 隔热水门简化版</h3><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门简化版1.png?imageMogr2/format/webp" alt="隔热水门简化版1" style="zoom: 70%;" />
+
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门简化版2.png?imageMogr2/format/webp" alt="隔热水门简化版2" style="zoom: 70%;" />
+
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;先如下图建好，1000kg&gt;倒水量&gt;100g。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门简化版搭建1.png?imageMogr2/format/webp" alt="隔热水门简化版搭建1" style="zoom: 70%;" />
+
+<p>&emsp;&emsp;拆掉橙色框的砖块就能形成隔热水门。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/隔热水门简化版搭建2.png?imageMogr2/format/webp" alt="隔热水门简化版搭建2" style="zoom: 70%;" />
+
+<p>&emsp;&emsp;</p>
+<h2 id="3-5-凝胶水门"><a href="#3-5-凝胶水门" class="headerlink" title="3.5 凝胶水门"></a>3.5 凝胶水门</h2><p>&emsp;&emsp;凝胶，太空 （后期）材料，详细介绍见《–》。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E5%87%9D%E8%83%B6%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="凝胶水门.jpg"></p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-6-二格水门"><a href="#3-6-二格水门" class="headerlink" title="3.6 二格水门"></a>3.6 二格水门</h2><p>&emsp;&emsp;用两格不同的液体形成的水门。</p>
+<p>&emsp;&emsp;不推荐使用。这种水门容易因玩家的无意操作波及到水门，导致水门崩坏。例如，复制人拿着挥发物通过水门，复制人在水门里面时，刚好挥发物喷发气体，导致水门崩坏；液体流过来把水门冲破……</p>
+<p>&emsp;&emsp;（编者已标明不推荐使用，因水门崩坏导致的问题，编者不承担责任，自己哭去）</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E4%BA%8C%E6%A0%BC%E6%B0%B4%E9%97%A8.jpg?imageMogr2/format/webp" alt="二格水门.jpg"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;搭建：如下，不作解释，当作设立学习门槛。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%B0%B4%E9%97%A8/%E4%BA%8C%E6%A0%BC%E6%B0%B4%E9%97%A8%E6%90%AD%E5%BB%BA.jpg?imageMogr2/format/webp" alt="二格水门搭建.jpg"></p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-7-一格水门"><a href="#3-7-一格水门" class="headerlink" title="3.7 一格水门"></a>3.7 一格水门</h2><p>&emsp;&emsp;用一格液体形成的水门。相对其他液体用石脑油比较稳定。</p>
+<p>&emsp;&emsp;不推荐使用。这种水门容易因玩家的无意操作波及到水门，导致水门崩坏。例如，复制人拿着挥发物通过水门，复制人在水门里面时，刚好挥发物喷发气体，导致水门崩坏；或者有液体流过来把水门冲破……</p>
+<p>&emsp;&emsp;（编者已标明不推荐使用，因水门崩坏导致的问题，编者不承担责任，自己哭去）</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/一格水门.png?imageMogr2/format/webp" style="zoom: 70%;" />
+
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/一格水门视图.png?imageMogr2/format/webp" style="zoom: 70%;" />
+
+<p>&emsp;&emsp;</p>
+<h2 id="3-8-水门拓展"><a href="#3-8-水门拓展" class="headerlink" title="3.8 水门拓展"></a>3.8 水门拓展</h2><h3 id="3-8-1-分隔液体"><a href="#3-8-1-分隔液体" class="headerlink" title="3.8.1 分隔液体"></a>3.8.1 分隔液体</h3><p>&emsp;&emsp;水门也能分隔液体，只要水门的液体比被隔离的液体重。<br>&emsp;&emsp;常见液体-重&gt;轻：原油&gt;石油&gt;盐水&gt;污染水&gt;水</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/水门-隔绝液体.png?imageMogr2/format/webp" alt="水门-隔绝液体.png" style="zoom: 70%;" /> 
+
+<p>&emsp;&emsp;</p>
+<h3 id="3-8-2-气门"><a href="#3-8-2-气门" class="headerlink" title="3.8.2 气门"></a>3.8.2 气门</h3><p>&emsp;&emsp;用气体也能做“水门”，越重的气体沉得越低，用重的气体沉到底部分隔较轻的气体。一般用二氧化碳，方便易得。<br>&emsp;&emsp;注意，气门不稳定，气体有流动性会到处飘。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/气门1.png?imageMogr2/format/webp" alt="气门1.png?imageMogr2/format/webp" /></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/气门2.png?imageMogr2/format/webp" alt="气门2.png?imageMogr2/format/webp" />
+&emsp;&emsp;
+
+<p>&emsp;&emsp;气门一般用在开荒时，要挖入一个区域，不想让区域里面的杂气飘出来，但又不怕杂气飘出来（气门不稳定)，并且要挖进去的那个地方刚好有二氧化碳，就可以挖出个水门形状的出入口，让二氧化碳充当水门。</p>
+<p>&emsp;&emsp;常见气体-重&gt;轻：二氧化碳&gt;氯气&gt;污染氧&gt;氧气&gt;氢气</p>
+<p>&emsp;&emsp;二氧化碳门不能完全阻挡氯气，如果用二氧化碳门分隔氯气，氯气能慢慢一点点地通过二氧化碳门。</p>
+<h3 id="3-8-3-无湿透debuff水门"><a href="#3-8-3-无湿透debuff水门" class="headerlink" title="3.8.3 无湿透debuff水门"></a>3.8.3 无湿透debuff水门</h3><p>参考文献：大biubiu的缺氧日常.<a href="https://www.bilibili.com/video/BV12K41137MW">【缺氧】不带负面buff的水门</a>.bilibili. 2020-12-12.</p>
+<p>&emsp;&emsp;复制人跳跃经过水门，不会浑身湿透。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/水门/无湿透debuff水门.png?imageMogr2/format/webp" alt="无湿透debuff水门" />]]></content>
       <categories>
         <category>缺氧百科</category>
         <category>4 技术</category>
-        <category>模块</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>电解器模块</title>
-    <url>/archives/%E7%94%B5%E8%A7%A3%E5%99%A8%E6%A8%A1%E5%9D%97.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>4 技术</category>
-        <category>模块</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>金属精炼器模块</title>
-    <url>/archives/%E9%87%91%E5%B1%9E%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>4 技术</category>
-        <category>模块</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>建筑图鉴</title>
-    <url>/archives/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>5 数据库</category>
-        <category>建筑图鉴</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>气体管道元素传感器</title>
-    <url>/archives/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8.html</url>
-    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：检测管道里面的内容物（气体），输出自动化信号。</p>
-<p>&emsp;&emsp;气体管道元素传感器的检测范围是与传感器在同一格的管道。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/11.png?imageMogr2/format/webp" alt="11"></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/通风/气体管道元素传感器/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
-
-<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家选择一种气体，传感器检测管道里有该气体时输出绿色信号（自动化）；无该气体时输出红色信号。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/21.png?imageMogr2/format/webp" alt="21"></p>
-<p>&emsp;&emsp;下图中，传感器检测到氧气，输出绿色信号，电灯发亮。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/22.png?imageMogr2/format/webp" alt="22"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;没有检测到氧气，输出红色信号，电灯熄灭。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/23.png?imageMogr2/format/webp" alt="23"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;当然，上面的例子只是介绍怎么用，在实际使用中一般不会用来控制电灯。</p>
-<p>&emsp;&emsp;常用实例：</p>
-<p>&emsp;&emsp;（1）气体管道元素传感器+气体开关阀，实现气体分离。</p>
-<p>&emsp;&emsp;（2）……</p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>5 数据库</category>
-        <category>建筑图鉴</category>
-        <category>通风</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>气体过滤器</title>
-    <url>/archives/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8.html</url>
-    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：分离管道里的气体。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/11.png?imageMogr2/format/webp" alt="11"></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/通风/气体过滤器/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
-
-<p>&emsp;</p>
-<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;打开通风概览（气体管道视图）可以看到，黄口是过滤口。</p>
-<p>&emsp;&emsp;玩家选择需要过滤的气体，通入白口的气体若有选定气体，则选定气体由黄口排出，其余气体由绿口排出。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/21.png?imageMogr2/format/webp" alt="21"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;下图选择过滤氧气，氧气从黄口排出。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/22.png?imageMogr2/format/webp" alt="22"></p>
-<h1 id="3-注意事项"><a href="#3-注意事项" class="headerlink" title="3 注意事项"></a>3 注意事项</h1><p>&emsp;&emsp;过滤器的管道如图下侧管道，白口、绿口、黄口的管道是分开的，千万不要连到一起。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/31.png?imageMogr2/format/webp" alt="31"></p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>5 数据库</category>
-        <category>建筑图鉴</category>
-        <category>通风</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>气体开关阀</title>
-    <url>/archives/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80.html</url>
-    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：由自动化信号控制气体开关阀的工作，以实现管道的流通与阻断。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/通风/气体开关阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
-
-<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;开关阀收到绿色信号时工作，即允许气体从绿口流出；收到红色信号时停止工作，即气体无法通过。</p>
-<p>&emsp;&emsp;当开关阀收到绿色信号时，延时1秒才启动工作。</p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;下图为收到绿色信号——工作。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
-<p>下图为收到红色信号——停止工作，气体无法从开关阀绿口出来。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/23.png?imageMogr2/format/webp" alt="23"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/24.png?imageMogr2/format/webp" alt="24"></p>
-<p>&emsp;&emsp;常用实例：</p>
-<p>&emsp;&emsp;（1）气体管道元素传感器+气体开关阀，实现气体过滤。见《</p>
-<p>&emsp;&emsp;（2）……</p>
-<h1 id="3-注意事项"><a href="#3-注意事项" class="headerlink" title="3 注意事项"></a>3 注意事项</h1><p>&emsp;&emsp;开关阀的管道连接如下图的下方管道，白口和绿口的管道是分开的，千万不要连到一起。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/31.png?imageMogr2/format/webp" alt="31.png"></p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>5 数据库</category>
-        <category>建筑图鉴</category>
-        <category>通风</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用管桥对管道输入气液体</title>
-    <url>/archives/%E7%94%A8%E7%AE%A1%E6%A1%A5%E5%AF%B9%E7%AE%A1%E9%81%93%E8%BE%93%E5%85%A5%E6%B0%94%E6%B6%B2%E4%BD%93.html</url>
-    <content><![CDATA[<p>&emsp;&emsp;下文以液体管道举例，气体管道同理。</p>
-<p>&emsp;</p>
-<h1 id="用管桥对管道输入液体-气体"><a href="#用管桥对管道输入液体-气体" class="headerlink" title="用管桥对管道输入液体(气体)"></a>用管桥对管道输入液体(气体)</h1><p>&emsp;&emsp;用外部的管道对模块管道输入水，并且输完后就拆掉外部管道，推荐使用“管桥”连接外部管道和模块管道。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/用管桥对管道输入液体气体/气体和液体管桥.png?imageMogr2/format/webp" alt="气体和液体管桥.png?imageMogr2/format/webp" style="zoom:25%;" />
-
-<p>&emsp;&emsp;用液体管桥注入液体的好处（气体同理）：</p>
-<p>&emsp;&emsp;（1）拆除管桥不会漏水，管桥没有内容物，也就是管桥内部没有液体。</p>
-<p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。具体见《<a href="https://410091174.github.io/archives/6d4d5131" target="_blank">循环管道</a>》。</p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/用管桥对管道输入液体气体/对模块注入水的管道接法.png?imageMogr2/format/webp" alt="对模块注入水的管道接法.png" style="zoom:67%;" />
-
-<p>&emsp;</p>
-<p>&emsp;&emsp;如果直接把管道连起来，拆掉的那节管道会漏一地水，事后还要拖地，所以为了避免麻烦，推荐用管桥。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E8%A1%A5%E5%85%85%E7%9F%A5%E8%AF%86/%E7%94%A8%E7%AE%A1%E6%A1%A5%E5%AF%B9%E7%AE%A1%E9%81%93%E8%BE%93%E5%85%A5%E6%B6%B2%E4%BD%93%E6%B0%94%E4%BD%93/%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%AE%A1%E9%81%93%E8%BF%9E%E8%B5%B7%E6%9D%A5.png?imageMogr2/format/webp" alt="直接把管道连起来.png?imageMogr2/format/webp"></p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>1 教程</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>液体开关阀</title>
-    <url>/archives/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80.html</url>
-    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：由自动化信号控制液体开关阀的工作，以实现管道的流通与阻断。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体开关阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
-
-<p>&emsp;&emsp;</p>
-<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;开关阀收到绿色信号时工作，即允许液体从绿口流出；收到红色信号时停止工作，即液体无法通过。</p>
-<p>&emsp;&emsp;当开关阀收到绿色信号时，延时1秒才启动工作。</p>
-<p>&emsp;&emsp;<br>&emsp;&emsp;下图为收到绿色信号——工作。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
-<p>&emsp;&emsp;</p>
-<p>下图为收到红色信号——停止工作，液体无法从开关阀绿口出来。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/23.png?imageMogr2/format/webp" alt="23"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/24.png?imageMogr2/format/webp" alt="24"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;常用实例：</p>
-<p>&emsp;&emsp;（1）液体管道元素传感器+液体开关阀，实现液体分离。</p>
-<p>&emsp;&emsp;（2）……</p>
-<h1 id="3-注意事项"><a href="#3-注意事项" class="headerlink" title="3 注意事项"></a>3 注意事项</h1><p>&emsp;&emsp;开关阀的管道连接如下图的下方管道，白口和绿口的管道是分开的，千万不要连到一起。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/31.png?imageMogr2/format/webp" alt="31.png"></p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>5 数据库</category>
-        <category>建筑图鉴</category>
-        <category>水管</category>
-      </categories>
-      <tags>
-        <tag>缺氧百科</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>液体管道元素传感器</title>
-    <url>/archives/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8.html</url>
-    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：检测管道里面的内容物（液体），输出自动化信号。</p>
-<p>&emsp;&emsp;液体管道元素传感器的检测范围是与传感器在同一格的管道。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/11.png?imageMogr2/format/webp" alt="11"></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体管道元素传感器/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
-
-<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家选择一种液体，传感器检测管道里有该液体时输出绿色信号（自动化）；无该液体时输出红色信号。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/21.png?imageMogr2/format/webp" alt="21"></p>
-<p>&emsp;&emsp;下图中，传感器检测到水，输出绿色信号，电灯发亮。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/22.png?imageMogr2/format/webp" alt="22"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;没有检测到水，输出红色信号，电灯熄灭。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/23.png?imageMogr2/format/webp" alt="23"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;当然，上面的例子只是介绍怎么用，在实际使用中一般不会用来控制电灯。</p>
-<p>&emsp;&emsp;常用实例：</p>
-<p>&emsp;&emsp;（1）液体管道元素传感器+液体开关阀，实现液体分离。</p>
-<p>&emsp;&emsp;（2）……</p>
-]]></content>
-      <categories>
-        <category>缺氧百科</category>
-        <category>5 数据库</category>
-        <category>建筑图鉴</category>
-        <category>水管</category>
+        <category>技巧</category>
       </categories>
       <tags>
         <tag>缺氧百科</tag>
@@ -3324,6 +3156,143 @@
       </tags>
   </entry>
   <entry>
+    <title>建筑图鉴</title>
+    <url>/archives/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>气体开关阀</title>
+    <url>/archives/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：由自动化信号控制气体开关阀的工作，以实现管道的流通与阻断。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/通风/气体开关阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;开关阀收到绿色信号时工作，即允许气体从绿口流出；收到红色信号时停止工作，即气体无法通过。</p>
+<p>&emsp;&emsp;当开关阀收到绿色信号时，延时1秒才启动工作。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;下图为收到绿色信号——工作。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
+<p>下图为收到红色信号——停止工作，气体无法从开关阀绿口出来。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/23.png?imageMogr2/format/webp" alt="23"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/24.png?imageMogr2/format/webp" alt="24"></p>
+<p>&emsp;&emsp;常用实例：</p>
+<p>&emsp;&emsp;（1）气体管道元素传感器+气体开关阀，实现气体过滤。见《</p>
+<p>&emsp;&emsp;（2）……</p>
+<h1 id="3-注意事项"><a href="#3-注意事项" class="headerlink" title="3 注意事项"></a>3 注意事项</h1><p>&emsp;&emsp;开关阀的管道连接如下图的下方管道，白口和绿口的管道是分开的，千万不要连到一起。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/31.png?imageMogr2/format/webp" alt="31.png"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>通风</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>气体管道元素传感器</title>
+    <url>/archives/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：检测管道里面的内容物（气体），输出自动化信号。</p>
+<p>&emsp;&emsp;气体管道元素传感器的检测范围是与传感器在同一格的管道。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/通风/气体管道元素传感器/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家选择一种气体，传感器检测管道里有该气体时输出绿色信号（自动化）；无该气体时输出红色信号。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/21.png?imageMogr2/format/webp" alt="21"></p>
+<p>&emsp;&emsp;下图中，传感器检测到氧气，输出绿色信号，电灯发亮。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/22.png?imageMogr2/format/webp" alt="22"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;没有检测到氧气，输出红色信号，电灯熄灭。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/23.png?imageMogr2/format/webp" alt="23"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;当然，上面的例子只是介绍怎么用，在实际使用中一般不会用来控制电灯。</p>
+<p>&emsp;&emsp;常用实例：</p>
+<p>&emsp;&emsp;（1）气体管道元素传感器+气体开关阀，实现气体分离。</p>
+<p>&emsp;&emsp;（2）……</p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>通风</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>气体过滤器</title>
+    <url>/archives/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：分离管道里的气体。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/通风/气体过滤器/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+<p>&emsp;</p>
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;打开通风概览（气体管道视图）可以看到，黄口是过滤口。</p>
+<p>&emsp;&emsp;玩家选择需要过滤的气体，通入白口的气体若有选定气体，则选定气体由黄口排出，其余气体由绿口排出。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/21.png?imageMogr2/format/webp" alt="21"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;下图选择过滤氧气，氧气从黄口排出。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/22.png?imageMogr2/format/webp" alt="22"></p>
+<h1 id="3-注意事项"><a href="#3-注意事项" class="headerlink" title="3 注意事项"></a>3 注意事项</h1><p>&emsp;&emsp;过滤器的管道如图下侧管道，白口、绿口、黄口的管道是分开的，千万不要连到一起。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/31.png?imageMogr2/format/webp" alt="31"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>通风</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>液体开关阀</title>
+    <url>/archives/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：由自动化信号控制液体开关阀的工作，以实现管道的流通与阻断。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体开关阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+<p>&emsp;&emsp;</p>
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;开关阀收到绿色信号时工作，即允许液体从绿口流出；收到红色信号时停止工作，即液体无法通过。</p>
+<p>&emsp;&emsp;当开关阀收到绿色信号时，延时1秒才启动工作。</p>
+<p>&emsp;&emsp;<br>&emsp;&emsp;下图为收到绿色信号——工作。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
+<p>&emsp;&emsp;</p>
+<p>下图为收到红色信号——停止工作，液体无法从开关阀绿口出来。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/23.png?imageMogr2/format/webp" alt="23"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/24.png?imageMogr2/format/webp" alt="24"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;常用实例：</p>
+<p>&emsp;&emsp;（1）液体管道元素传感器+液体开关阀，实现液体分离。</p>
+<p>&emsp;&emsp;（2）……</p>
+<h1 id="3-注意事项"><a href="#3-注意事项" class="headerlink" title="3 注意事项"></a>3 注意事项</h1><p>&emsp;&emsp;开关阀的管道连接如下图的下方管道，白口和绿口的管道是分开的，千万不要连到一起。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E5%BC%80%E5%85%B3%E9%98%80/31.png?imageMogr2/format/webp" alt="31.png"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>水管</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>液体过滤器</title>
     <url>/archives/%E6%B6%B2%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8.html</url>
     <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：分离管道里的液体。</p>
@@ -3339,6 +3308,37 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/22.png?imageMogr2/format/webp" alt="22"></p>
 <h1 id="3-注意事项"><a href="#3-注意事项" class="headerlink" title="3 注意事项"></a>3 注意事项</h1><p>&emsp;&emsp;过滤器的管道如图下侧管道，白口、绿口、黄口的管道是分开的，千万不要连到一起。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%BF%87%E6%BB%A4%E5%99%A8/31.png?imageMogr2/format/webp" alt="31"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>水管</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>液体管道元素传感器</title>
+    <url>/archives/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：检测管道里面的内容物（液体），输出自动化信号。</p>
+<p>&emsp;&emsp;液体管道元素传感器的检测范围是与传感器在同一格的管道。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体管道元素传感器/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家选择一种液体，传感器检测管道里有该液体时输出绿色信号（自动化）；无该液体时输出红色信号。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/21.png?imageMogr2/format/webp" alt="21"></p>
+<p>&emsp;&emsp;下图中，传感器检测到水，输出绿色信号，电灯发亮。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/22.png?imageMogr2/format/webp" alt="22"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;没有检测到水，输出红色信号，电灯熄灭。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/23.png?imageMogr2/format/webp" alt="23"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;当然，上面的例子只是介绍怎么用，在实际使用中一般不会用来控制电灯。</p>
+<p>&emsp;&emsp;常用实例：</p>
+<p>&emsp;&emsp;（1）液体管道元素传感器+液体开关阀，实现液体分离。</p>
+<p>&emsp;&emsp;（2）……</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
