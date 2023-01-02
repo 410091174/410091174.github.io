@@ -3057,7 +3057,7 @@
 <p>&emsp;&emsp;<a href="https://410091174.github.io/archives/气体开关阀" target="_blank">气体开关阀</a>，<a href="https://410091174.github.io/archives/液体开关阀" target="_blank">液体开关阀</a>，由自动化信号控制开关阀的工作，以实现管道的流通与阻断。</p>
 <p>&emsp;&emsp;优点：耗电少。</p>
 <p>&emsp;&emsp;缺点：注意事项较多，对玩家水平有一定门槛。</p>
-<h2 id="2-1-组合使用基础"><a href="#2-1-组合使用基础" class="headerlink" title="2.1 组合使用基础"></a>2.1 组合使用基础</h2><p>&emsp;&emsp;开关阀和管道元素传感器的简单组合使用效果：下图为选择过滤出氧气。</p>
+<h2 id="2-1-组合使用基础"><a href="#2-1-组合使用基础" class="headerlink" title="2.1 组合使用基础"></a>2.1 组合使用基础</h2><p>&emsp;&emsp;开关阀和管道元素传感器的简单组合使用效果：下图为过滤出氧气。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/211.gif?imageMogr2/format/webp" alt="211"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;组合使用方法如下：</p>
@@ -3139,12 +3139,16 @@
 <p>&emsp;</p>
 <p>&emsp;&emsp;情况二：<br>&emsp;&emsp;哪有那么多情况，不写啦，开摆，别想那么复杂，大不了每种气体都来个开关阀。</p>
 <p>&emsp;</p>
-<h1 id="3-流量阀与管桥"><a href="#3-流量阀与管桥" class="headerlink" title="3 流量阀与管桥"></a>3 流量阀与管桥</h1><p>&emsp;&emsp;</p>
+<h1 id="3-流量阀与管桥"><a href="#3-流量阀与管桥" class="headerlink" title="3 流量阀与管桥"></a>3 流量阀与管桥</h1><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/气体调节阀" target="_blank">气体调节阀</a>，<a href="https://410091174.github.io/archives/液体调节阀" target="_blank">液体调节阀</a>，用于控制管道的流量。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;优点：不耗电。</p>
 <p>&emsp;&emsp;缺点：注意事项较多，对玩家水平有一定门槛。</p>
-<h2 id="3-1-组合使用基础"><a href="#3-1-组合使用基础" class="headerlink" title="3.1 组合使用基础"></a>3.1 组合使用基础</h2><h2 id="3-2-完全过滤系统"><a href="#3-2-完全过滤系统" class="headerlink" title="3.2 完全过滤系统"></a>3.2 完全过滤系统</h2><h3 id="（1）搭建教学-1"><a href="#（1）搭建教学-1" class="headerlink" title="（1）搭建教学"></a>（1）搭建教学</h3><p>&emsp;&emsp;</p>
-<h3 id="（2）堵塞分析-emsp-emsp"><a href="#（2）堵塞分析-emsp-emsp" class="headerlink" title="（2）堵塞分析&emsp;&emsp;"></a>（2）堵塞分析&emsp;&emsp;</h3><h3 id="（3）杂气处理-1"><a href="#（3）杂气处理-1" class="headerlink" title="（3）杂气处理"></a>（3）杂气处理</h3><p>&emsp;&emsp;</p>
+<h2 id="3-1-组合使用基础"><a href="#3-1-组合使用基础" class="headerlink" title="3.1 组合使用基础"></a>3.1 组合使用基础</h2><p>&emsp;&emsp;流量阀与管桥的简单组合使用效果：下图为过滤出氧气。</p>
+<p>//<br>&emsp;&emsp;</p>
+<p>&emsp;&emsp;组合使用方法如下：</p>
+<h2 id="3-2-完全过滤系统"><a href="#3-2-完全过滤系统" class="headerlink" title="3.2 完全过滤系统"></a>3.2 完全过滤系统</h2><h3 id="（1）搭建教学-1"><a href="#（1）搭建教学-1" class="headerlink" title="（1）搭建教学"></a>（1）搭建教学</h3><p>&emsp;&emsp;</p>
+<h3 id="（2）堵塞分析-1"><a href="#（2）堵塞分析-1" class="headerlink" title="（2）堵塞分析"></a>（2）堵塞分析</h3><p>&emsp;&emsp;</p>
+<h3 id="（3）杂气处理-1"><a href="#（3）杂气处理-1" class="headerlink" title="（3）杂气处理"></a>（3）杂气处理</h3><p>&emsp;&emsp;</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3158,7 +3162,15 @@
   <entry>
     <title>建筑图鉴</title>
     <url>/archives/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="水管"><a href="#水管" class="headerlink" title="水管"></a>水管</h1><p><a href="https://410091174.github.io/archives/液体过滤器" target="_blank">液体过滤器</a></p>
+<p><a href="https://410091174.github.io/archives/气体调节阀" target="_blank">气体调节阀</a></p>
+<p><a href="https://410091174.github.io/archives/液体开关阀" target="_blank">液体开关阀</a></p>
+<p><a href="https://410091174.github.io/archives/液体管道元素传感器" target="_blank">液体管道元素传感器</a></p>
+<h1 id="通风"><a href="#通风" class="headerlink" title="通风"></a>通风</h1><p><a href="https://410091174.github.io/archives/气体过滤器" target="_blank">气体过滤器</a></p>
+<p><a href="https://410091174.github.io/archives/液体调节阀" target="_blank">液体调节阀</a></p>
+<p><a href="https://410091174.github.io/archives/气体开关阀" target="_blank">气体开关阀</a></p>
+<p><a href="https://410091174.github.io/archives/气体管道元素传感器" target="_blank">气体管道元素传感器</a></p>
+]]></content>
       <categories>
         <category>缺氧百科</category>
         <category>5 数据库</category>
