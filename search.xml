@@ -3055,10 +3055,10 @@
 <p>&emsp;&emsp;</p>
 <h1 id="2-开关阀与管道元素传感器"><a href="#2-开关阀与管道元素传感器" class="headerlink" title="2 开关阀与管道元素传感器"></a>2 开关阀与管道元素传感器</h1><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/气体管道元素传感器" target="_blank">气体管道元素传感器</a>，<a href="https://410091174.github.io/archives/液体管道元素传感器" target="_blank">液体管道元素传感器</a>，检测管道里面的内容物（气体，液体），输出自动化信号。</p>
 <p>&emsp;&emsp;<a href="https://410091174.github.io/archives/气体开关阀" target="_blank">气体开关阀</a>，<a href="https://410091174.github.io/archives/液体开关阀" target="_blank">液体开关阀</a>，由自动化信号控制开关阀的工作，以实现管道的流通与阻断。</p>
-<p>&emsp;&emsp;优点：省电。</p>
+<p>&emsp;&emsp;优点：耗电少。</p>
 <p>&emsp;&emsp;缺点：注意事项较多，对玩家水平有一定门槛。</p>
-<h2 id="2-1-组合使用基础"><a href="#2-1-组合使用基础" class="headerlink" title="2.1 组合使用基础"></a>2.1 组合使用基础</h2><p>&emsp;&emsp;开关阀和管道元素传感器的简单组合使用效果：下动图为选择过滤出氧气。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/211.gif" alt="211"></p>
+<h2 id="2-1-组合使用基础"><a href="#2-1-组合使用基础" class="headerlink" title="2.1 组合使用基础"></a>2.1 组合使用基础</h2><p>&emsp;&emsp;开关阀和管道元素传感器的简单组合使用效果：下图为选择过滤出氧气。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/211.gif?imageMogr2/format/webp" alt="211"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;组合使用方法如下：</p>
 <p>&emsp;&emsp;先搭建传感器和开关阀。</p>
@@ -3070,7 +3070,7 @@
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;搭建好之后给管道通入气体，可见，成功过滤出氧气（传感器选择的气体），氢气（其他气体）继续向前流走。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/214.png?imageMogr2/format/webp" alt="214"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/211.gif" alt="211"><br>&emsp;</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/211.gif?imageMogr2/format/webp" alt="211"><br>&emsp;</p>
 <p>&emsp;&emsp;原理：&emsp;（“选定气体”指传感器选择的气体）</p>
 <p>&emsp;&emsp;传感器检测到选定气体时，传感器输出绿色信号给开关阀；开关阀接到信号会延迟1秒启动，选定气体走到开关阀白口时刚好开关阀启动（管道气体流动速度是1秒/格），然后从开关阀绿口出来；以此实现气体过滤。</p>
 <p>&emsp;&emsp;<br>&emsp;&emsp;可以对一条管道过滤出多种气体，只需为每一种气体都搭建一个开关阀+传感器：</p>
@@ -3143,8 +3143,8 @@
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;优点：不耗电。</p>
 <p>&emsp;&emsp;缺点：注意事项较多，对玩家水平有一定门槛。</p>
-<p>&emsp;&emsp;</p>
-<h1 id="4-气体重力分离"><a href="#4-气体重力分离" class="headerlink" title="4 气体重力分离"></a>4 气体重力分离</h1><p>&emsp;&emsp;</p>
+<h2 id="3-1-组合使用基础"><a href="#3-1-组合使用基础" class="headerlink" title="3.1 组合使用基础"></a>3.1 组合使用基础</h2><h2 id="3-2-完全过滤系统"><a href="#3-2-完全过滤系统" class="headerlink" title="3.2 完全过滤系统"></a>3.2 完全过滤系统</h2><h3 id="（1）搭建教学-1"><a href="#（1）搭建教学-1" class="headerlink" title="（1）搭建教学"></a>（1）搭建教学</h3><p>&emsp;&emsp;</p>
+<h3 id="（2）堵塞分析-emsp-emsp"><a href="#（2）堵塞分析-emsp-emsp" class="headerlink" title="（2）堵塞分析&emsp;&emsp;"></a>（2）堵塞分析&emsp;&emsp;</h3><h3 id="（3）杂气处理-1"><a href="#（3）杂气处理-1" class="headerlink" title="（3）杂气处理"></a>（3）杂气处理</h3><p>&emsp;&emsp;</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3327,6 +3327,7 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/11.png?imageMogr2/format/webp" alt="11"></p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体管道元素传感器/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
 
+
 <h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家选择一种液体，传感器检测管道里有该液体时输出绿色信号（自动化）；无该液体时输出红色信号。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E5%85%83%E7%B4%A0%E4%BC%A0%E6%84%9F%E5%99%A8/21.png?imageMogr2/format/webp" alt="21"></p>
 <p>&emsp;&emsp;下图中，传感器检测到水，输出绿色信号，电灯发亮。</p>
@@ -3339,6 +3340,54 @@
 <p>&emsp;&emsp;常用实例：</p>
 <p>&emsp;&emsp;（1）液体管道元素传感器+液体开关阀，实现液体分离。</p>
 <p>&emsp;&emsp;（2）……</p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>水管</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>液体调节阀</title>
+    <url>/archives/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：控制管道的流量。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体调节阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家先设置调节阀的流量，然后复制人前来修改。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
+<p>&emsp;&emsp;上图可以看到，玩家对流量设置500g/s，信息栏状态显示“操作任务”——需要复制人前来操作；也可以看到调节阀下面有读条——复制人工作的读条。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;修改完流量之后：<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>水管</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>气体调节阀</title>
+    <url>/archives/%E6%B0%94%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：控制管道的流量。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B0%94%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/气体调节阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家先设置调节阀的流量，然后复制人前来修改调节阀流量。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B0%94%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
+<p>&emsp;&emsp;上图可以看到，玩家对流量阀设置500g/s，信息栏状态显示“操作任务”——需要复制人前来操作；也可以看到调节阀下面有读条——复制人工作的读条。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;修改完流量之后：<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B0%94%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
