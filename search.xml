@@ -1731,15 +1731,15 @@
   <entry>
     <title>管道系统</title>
     <url>/archives/%E7%AE%A1%E9%81%93%E7%B3%BB%E7%BB%9F.html</url>
-    <content><![CDATA[<h1 id="1-管道的基本使用"><a href="#1-管道的基本使用" class="headerlink" title="1 管道的基本使用"></a>1 管道的基本使用</h1><p>&emsp;&emsp;液体管道和气体管道主要科技树：</p>
+    <content><![CDATA[<h1 id="1-管道的基本使用"><a href="#1-管道的基本使用" class="headerlink" title="1 管道的基本使用"></a>1 管道的基本使用</h1><p>&emsp;&emsp;管道系统的主要科技树：</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/管道系统/1液体管道和气体管道主要科技树.png?imageMogr2/format/webp" alt="1液体管道和气体管道主要科技树" style="zoom:80%;" />
 
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;主要建筑位于“水管”和“气体”。</p>
+<p>&emsp;&emsp;主要建筑位于建造栏的“水管”和“通风”。</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/管道系统/1建造栏水管和气体.png?imageMogr2/format/webp" alt="1建造栏水管和气体"  />
 
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;打开<strong>水管视图（快捷键：F6)</strong> 和 <strong>气管视图（F7）</strong>，可以看到，视图里有教程。（既然都有教程了，本文完结？）</p>
+<p>&emsp;&emsp;打开<strong>水管视图（快捷键：F6)</strong> 和 <strong>通风视图（F7）</strong>，可以看到，视图里有教程。（既然都有教程了，本文完结？）</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/管道系统/1水管和通风视图.png?imageMogr2/format/webp" alt="1水管和通风视图" style="zoom: 25%;" />
 
 <p> &emsp;</p>
@@ -1747,11 +1747,11 @@
 <table>
     <tr>
         <td width="130"> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/管道系统/1输入口.png?imageMogr2/format/webp" alt="1输入口"  /></td>
-        <td><b>输入口</b>（白口），（管道对建筑）输入液体；液体从管道流向建筑。</td>
+        <td><b>输入口</b>（白口），（管道对建筑）输入液体。</td>
     </tr>
     <tr>
         <td width="130"> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/管道系统/1输出口.png?imageMogr2/format/webp" alt="1输出口"  /></td>
-        <td><b>输出口</b>（绿口），（建筑）输出液体（给管道）；液体从建筑流向管道。</td>
+        <td><b>输出口</b>（绿口），（建筑）输出液体（给管道）。</td>
     </tr>
 </table>
 
@@ -2816,27 +2816,30 @@
     <title>收集气液体</title>
     <url>/archives/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93.html</url>
     <content><![CDATA[<p>&emsp;&emsp;</p>
-<h1 id="1-气体收集"><a href="#1-气体收集" class="headerlink" title="1 气体收集"></a>1 气体收集</h1><p>&emsp;&emsp;气体收集指把气体从一个地方单向送到另一个地方。</p>
-<p>&emsp;&emsp;目的：（1）在生产气体时，生产装置可能会因为气压太高导致生产，所以需要把气体收走并储存，以维持生产装置的正常气压。（2）除去一片区域气体。</p>
-<h3 id="1-1-气泵"><a href="#1-1-气泵" class="headerlink" title="1.1 气泵"></a>1.1 气泵</h3><p>&emsp;&emsp;抽就完事。</p>
-<p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/111%E6%B0%94%E6%B3%B5.png" alt="111气泵"></p>
+<p>&emsp;&emsp;收集气体和液体，指把气体或液体从一个地方送到另一个地方储存起来。</p>
 <p>&emsp;&emsp;</p>
-<h3 id="1-2-滴液吸气"><a href="#1-2-滴液吸气" class="headerlink" title="1.2 滴液吸气"></a>1.2 滴液吸气</h3><p>&emsp;&emsp;下图是把右边气体抽到左边。</p>
+<p>&emsp;&emsp;目的：</p>
+<p>&emsp;&emsp;（1）收集气液体；储存气液体。</p>
+<p>&emsp;&emsp;（2）在气体生产时，产气设备可能会因为气压太高停止出气，所以需要把气体收走并储存，以维持生产装置的正常气压。</p>
+<p>&emsp;&emsp;（3）清理一片区域的气体或液体。</p>
+<p>&emsp;&emsp;</p>
+<h1 id="1-气泵和液泵"><a href="#1-气泵和液泵" class="headerlink" title="1 气泵和液泵"></a>1 气泵和液泵</h1><p>&emsp;&emsp;用法见<a href="https://410091174.github.io/archives/气泵" target="_blank">气泵</a>，<a href="https://410091174.github.io/archives/液泵" target="_blank">液泵</a>。</p>
+<p>&emsp;&emsp;优点：简单实用。</p>
+<p>&emsp;&emsp;</p>
+<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;下图是把右边气体抽到左边。</p>
 <p>&emsp;&emsp;液体调节阀设置0.1g/s。</p>
 <p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/112%E6%BB%B4%E6%B6%B2%E5%90%B8%E6%B0%94.png" alt="112滴液吸气"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;可以镜像，像下图可以把中间气体抽到右边。</p>
 <p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/112%E6%BB%B4%E6%B6%B2%E5%90%B8%E6%B0%942.png" alt="112滴液吸气2"></p>
 <p>&emsp;&emsp;当较轻液体滴到橙框，橙框液体会与红框气体交换位置，所以右边气体会被“吸”到左边</p>
-<h3 id="1-3-单门推气"><a href="#1-3-单门推气" class="headerlink" title="1.3 单门推气"></a>1.3 单门推气</h3><h3 id="1-4-推气门"><a href="#1-4-推气门" class="headerlink" title="1.4 推气门"></a>1.4 推气门</h3><h4 id="（1）推气门原理"><a href="#（1）推气门原理" class="headerlink" title="（1）推气门原理"></a>（1）推气门原理</h4><p>推气门运动状态：</p>
+<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><h1 id="（1）推气门原理"><a href="#（1）推气门原理" class="headerlink" title="（1）推气门原理"></a>（1）推气门原理</h1><p>推气门运动状态：</p>
 <p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%86.png" alt="1141推气门原理"></p>
 <p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%863.png" alt="1141推气门原理3"></p>
 <p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%864.png" alt="1141推气门原理4"></p>
 <p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%865.png" alt="1141推气门原理5"></p>
 <p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%866.png" alt="1141推气门原理6"></p>
 <p>（2）<br>000<br>110<br>010<br>011<br>001<br>000</p>
-<h1 id="2-液体收集"><a href="#2-液体收集" class="headerlink" title="2 液体收集"></a>2 液体收集</h1><p>&emsp;&emsp;&emsp;（1）液泵。</p>
-<p>&emsp;&emsp;&emsp;（2）推气门，也能用于推液体。</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3057,8 +3060,8 @@
 <p>&emsp;&emsp;<a href="https://410091174.github.io/archives/气体开关阀" target="_blank">气体开关阀</a>，<a href="https://410091174.github.io/archives/液体开关阀" target="_blank">液体开关阀</a>，由自动化信号控制开关阀的工作，以实现管道的流通与阻断。</p>
 <p>&emsp;&emsp;优点：耗电少。</p>
 <p>&emsp;&emsp;缺点：注意事项较多，对玩家水平有一定门槛。</p>
-<h2 id="2-1-组合使用基础"><a href="#2-1-组合使用基础" class="headerlink" title="2.1 组合使用基础"></a>2.1 组合使用基础</h2><p>&emsp;&emsp;开关阀和管道元素传感器的简单组合使用效果：下图为过滤出氧气。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/211.gif?imageMogr2/format/webp" alt="211"></p>
+<h2 id="2-1-使用基础"><a href="#2-1-使用基础" class="headerlink" title="2.1 使用基础"></a>2.1 使用基础</h2><p>&emsp;&emsp;开关阀和管道元素传感器的简单组合使用效果：下图为过滤出氧气。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif?imageMogr2/format/webp" alt="211"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;组合使用方法如下：</p>
 <p>&emsp;&emsp;先搭建传感器和开关阀。</p>
@@ -3070,7 +3073,7 @@
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;搭建好之后给管道通入气体，可见，成功过滤出氧气（传感器选择的气体），氢气（其他气体）继续向前流走。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/214.png?imageMogr2/format/webp" alt="214"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/211.gif?imageMogr2/format/webp" alt="211"><br>&emsp;</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif?imageMogr2/format/webp" alt="211"><br>&emsp;</p>
 <p>&emsp;&emsp;原理：&emsp;（“选定气体”指传感器选择的气体）</p>
 <p>&emsp;&emsp;传感器检测到选定气体时，传感器输出绿色信号给开关阀；开关阀接到信号会延迟1秒启动，选定气体走到开关阀白口时刚好开关阀启动（管道气体流动速度是1秒/格），然后从开关阀绿口出来；以此实现气体过滤。</p>
 <p>&emsp;&emsp;<br>&emsp;&emsp;可以对一条管道过滤出多种气体，只需为每一种气体都搭建一个开关阀+传感器：</p>
@@ -3083,7 +3086,7 @@
 <h2 id="2-2-稳定的过滤系统"><a href="#2-2-稳定的过滤系统" class="headerlink" title="2.2 稳定的过滤系统"></a>2.2 稳定的过滤系统</h2><h3 id="（1）搭建教学"><a href="#（1）搭建教学" class="headerlink" title="（1）搭建教学"></a>（1）搭建教学</h3><p>&emsp;&emsp;用<a href="https://410091174.github.io/archives/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93">循环管道</a>防堵塞，增加过滤系统的稳定性。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2211.png?imageMogr2/format/webp" alt="2211"></p>
 <p>&emsp;&emsp;运行效果动图：过滤出氧气和氢气。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/221.gif?imageMogr2/format/webp" alt="221"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/22.gif?imageMogr2/format/webp" alt="221"></p>
 <p>&emsp;&emsp;</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2212.png?imageMogr2/format/webp" alt="2212"></p>
 <p>&emsp;<br>&emsp;&emsp;注意事项：</p>
@@ -3140,15 +3143,39 @@
 <p>&emsp;&emsp;情况二：<br>&emsp;&emsp;哪有那么多情况，不写啦，开摆，别想那么复杂，大不了每种气体都来个开关阀。</p>
 <p>&emsp;</p>
 <h1 id="3-流量阀与管桥"><a href="#3-流量阀与管桥" class="headerlink" title="3 流量阀与管桥"></a>3 流量阀与管桥</h1><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/气体调节阀" target="_blank">气体调节阀</a>，<a href="https://410091174.github.io/archives/液体调节阀" target="_blank">液体调节阀</a>，用于控制管道的流量。</p>
-<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;<a href="https://410091174.github.io/archives/气体管桥" target="_blank">气体管桥</a>，<a href="https://410091174.github.io/archives/液体管桥" target="_blank">液体管桥</a>，管桥中间能让另一条管道穿过。本节过滤系统是利用管桥绿口对管道补充液体的功能。</p>
 <p>&emsp;&emsp;优点：不耗电。</p>
-<p>&emsp;&emsp;缺点：注意事项较多，对玩家水平有一定门槛。</p>
-<h2 id="3-1-组合使用基础"><a href="#3-1-组合使用基础" class="headerlink" title="3.1 组合使用基础"></a>3.1 组合使用基础</h2><p>&emsp;&emsp;流量阀与管桥的简单组合使用效果：下图为过滤出氧气。</p>
-<p>//<br>&emsp;&emsp;</p>
+<p>&emsp;&emsp;缺点：过滤出的气体流量最多为999.9g/s。注意事项较多，对玩家水平有一定门槛。</p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-1-使用教学"><a href="#3-1-使用教学" class="headerlink" title="3.1 使用教学"></a>3.1 使用教学</h2><p>&emsp;&emsp;流量阀与管桥的简单组合使用效果：下图为过滤出氧气。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
 <p>&emsp;&emsp;组合使用方法如下：</p>
-<h2 id="3-2-完全过滤系统"><a href="#3-2-完全过滤系统" class="headerlink" title="3.2 完全过滤系统"></a>3.2 完全过滤系统</h2><h3 id="（1）搭建教学-1"><a href="#（1）搭建教学-1" class="headerlink" title="（1）搭建教学"></a>（1）搭建教学</h3><p>&emsp;&emsp;</p>
-<h3 id="（2）堵塞分析-1"><a href="#（2）堵塞分析-1" class="headerlink" title="（2）堵塞分析"></a>（2）堵塞分析</h3><p>&emsp;&emsp;</p>
-<h3 id="（3）杂气处理-1"><a href="#（3）杂气处理-1" class="headerlink" title="（3）杂气处理"></a>（3）杂气处理</h3><p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;先如下搭建调节阀及其循环管道。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/311.png" alt="311"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;调节阀流量设置为1g/s（也可以是0.1g/s）。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/312.png" alt="312"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;根据需要过滤的气体种类，对调节阀的循环管道充入该气体。</p>
+<p>&emsp;&emsp;（想过滤出什么气体，就先抽这种气体进管道。）</p>
+<p>&emsp;&emsp;此处选择过滤氧气，先对循环管道充入氧气。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/314.png" alt="314"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;根据实际需要，搭建管道。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/313.png" alt="313"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;开始运行。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-2-原理分析"><a href="#3-2-原理分析" class="headerlink" title="3.2 原理分析"></a>3.2 原理分析</h2><p>&emsp;&emsp;管桥对管道有补充满气体的作用，利用管桥对1g/s的循环气体补充至1000g/s；原理见<a href="https://410091174.github.io/archives/管道系统#3-3-流经白绿口时的流动规律" target="_blank">管道系统—流经白绿口时的流动规律</a>。</p>
+<p>&emsp;&emsp;调节阀的流量设置是1g/s，1000g的气体流到调节阀的白口时，1g气体从绿口出来（继续循环），剩余的999g气体被过滤出来。</p>
+<p>&emsp;&emsp;用两个管桥的原因：气体管道流量上限是1000g/s。调节阀的循环管道有1g/s的流量，满流量1000g/s的杂气管道只有999g/s能进循环管道，剩余1g/s无法被过滤出来。所以再加一个管桥把1g/s充进循环管道。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/321.png" alt="321"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;此过滤系统在一种情况下会出现问题：</p>
+<p>&emsp;&emsp;需要过滤的气体在杂气管道里的流量一直是1000g/s；即杂气管道里只有这一种气体，并且一直是1000g/s。</p>
+<p>&emsp;&emsp;一直对循环管道输入1000g/s的气体，调节阀只能过滤出999g/s，剩余1g会留在循环管道里面，直到把循环管道充满，导致过滤系统失效。</p>
+<p>&emsp;&emsp;但是，既然只有这一种气体，那为什么还要过滤呢？笑嘻了。</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3400,6 +3427,50 @@
 <p>&emsp;&emsp;上图可以看到，玩家对流量阀设置500g/s，信息栏状态显示“操作任务”——需要复制人前来操作；也可以看到调节阀下面有读条——复制人工作的读条。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;修改完流量之后：<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>通风</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>液体管桥</title>
+    <url>/archives/%E6%B6%B2%E4%BD%93%E7%AE%A1%E6%A1%A5.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;管桥中间能让另一条管道穿过。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体调节阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;管桥中间能让另一条管道穿过。</p>
+<p>&emsp;&emsp;液体的流动方向为“白口-&gt;绿口”（白进绿出）。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>水管</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>气体管桥</title>
+    <url>/archives/%E6%B0%94%E4%BD%93%E7%AE%A1%E6%A1%A5.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;管桥中间能让另一条管道穿过。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/通风/气体调节阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;管桥中间能让另一条管道穿过。</p>
+<p>&emsp;&emsp;气体的流动方向为“白口-&gt;绿口”（白进绿出）。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
