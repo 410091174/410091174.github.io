@@ -2826,19 +2826,18 @@
 <h1 id="1-气泵和液泵"><a href="#1-气泵和液泵" class="headerlink" title="1 气泵和液泵"></a>1 气泵和液泵</h1><p>&emsp;&emsp;用法见<a href="https://410091174.github.io/archives/气泵" target="_blank">气泵</a>，<a href="https://410091174.github.io/archives/液泵" target="_blank">液泵</a>。</p>
 <p>&emsp;&emsp;优点：简单实用。</p>
 <p>&emsp;&emsp;</p>
-<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;下图是把右边气体抽到左边。</p>
+<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;优点：抽气速度飞快。耗电非常小。</p>
+<p>&emsp;&emsp;缺点：需要些许液体湮灭或排到世界中。</p>
+<p>&emsp;&emsp;下图是把右边气体抽到左边。</p>
 <p>&emsp;&emsp;液体调节阀设置0.1g/s。</p>
-<p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/112%E6%BB%B4%E6%B6%B2%E5%90%B8%E6%B0%94.png" alt="112滴液吸气"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;可以镜像，像下图可以把中间气体抽到右边。</p>
-<p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/112%E6%BB%B4%E6%B6%B2%E5%90%B8%E6%B0%942.png" alt="112滴液吸气2"></p>
 <p>&emsp;&emsp;当较轻液体滴到橙框，橙框液体会与红框气体交换位置，所以右边气体会被“吸”到左边</p>
-<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><h1 id="（1）推气门原理"><a href="#（1）推气门原理" class="headerlink" title="（1）推气门原理"></a>（1）推气门原理</h1><p>推气门运动状态：</p>
-<p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%86.png" alt="1141推气门原理"></p>
-<p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%863.png" alt="1141推气门原理3"></p>
-<p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%864.png" alt="1141推气门原理4"></p>
-<p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%865.png" alt="1141推气门原理5"></p>
-<p><img src="C:/0program/Hexo/source/_posts/%E7%BC%BA%E6%B0%A7%E7%99%BE%E7%A7%91/4/%E6%8A%80%E5%B7%A7/%E6%B0%94%E4%BD%93%E5%92%8C%E6%B6%B2%E4%BD%93%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E5%88%86%E7%A6%BB.assets/1141%E6%8E%A8%E6%B0%94%E9%97%A8%E5%8E%9F%E7%90%866.png" alt="1141推气门原理6"></p>
+<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><p>&emsp;&emsp;优点：气体越多抽气速度越快。不耗电。</p>
+<p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。方向受限，只能向右推气。</p>
+<h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><p>&emsp;&emsp;优点：气体越多抽气速度越快。不耗电。</p>
+<p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有一定门槛。</p>
+<h1 id="（1）推气门原理"><a href="#（1）推气门原理" class="headerlink" title="（1）推气门原理"></a>（1）推气门原理</h1><p>推气门运动状态：</p>
 <p>（2）<br>000<br>110<br>010<br>011<br>001<br>000</p>
 ]]></content>
       <categories>
@@ -3245,8 +3244,11 @@
 <p>&emsp;&emsp;当然，如果需要避免超压的问题，可参考《2.4 用循环管道增加稳定性》，用循环管道增加稳定性。不过比较麻烦，不如不用这个方法。</p>
 <p>&emsp;&emsp;</p>
 <h1 id="5-其他分离方式（未完成）"><a href="#5-其他分离方式（未完成）" class="headerlink" title="5 其他分离方式（未完成）"></a>5 其他分离方式（未完成）</h1><p>&emsp;&emsp;此章的分离方式有些算是特性或BUG。仁者见仁智者见智吧。</p>
-<p>&emsp;&emsp;编者个人认为，这些分离方式都是针对世界中的气体和液体，都不实用，麻烦。</p>
-<h2 id="4-1-重力分离"><a href="#4-1-重力分离" class="headerlink" title="4.1 重力分离"></a>4.1 重力分离</h2><h2 id="4-2-斜角通气"><a href="#4-2-斜角通气" class="headerlink" title="4.2 斜角通气"></a>4.2 斜角通气</h2><h2 id="4-3-液啥啥啥等我想个名字"><a href="#4-3-液啥啥啥等我想个名字" class="headerlink" title="4.3 液啥啥啥等我想个名字"></a>4.3 液啥啥啥等我想个名字</h2><p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;编者个人认为，这些分离方式都是针对世界中的气体和液体，都不实用，麻烦。（咕了，基本用不上，懒得写）</p>
+<h2 id="4-1-重力分离"><a href="#4-1-重力分离" class="headerlink" title="4.1 重力分离"></a>4.1 重力分离</h2><p>&emsp;&emsp;利用气体和液体的轻重，轻在上，重在下，实现分离。</p>
+<p>&emsp;&emsp;常见气体轻→重：氢气，氧气=污染氧，天然气，高硫天然气，氯气，二氧化碳。</p>
+<p>&emsp;&emsp;常见液体轻→重：凝胶，水，污染水，盐水，乙醇，石油，超级冷却液，原油。</p>
+<h2 id="4-2-斜角通气"><a href="#4-2-斜角通气" class="headerlink" title="4.2 斜角通气"></a>4.2 斜角通气</h2><h2 id="4-3-液啥啥啥等我想个名字"><a href="#4-3-液啥啥啥等我想个名字" class="headerlink" title="4.3 液啥啥啥等我想个名字"></a>4.3 液啥啥啥等我想个名字</h2><p>&emsp;&emsp;//同类相吸</p>
 <h2 id="4-4-液推"><a href="#4-4-液推" class="headerlink" title="4.4 液推"></a>4.4 液推</h2><p>&emsp;&emsp;</p>
 <p>&emsp;</p>
 ]]></content>
@@ -3550,6 +3552,35 @@
         <category>5 数据库</category>
         <category>建筑图鉴</category>
         <category>通风</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/archives/undefined.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>液泵</title>
+    <url>/archives/%E6%B6%B2%E6%B3%B5.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：抽取环境中的液体。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体调节阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家先设置调节阀的流量，然后复制人前来修改。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
+<p>&emsp;&emsp;上图可以看到，玩家对流量设置500g/s，信息栏状态显示“操作任务”——需要复制人前来操作；也可以看到调节阀下面有读条——复制人工作的读条。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;修改完流量之后，可以看到右边液体的形状小了很多。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>水管</category>
       </categories>
       <tags>
         <tag>缺氧百科</tag>
