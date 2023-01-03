@@ -3149,7 +3149,7 @@
 <p>&emsp;&emsp;缺点：过滤出的气体流量最多为999.9g/s。注意事项较多，对玩家水平有一定门槛。</p>
 <p>&emsp;&emsp;</p>
 <h2 id="3-1-使用教学"><a href="#3-1-使用教学" class="headerlink" title="3.1 使用教学"></a>3.1 使用教学</h2><p>&emsp;&emsp;流量阀与管桥的简单组合使用效果：下图为过滤出氧气。</p>
-<p>//配错gif图了，少了一个管桥。。。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
 <p>&emsp;&emsp;组合使用方法如下：</p>
 <p>&emsp;&emsp;先如下搭建调节阀及其循环管道。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/311.png?imageMogr2/format/webp" alt="311"></p>
@@ -3166,7 +3166,7 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/313.png?imageMogr2/format/webp" alt="313"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;开始运行。</p>
-<p>//配错gif图了，少了一个管桥。。。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
 <p>&emsp;&emsp;</p>
 <h2 id="3-2-原理分析"><a href="#3-2-原理分析" class="headerlink" title="3.2 原理分析"></a>3.2 原理分析</h2><p>&emsp;&emsp;管桥对管道有补充满气体的作用，利用管桥对1g/s的循环气体补充至1000g/s；原理见<a href="https://410091174.github.io/archives/管道系统#3-3-流经白绿口时的流动规律" target="_blank">管道系统—流经白绿口时的流动规律</a>。</p>
 <p>&emsp;&emsp;调节阀的流量设置是1g/s，1000g的气体流到调节阀的白口时，1g气体从绿口出来（继续循环），剩余的999g气体被过滤出来。</p>
