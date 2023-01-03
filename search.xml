@@ -3073,7 +3073,8 @@
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;搭建好之后给管道通入气体，可见，成功过滤出氧气（传感器选择的气体），氢气（其他气体）继续向前流走。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/214.png?imageMogr2/format/webp" alt="214"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif?imageMogr2/format/webp" alt="211"><br>&emsp;</p>
+<p>&emsp;</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif?imageMogr2/format/webp" alt="211"></p>
 <p>&emsp;&emsp;原理：&emsp;（“选定气体”指传感器选择的气体）</p>
 <p>&emsp;&emsp;传感器检测到选定气体时，传感器输出绿色信号给开关阀；开关阀接到信号会延迟1秒启动，选定气体走到开关阀白口时刚好开关阀启动（管道气体流动速度是1秒/格），然后从开关阀绿口出来；以此实现气体过滤。</p>
 <p>&emsp;&emsp;<br>&emsp;&emsp;可以对一条管道过滤出多种气体，只需为每一种气体都搭建一个开关阀+传感器：</p>
@@ -3148,34 +3149,34 @@
 <p>&emsp;&emsp;缺点：过滤出的气体流量最多为999.9g/s。注意事项较多，对玩家水平有一定门槛。</p>
 <p>&emsp;&emsp;</p>
 <h2 id="3-1-使用教学"><a href="#3-1-使用教学" class="headerlink" title="3.1 使用教学"></a>3.1 使用教学</h2><p>&emsp;&emsp;流量阀与管桥的简单组合使用效果：下图为过滤出氧气。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
+<p>//配错gif图了，少了一个管桥。。。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
 <p>&emsp;&emsp;组合使用方法如下：</p>
 <p>&emsp;&emsp;先如下搭建调节阀及其循环管道。</p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/311.png" alt="311"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/311.png?imageMogr2/format/webp" alt="311"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;调节阀流量设置为1g/s（也可以是0.1g/s）。</p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/312.png" alt="312"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/312.png?imageMogr2/format/webp" alt="312"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;根据需要过滤的气体种类，对调节阀的循环管道充入该气体。</p>
 <p>&emsp;&emsp;（想过滤出什么气体，就先抽这种气体进管道。）</p>
 <p>&emsp;&emsp;此处选择过滤氧气，先对循环管道充入氧气。</p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/314.png" alt="314"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/314.png?imageMogr2/format/webp" alt="314"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;根据实际需要，搭建管道。</p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/313.png" alt="313"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/313.png?imageMogr2/format/webp" alt="313"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;开始运行。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
+<p>//配错gif图了，少了一个管桥。。。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
 <p>&emsp;&emsp;</p>
 <h2 id="3-2-原理分析"><a href="#3-2-原理分析" class="headerlink" title="3.2 原理分析"></a>3.2 原理分析</h2><p>&emsp;&emsp;管桥对管道有补充满气体的作用，利用管桥对1g/s的循环气体补充至1000g/s；原理见<a href="https://410091174.github.io/archives/管道系统#3-3-流经白绿口时的流动规律" target="_blank">管道系统—流经白绿口时的流动规律</a>。</p>
 <p>&emsp;&emsp;调节阀的流量设置是1g/s，1000g的气体流到调节阀的白口时，1g气体从绿口出来（继续循环），剩余的999g气体被过滤出来。</p>
 <p>&emsp;&emsp;用两个管桥的原因：气体管道流量上限是1000g/s。调节阀的循环管道有1g/s的流量，满流量1000g/s的杂气管道只有999g/s能进循环管道，剩余1g/s无法被过滤出来。所以再加一个管桥把1g/s充进循环管道。</p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/321.png" alt="321"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/321.png?imageMogr2/format/webp" alt="321"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;此过滤系统在一种情况下会出现问题：</p>
 <p>&emsp;&emsp;需要过滤的气体在杂气管道里的流量一直是1000g/s；即杂气管道里只有这一种气体，并且一直是1000g/s。</p>
 <p>&emsp;&emsp;一直对循环管道输入1000g/s的气体，调节阀只能过滤出999g/s，剩余1g会留在循环管道里面，直到把循环管道充满，导致过滤系统失效。</p>
-<p>&emsp;&emsp;但是，既然只有这一种气体，那为什么还要过滤呢？笑嘻了。</p>
+<p>&emsp;&emsp;但是，既然只有这一种气体，那还要过滤干嘛呢？。</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
