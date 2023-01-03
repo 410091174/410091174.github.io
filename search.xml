@@ -2816,7 +2816,7 @@
     <title>收集气液体</title>
     <url>/archives/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93.html</url>
     <content><![CDATA[<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;收集气体和液体，指把气体或液体从一个地方送到另一个地方储存起来。</p>
+<p>&emsp;&emsp;收集气体和液体，指把气体或液体从一个地方送到另一个地方（，储存起来）。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;目的：</p>
 <p>&emsp;&emsp;（1）收集气液体；储存气液体。</p>
@@ -3052,7 +3052,7 @@
     <title>过滤气液体</title>
     <url>/archives/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93.html</url>
     <content><![CDATA[<p>&emsp;&emsp;</p>
-<h1 id="本文以气体举例，液体同理。"><a href="#本文以气体举例，液体同理。" class="headerlink" title="本文以气体举例，液体同理。"></a>本文以气体举例，液体同理。</h1><p>&emsp;&emsp;</p>
+<h1 id="本文以气体举例，液体同理"><a href="#本文以气体举例，液体同理" class="headerlink" title="本文以气体举例，液体同理"></a>本文以气体举例，液体同理</h1><p>&emsp;&emsp;</p>
 <h1 id="1-过滤器"><a href="#1-过滤器" class="headerlink" title="1 过滤器"></a>1 过滤器</h1><p>&emsp;&emsp;用法见<a href="https://410091174.github.io/archives/气体过滤器" target="_blank">气体过滤器</a>，<a href="https://410091174.github.io/archives/液体过滤器" target="_blank">液体过滤器</a>。</p>
 <p>&emsp;&emsp;优点：稳定，简单实用。</p>
 <p>&emsp;&emsp;</p>
@@ -3061,7 +3061,7 @@
 <p>&emsp;&emsp;优点：耗电少。</p>
 <p>&emsp;&emsp;缺点：注意事项较多，对玩家水平有一定门槛。</p>
 <h2 id="2-1-使用基础"><a href="#2-1-使用基础" class="headerlink" title="2.1 使用基础"></a>2.1 使用基础</h2><p>&emsp;&emsp;开关阀和管道元素传感器的简单组合使用效果：下图为过滤出氧气。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif?imageMogr2/format/webp" alt="211"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif?imageMogr2/format/webp" alt="21"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;组合使用方法如下：</p>
 <p>&emsp;&emsp;先搭建传感器和开关阀。</p>
@@ -3076,8 +3076,8 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/214.png?imageMogr2/format/webp" alt="214"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;搭建好之后给管道通入气体，可见，成功过滤出氧气（传感器选择的气体），氢气（其他气体）继续向前流走。</p>
-<p>&emsp;<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/215.png?imageMogr2/format/webp" alt="215"><br>&emsp;</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif?imageMogr2/format/webp" alt="21"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/215.png?imageMogr2/format/webp" alt="215"><br>&emsp;</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif?imageMogr2/format/webp" alt="21"><br>&emsp;</p>
 <p>&emsp;&emsp;原理：&emsp;（“选定气体”指传感器选择的气体）</p>
 <p>&emsp;&emsp;传感器检测到选定气体时，传感器输出绿色信号给开关阀；开关阀接到信号会延迟1秒启动，选定气体走到开关阀白口时刚好开关阀启动（管道气体流动速度是1秒/格），然后从开关阀绿口出来；以此实现气体过滤。</p>
 <p>&emsp;&emsp;<br>&emsp;&emsp;可以对一条管道过滤出多种气体，只需为每一种气体都搭建一个开关阀+传感器：</p>
@@ -3087,12 +3087,19 @@
 <p>&emsp;&emsp;本节的教学版有个致命缺点，白口不能堵塞，否则会导致过滤系统失效甚至崩溃，所以<strong>不推荐萌新使用</strong>，本节只是引导读者了解开关阀和管道元素传感器的组合使用，下节稳定版才符合日常使用。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/217.png?imageMogr2/format/webp" alt="217"></p>
 <p>&emsp;&emsp;</p>
-<h2 id="2-2-稳定的过滤系统"><a href="#2-2-稳定的过滤系统" class="headerlink" title="2.2 稳定的过滤系统"></a>2.2 稳定的过滤系统</h2><h3 id="（1）搭建教学"><a href="#（1）搭建教学" class="headerlink" title="（1）搭建教学"></a>（1）搭建教学</h3><p>&emsp;&emsp;用<a href="https://410091174.github.io/archives/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93">循环管道</a>防堵塞，增加过滤系统的稳定性。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2211.png?imageMogr2/format/webp" alt="2211"></p>
-<p>&emsp;&emsp;运行效果动图：过滤出氧气和氢气。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/22.gif?imageMogr2/format/webp" alt="221"></p>
+<h2 id="2-2-用气库增加稳定性（在写）"><a href="#2-2-用气库增加稳定性（在写）" class="headerlink" title="2.2 用气库增加稳定性（在写）"></a>2.2 用气库增加稳定性（在写）</h2><h3 id="2-2-1-气库的简单使用"><a href="#2-2-1-气库的简单使用" class="headerlink" title="2.2.1 气库的简单使用"></a>2.2.1 气库的简单使用</h3><p>&emsp;&emsp;过滤系统的基础版不能管道堵塞，那么我们可以加上气库，气库充当了缓冲作用，当上方白口堵塞时储存开关阀过滤出来的气体，(暂时)避免过滤管道的堵塞。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2211.png" alt="2211"></p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2212.png" alt="2212"></p>
+<p>&emsp;&emsp;当然，这个方法并非长久之计，如果气库满了还是会过滤失效。</p>
+<p>&emsp;&emsp;所以玩家要根据实际需求，这个方法只能用在过滤出来的气体只是短时间过多，但长期来看还是能把气体完全消耗掉的地方。</p>
 <p>&emsp;&emsp;</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2212.png?imageMogr2/format/webp" alt="2212"></p>
+<h3 id="2-2-2-气库的自动化控制"><a href="#2-2-2-气库的自动化控制" class="headerlink" title="2.2.2 气库的自动化控制"></a>2.2.2 气库的自动化控制</h3><p>&emsp;&emsp;该方法由&ensp;<strong>未见清零</strong>&ensp;提出。</p>
+<h2 id="2-3-循环管道增加稳定性"><a href="#2-3-循环管道增加稳定性" class="headerlink" title="2.3 循环管道增加稳定性"></a>2.3 循环管道增加稳定性</h2><h3 id="（1）搭建教学"><a href="#（1）搭建教学" class="headerlink" title="（1）搭建教学"></a>（1）搭建教学</h3><p>&emsp;&emsp;用<a href="https://410091174.github.io/archives/%E5%BE%AA%E7%8E%AF%E7%AE%A1%E9%81%93">循环管道</a>防堵塞，增加过滤系统的稳定性。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2311.png?imageMogr2/format/webp" alt="2311"></p>
+<p>&emsp;&emsp;运行效果动图：过滤出氧气和氢气。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/23.gif?imageMogr2/format/webp" alt="23"></p>
+<p>&emsp;&emsp;</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2312.png?imageMogr2/format/webp" alt="2312"></p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;注意事项：</p>
 <ul>
@@ -3105,15 +3112,15 @@
 <li>建议两个管桥的摆法像上文教学搭建。</li>
 </ul>
 <p>&emsp;&emsp;管桥其他摆法可能会因开关阀白口的管道优先级问题导致循环管道失效。像下图，气体全部流向右边的开关阀，无法循环流动。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2213.png?imageMogr2/format/webp" alt="2213"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2313.png?imageMogr2/format/webp" alt="2313"></p>
 <p>&emsp;</p>
 <h3 id="（2）堵塞分析"><a href="#（2）堵塞分析" class="headerlink" title="（2）堵塞分析"></a>（2）堵塞分析</h3><p>&emsp;&emsp;输出管道堵塞不会导致过滤系统崩溃。</p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;如下图，氧气非常多，充满了氧气输出管道，导致循环管道无法过滤出氧气，氧气一直留在循环管道，之后充满了循环管道，导致过滤系统停工。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2221.png?imageMogr2/format/webp" alt="2221"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2331.png?imageMogr2/format/webp" alt="2331"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;等消耗掉一点氧气，氧气输出管道有空余时，过滤系统继续正常工作。（下图是清空了气罐模拟消耗了氧气）</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2222.png?imageMogr2/format/webp" alt="2222"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2322.png?imageMogr2/format/webp" alt="2322"></p>
 <p>&emsp;&emsp;</p>
 <h3 id="（3）杂气处理"><a href="#（3）杂气处理" class="headerlink" title="（3）杂气处理"></a>（3）杂气处理</h3><p>&emsp;&emsp;前言：</p>
 <p>&emsp;&emsp;按编者的游戏经验，一般而言，这个过滤系统不考虑杂气处理，因为在用过滤系统的时候玩家一般是知道需要过滤出什么气体，只要每种气体都用一个开关阀排出即可。</p>
@@ -3129,21 +3136,21 @@
 <li><p>如果杂气充满管道，无法对循环管道充入气体，会导致过滤系统无法工作。</p>
 </li>
 </ul>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2231.png?imageMogr2/format/webp" alt="2231"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2331.png?imageMogr2/format/webp" alt="2331"></p>
 <p>&emsp;&emsp;杂气处理如下：</p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;情况一：</p>
 <p>&emsp;&emsp;从杂气中过滤出一种气体。</p>
 <p>&emsp;&emsp;如下图，从杂气（氢，氧，二氧化碳）中，过滤出氢气，其他气体全部排走。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2232.png?imageMogr2/format/webp" alt="2232"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2332.png?imageMogr2/format/webp" alt="2332"></p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;如下搭建；</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2233.png?imageMogr2/format/webp" alt="2233"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2333.png?imageMogr2/format/webp" alt="2333"></p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;两个传感器都选择“氢气”。</p>
 <p>&emsp;&emsp;下方开关阀的逻辑：允许通过除氢气以外的气体。</p>
 <p>&emsp;&emsp;上方开关阀的逻辑：允许通过氢气。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2234.png?imageMogr2/format/webp" alt="2234"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2334.png?imageMogr2/format/webp" alt="2334"></p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;情况二：<br>&emsp;&emsp;哪有那么多情况，不写啦，开摆，别想那么复杂，大不了每种气体都来个开关阀。</p>
 <p>&emsp;</p>
@@ -3172,6 +3179,9 @@
 <p>&emsp;&emsp;开始运行。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/31.gif?imageMogr2/format/webp" alt="31"></p>
 <p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;本节的教学版有个缺点，当过滤管道堵塞（上图的右边那条管道），过滤系统会失效，氧气一直往上走，不会流进过滤系统。</p>
+<p>&emsp;&emsp;所以下节给出增加稳定性的方法。</p>
+<p>&emsp;&emsp;</p>
 <h2 id="3-2-原理分析"><a href="#3-2-原理分析" class="headerlink" title="3.2 原理分析"></a>3.2 原理分析</h2><p>&emsp;&emsp;管桥对管道有补充满气体的作用，利用管桥对1g/s的循环气体补充至1000g/s；原理见<a href="https://410091174.github.io/archives/管道系统#3-3-流经白绿口时的流动规律" target="_blank">管道系统—流经白绿口时的流动规律</a>。</p>
 <p>&emsp;&emsp;调节阀的流量设置是1g/s，1000g的气体流到调节阀的白口时，1g气体从绿口出来（继续循环），剩余的999g气体被过滤出来。</p>
 <p>&emsp;&emsp;用两个管桥的原因：气体管道流量上限是1000g/s。调节阀的循环管道有1g/s的流量，满流量1000g/s的杂气管道只有999g/s能进循环管道，剩余1g/s无法被过滤出来。所以再加一个管桥把1g/s充进循环管道。</p>
@@ -3181,7 +3191,11 @@
 <p>&emsp;&emsp;需要过滤的气体在杂气管道里的流量一直是1000g/s；即杂气管道里只有这一种气体，并且一直是1000g/s。</p>
 <p>&emsp;&emsp;一直对循环管道输入1000g/s的气体，调节阀只能过滤出999g/s，剩余1g会留在循环管道里面，直到把循环管道充满，导致过滤系统失效。</p>
 <p>&emsp;&emsp;但是，既然只有这一种气体，那还要过滤干嘛呢？。</p>
-]]></content>
+<p>&emsp;&emsp;</p>
+<h2 id="3-3-循环管道增加稳定性（在写）"><a href="#3-3-循环管道增加稳定性（在写）" class="headerlink" title="3.3 循环管道增加稳定性（在写）"></a>3.3 循环管道增加稳定性（在写）</h2><h1 id="4-其他分离方式（在写）"><a href="#4-其他分离方式（在写）" class="headerlink" title="4 其他分离方式（在写）"></a>4 其他分离方式（在写）</h1><p>&emsp;&emsp;此章的分离方式算是特性或BUG，有争议。总之仁者见仁智者见智吧。</p>
+<p>&emsp;&emsp;编者个人认为，这些分离方式都不实用，麻烦。</p>
+<h2 id="4-1-斜角通气"><a href="#4-1-斜角通气" class="headerlink" title="4.1 斜角通气"></a>4.1 斜角通气</h2><p>&emsp;&emsp;</p>
+<h2 id="4-2-液推"><a href="#4-2-液推" class="headerlink" title="4.2 液推"></a>4.2 液推</h2><h2 id="4-3-液啥啥啥等我想个名字"><a href="#4-3-液啥啥啥等我想个名字" class="headerlink" title="4.3 液啥啥啥等我想个名字"></a>4.3 液啥啥啥等我想个名字</h2>]]></content>
       <categories>
         <category>缺氧百科</category>
         <category>4 技术</category>
