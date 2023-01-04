@@ -2824,15 +2824,28 @@
 <h1 id="1-气泵和液泵"><a href="#1-气泵和液泵" class="headerlink" title="1 气泵和液泵"></a>1 气泵和液泵</h1><p>&emsp;&emsp;用法见<a href="https://410091174.github.io/archives/气泵" target="_blank">气泵</a>，<a href="https://410091174.github.io/archives/液泵" target="_blank">液泵</a>。</p>
 <p>&emsp;&emsp;优点：简单实用。</p>
 <p>&emsp;&emsp;</p>
-<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;优点：抽气速度飞快。耗电非常小。</p>
+<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;优点：抽气速度飞快，抽气速度与气体质量成正比。耗电非常小。</p>
 <p>&emsp;&emsp;缺点：需要些许液体湮灭或排到世界中。</p>
 <p>&emsp;</p>
-<h2 id="2-1-使用教学"><a href="#2-1-使用教学" class="headerlink" title="2.1 使用教学"></a>2.1 使用教学</h2><p>&emsp;&emsp;</p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;当较轻液体滴到橙框，橙框液体会与红框气体交换位置，所以右边气体会被“吸”到左边</p>
-<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><p>&emsp;&emsp;优点：气体越多抽气速度越快。不耗电。</p>
+<h2 id="2-1-使用教学"><a href="#2-1-使用教学" class="headerlink" title="2.1 使用教学"></a>2.1 使用教学</h2><p>&emsp;&emsp;使用效果如下：</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif" alt="21"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;搭建：</p>
+<p>&emsp;&emsp;常用液体轻→重：水，盐水，乙醇，石油，原油。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;在橙框格滴一滴比较重的液体，此处选择原油。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/211.png" alt="211"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;搭建气体储存室，建调节阀和排液口。</p>
+<p>&emsp;&emsp;调节阀设置0.1g/s，往原油滴比原油轻的液体，此处选择水。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/212.png" alt="212"></p>
+<p>&emsp;&emsp;</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/213.png" alt="213"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;调节阀设置0.1g/s，水滴到原油上面会湮灭消失。调节阀设置小于10g/s，液体从排液口出来滴到东西之后会消失。</p>
+<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
 <p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。方向受限，只能向右推气。</p>
-<h1 id="4-单门推向液体"><a href="#4-单门推向液体" class="headerlink" title="4 单门推向液体"></a>4 单门推向液体</h1><h1 id="5-推气门"><a href="#5-推气门" class="headerlink" title="5 推气门"></a>5 推气门</h1><p>&emsp;&emsp;优点：气体越多抽气速度越快。不耗电。</p>
+<h1 id="4-单门推向液体"><a href="#4-单门推向液体" class="headerlink" title="4 单门推向液体"></a>4 单门推向液体</h1><h1 id="5-推气门"><a href="#5-推气门" class="headerlink" title="5 推气门"></a>5 推气门</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
 <p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有一定门槛。</p>
 <h1 id="（1）推气门分析"><a href="#（1）推气门分析" class="headerlink" title="（1）推气门分析"></a>（1）推气门分析</h1><p>推气门运动状态：</p>
 <p>（2）简单实用的推气门</p>
@@ -3088,8 +3101,8 @@
 <p>&emsp;&emsp;上节的教学版有个致命缺点，管道不能堵塞，否则会导致过滤系统失效甚至崩溃，所以<strong>不推荐萌新使用</strong>，教学版只是引导读者了解开关阀和管道元素传感器的组合使用，下文详细讲解增加稳定性的方法。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/221.png?imageMogr2/format/webp" alt="221"></p>
 <h2 id="2-3-用气库增加稳定性"><a href="#2-3-用气库增加稳定性" class="headerlink" title="2.3 用气库增加稳定性"></a>2.3 用气库增加稳定性</h2><h3 id="2-3-1-气库的简单使用"><a href="#2-3-1-气库的简单使用" class="headerlink" title="2.3.1 气库的简单使用"></a>2.3.1 气库的简单使用</h3><p>&emsp;&emsp;过滤系统的基础版不能管道堵塞，那么我们可以加上气库，气库充当了缓冲作用，当上方白口堵塞时储存开关阀过滤出来的气体，(暂时)避免过滤管道的堵塞。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2411.png?imageMogr2/format/webp" alt="2411"></p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2412.png?imageMogr2/format/webp" alt="2412"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2311.png?imageMogr2/format/webp" alt="2311"></p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2312.png?imageMogr2/format/webp" alt="2312"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;当然，这个方法并非长久之计，如果气库满了还是会过滤失效。</p>
 <p>&emsp;&emsp;所以玩家要根据实际需求，这个方法只能用在过滤出来的气体只是短时间过多，但长期来看还是能把气体完全消耗掉的地方。</p>
