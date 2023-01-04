@@ -8,8 +8,6 @@
 <hr>
 <center> <font face="黑体" size="5"><b>公告栏</b></font></center>
 
-<center><a href="https://docs.qq.com/doc/DZUdTVVlscXJIR3Vq" target="_blank">更新计划</a></center>
-
 <center>吹水反馈QQ群：1160123536</center>
 
 <center>如果群号搜不到，试试扫码吧。 </center>
@@ -2828,17 +2826,18 @@
 <p>&emsp;&emsp;</p>
 <h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;优点：抽气速度飞快。耗电非常小。</p>
 <p>&emsp;&emsp;缺点：需要些许液体湮灭或排到世界中。</p>
-<p>&emsp;&emsp;下图是把右边气体抽到左边。</p>
-<p>&emsp;&emsp;液体调节阀设置0.1g/s。</p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;可以镜像，像下图可以把中间气体抽到右边。</p>
+<p>&emsp;</p>
+<h2 id="2-1-使用教学"><a href="#2-1-使用教学" class="headerlink" title="2.1 使用教学"></a>2.1 使用教学</h2><p>&emsp;&emsp;</p>
+<p>&emsp;</p>
 <p>&emsp;&emsp;当较轻液体滴到橙框，橙框液体会与红框气体交换位置，所以右边气体会被“吸”到左边</p>
 <h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><p>&emsp;&emsp;优点：气体越多抽气速度越快。不耗电。</p>
 <p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。方向受限，只能向右推气。</p>
-<h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><p>&emsp;&emsp;优点：气体越多抽气速度越快。不耗电。</p>
+<h1 id="4-单门推向液体"><a href="#4-单门推向液体" class="headerlink" title="4 单门推向液体"></a>4 单门推向液体</h1><h1 id="5-推气门"><a href="#5-推气门" class="headerlink" title="5 推气门"></a>5 推气门</h1><p>&emsp;&emsp;优点：气体越多抽气速度越快。不耗电。</p>
 <p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有一定门槛。</p>
-<h1 id="（1）推气门原理"><a href="#（1）推气门原理" class="headerlink" title="（1）推气门原理"></a>（1）推气门原理</h1><p>推气门运动状态：</p>
-<p>（2）<br>000<br>110<br>010<br>011<br>001<br>000</p>
+<h1 id="（1）推气门分析"><a href="#（1）推气门分析" class="headerlink" title="（1）推气门分析"></a>（1）推气门分析</h1><p>推气门运动状态：</p>
+<p>（2）简单实用的推气门</p>
+<p>（3）原理分析</p>
+<p>000<br>110<br>010<br>011<br>001<br>000</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3218,13 +3217,14 @@
 <p>&emsp;&emsp;</p>
 <h1 id="4-排气-液-口与管道元素传感器"><a href="#4-排气-液-口与管道元素传感器" class="headerlink" title="4 排气(液)口与管道元素传感器"></a>4 排气(液)口与管道元素传感器</h1><p>&emsp;&emsp;本文以排气口举例，排液口同理。</p>
 <p>&emsp;&emsp;</p>
-<p><a href="https://410091174.github.io/archives/气体管道元素传感器" target="_blank">气体管道元素传感器</a>，<a href="https://410091174.github.io/archives/液体管道元素传感器" target="_blank">液体管道元素传感器</a>，检测管道里面的内容物（气体，液体），输出自动化信号。</p>
+<p>&emsp;&emsp;<a href="https://410091174.github.io/archives/气体管道元素传感器" target="_blank">气体管道元素传感器</a>，<a href="https://410091174.github.io/archives/液体管道元素传感器" target="_blank">液体管道元素传感器</a>，检测管道里面的内容物（气体，液体），输出自动化信号。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;优点：不耗电。</p>
 <p>&emsp;&emsp;缺点：只能排到环境中。</p>
 <h2 id="4-1-使用教学"><a href="#4-1-使用教学" class="headerlink" title="4.1 使用教学"></a>4.1 使用教学</h2><p>&emsp;&emsp;效果图如下：此处是过滤出氧气。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/gif/41.gif?imageMogr2/format/webp" alt="41"></p>
-<p>组合使用方法如下：</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;组合使用方法如下：</p>
 <p>&emsp;&emsp;先搭建排气口和传感器。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/411.png?imageMogr2/format/webp" alt="411"></p>
 <p>&emsp;&emsp;</p>
@@ -3566,15 +3566,31 @@
     <title>液泵</title>
     <url>/archives/%E6%B6%B2%E6%B3%B5.html</url>
     <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：抽取环境中的液体。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/11.png?imageMogr2/format/webp" alt="11"></p>
-<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液体调节阀/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E6%B3%B5/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/水管/液泵/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
 
 
-<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;玩家先设置调节阀的流量，然后复制人前来修改。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/21.png?imageMogr2/format/webp" alt="21"></p>
-<p>&emsp;&emsp;上图可以看到，玩家对流量设置500g/s，信息栏状态显示“操作任务”——需要复制人前来操作；也可以看到调节阀下面有读条——复制人工作的读条。</p>
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;把环境中的液体抽进管道，最大抽液速度是10kg/s。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E6%B3%B5/21.png?imageMogr2/format/webp" alt="21"></p>
+<h1 id="3-工作原理"><a href="#3-工作原理" class="headerlink" title="3 工作原理"></a>3 工作原理</h1><p>&emsp;&emsp;工作范围判定：只有在范围内有液体，液泵才会工作。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E6%B3%B5/31.png?imageMogr2/format/webp" alt="31"></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;修改完流量之后，可以看到右边液体的形状小了很多。<br><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E4%BD%93%E8%B0%83%E8%8A%82%E9%98%80/22.png?imageMogr2/format/webp" alt="22"></p>
+<p>&emsp;&emsp;抽液范围：只能抽取下图的十字范围内的液体。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E6%B3%B5/32.png?imageMogr2/format/webp" alt="32"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;液泵每0.2秒抽取1次2kg液体，每抽5次就输出1次液体，输出液体的顺序是按照内容物排序，即先进入液泵的液体先被输出。</p>
+<p>&emsp;&emsp;抽液范围的抽液顺序：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E6%B3%B5/33.png?imageMogr2/format/webp" alt="33"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;若抽液范围内都是同种液体，先从1开始抽，抽完1再抽2。</p>
+<p>&emsp;&emsp;若抽液范范围有多种液体，随机从某格开始，以每0.2s的频率按顺序每格轮流抽2kg。</p>
+<p>&emsp;&emsp;下图可以看到，位置2(水)，3、4(油)，液泵抽液按照123、123循环，所以管道里的油：水=2：1。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E6%B0%B4%E7%AE%A1/%E6%B6%B2%E6%B3%B5/34.png?imageMogr2/format/webp" alt="34"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;</p>
+<p>（本文的结论都是编者在游戏里观察液泵得出，并非完全准确。扒了一下代码，看不懂，再见）</p>
+<p>&emsp;&emsp;</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
