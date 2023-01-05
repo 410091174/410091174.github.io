@@ -3116,7 +3116,7 @@
 <p>&emsp;&emsp;用自动化线把气库和气泵连起来。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2323.png?imageMogr2/format/webp" alt="2323"></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;设置气库&ensp;上限=下限，数值随意，建议50%以下。管道越长阈值越低。</p>
+<p>&emsp;&emsp;设置气库阈值&ensp;上限=下限，建议50%以下，管道越长阈值越低。<br>&emsp;&emsp;气库输出信号禁用了气泵，但是管道里面剩余的气体还在流动，如果管道太长，气库已经装太多，相当于剩余气体多，可能会装满气库导致无法过滤气体,所以气库阈值不能太高。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E8%BF%87%E6%BB%A4%E6%B0%94%E6%B6%B2%E4%BD%93/2324.png?imageMogr2/format/webp" alt="2324"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;可以看到，上方排气口堵塞，气库储存无法排出的气体，等到气库储存了50%时，输出信号禁用气泵。</p>
