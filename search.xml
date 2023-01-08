@@ -868,7 +868,7 @@
       </tags>
   </entry>
   <entry>
-    <title>建筑</title>
+    <title>建筑（未写）</title>
     <url>/archives/%E5%BB%BA%E7%AD%91.html</url>
     <content><![CDATA[<h1 id="1-建筑分类"><a href="#1-建筑分类" class="headerlink" title="1 建筑分类"></a>1 建筑分类</h1><p>建筑分为：砖，门，机器</p>
 <h1 id="2-砖的性质"><a href="#2-砖的性质" class="headerlink" title="2 砖的性质"></a>2 砖的性质</h1><h1 id="3-门的性质"><a href="#3-门的性质" class="headerlink" title="3 门的性质"></a>3 门的性质</h1><h1 id="4-机器的性质"><a href="#4-机器的性质" class="headerlink" title="4 机器的性质"></a>4 机器的性质</h1>]]></content>
@@ -1257,22 +1257,23 @@
 
 
 
-<h2 id="2-3-不常用的房间"><a href="#2-3-不常用的房间" class="headerlink" title="2.3 不常用的房间"></a>2.3 不常用的房间</h2><h3 id="娱乐室"><a href="#娱乐室" class="headerlink" title="娱乐室"></a>娱乐室</h3><p>本节大量参考此文献：EWZP.<a href="https://www.bilibili.com/video/BV1R64y1t7Y6">【缺氧】娱乐室到底有啥用</a>.bilibili. 2021-06-28.</p>
+<h2 id="2-3-不常用的房间"><a href="#2-3-不常用的房间" class="headerlink" title="2.3 不常用的房间"></a>2.3 不常用的房间</h2><h3 id="娱乐室"><a href="#娱乐室" class="headerlink" title="娱乐室"></a>娱乐室</h3><p>本节参考此文献：EWZP.<a href="https://www.bilibili.com/video/BV1R64y1t7Y6">【缺氧】娱乐室到底有啥用</a>.bilibili. 2021-06-28.</p>
+<p>&emsp;&emsp;</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/4娱乐室.png?imageMogr2/format/webp" style="zoom: 80%;" />
 
-<p>&emsp;&emsp;1、只要有娱乐室存在，无论娱乐建筑是否在娱乐室内，复制人都不会重复使用娱乐建筑，即娱乐建筑士气加成消失之后才会再用娱乐建筑；如果没有娱乐室，复制人每半周期用一次同一种类的娱乐建筑（浴室要等BUFF消失才可再用）。<sup>[1]</sup></p>
-<p>&emsp;&emsp;2、复制人在休息时间无事可干时，会到娱乐室内路径上有氧气的格子休息。<sup>[1]</sup></p>
+<p>&emsp;&emsp;1、只要有娱乐室存在，无论娱乐建筑是否在娱乐室内，复制人都不会重复使用娱乐建筑，即娱乐建筑士气加成消失之后才会再用娱乐建筑；如果没有娱乐室，复制人每半周期用一次同一种类的娱乐建筑（浴室要等BUFF消失才可再用）。</p>
+<p>&emsp;&emsp;2、复制人在休息时间无事可干时，会到娱乐室内路径上有氧气的格子休息。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/4%E5%A8%B1%E4%B9%90%E5%AE%A41.png?imageMogr2/format/webp" alt="4娱乐室1"></p>
 <p>&emsp;&emsp;如下图，在休息时间里，复制人一直呆在路径上有氧气的地方，即使穿着太空服也是如此。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/4%E5%A8%B1%E4%B9%90%E5%AE%A42.png?imageMogr2/format/webp" alt="4娱乐室2"></p>
 <p>&emsp;&emsp;所以可利用此功能，把娱乐室装饰搞好，让休息的复制人聚集在一起，提高复制人的装饰士气。</p>
 <p>&emsp;&emsp;之所以把娱乐室列为不常用房间，是因为在当今士气溢出的版本，没必要再用娱乐建筑，房间和食物的士气已经绰绰有余。（说个好笑事，编者从玩缺氧开始就没用过娱乐建筑，萌新时没能力用，有能力时用不上……）</p>
+<p>&emsp;&emsp;</p>
 <h3 id="按摩诊所"><a href="#按摩诊所" class="headerlink" title="按摩诊所"></a>按摩诊所</h3><p>&emsp;&emsp;形成条件：按摩床+装饰建筑。</p>
 <p>&emsp;&emsp;在按摩诊所里的按摩床每周期降低复制人60%压力。（按摩床每周期降低复制人30%压力，在按摩诊所内效率翻倍。）</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/房间/4按摩诊所.png?imageMogr2/format/webp" style="zoom:67%;" />
 
-
-
+<p>&emsp;&emsp;</p>
 <h3 id="医院"><a href="#医院" class="headerlink" title="医院"></a>医院</h3><p>&emsp;&emsp;编者无能，不知道医院有啥用。隔离复制人隔离了个寂寞。就算没医院，医疗建筑也能用。</p>
 <p>&emsp;&emsp;在现今病菌不致命且感染率极低的版本，医疗显得作用不大，即使得病，等几周期也能自然痊愈。</p>
 <h3 id="食堂"><a href="#食堂" class="headerlink" title="食堂"></a>食堂</h3><p>&emsp;&emsp;看高档餐厅不好吗？</p>
@@ -1288,6 +1289,8 @@
 <p>&emsp;&emsp;信号：雷达。</p>
 <p>&emsp;&emsp;运输：运输装载器、固体过滤器。</p>
 <p>&emsp;&emsp;火箭：除发射支架外都是工业机器。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;</p>
 <p><strong>参考文献</strong></p>
 <p>[1]EWZP.<a href="https://www.bilibili.com/video/BV1R64y1t7Y6">【缺氧】娱乐室到底有啥用</a>.bilibili. 2021-06-28.</p>
 ]]></content>
@@ -2040,7 +2043,7 @@
 </thead>
 </table>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;信号线桥，中间可以穿过另一条信号线，避免两条交叉的信号线连接到一起。</p>
+<p>&emsp;&emsp;信号线桥，中间可以穿过另一条信号线。</p>
 <table>
 <thead>
 <tr>
@@ -2049,11 +2052,14 @@
 </tr>
 </thead>
 </table>
-<h1 id="4-逻辑门"><a href="#4-逻辑门" class="headerlink" title="4 逻辑门"></a>4 逻辑门</h1><h2 id="4-0-逻辑门属性与注意事项"><a href="#4-0-逻辑门属性与注意事项" class="headerlink" title="4.0 逻辑门属性与注意事项"></a>4.0 逻辑门属性与注意事项</h2><p>&emsp;&emsp;逻辑门，可以看作是一种信号处理元件，把接收到的信号转换成相应的信号再输出。</p>
+<h1 id="4-逻辑门"><a href="#4-逻辑门" class="headerlink" title="4 逻辑门"></a>4 逻辑门</h1><h2 id="0-逻辑门的属性"><a href="#0-逻辑门的属性" class="headerlink" title="0. 逻辑门的属性"></a>0. 逻辑门的属性</h2><p>&emsp;&emsp;逻辑门，可以看作是一种信号处理元件，把接收到的信号转换成相应的信号再输出。</p>
 <p>&emsp;&emsp;逻辑门转换信号大约有0.1s的延迟（目测）。</p>
 <p>&emsp;&emsp;给逻辑门连接信号线时需要注意，小心把输入口和输出口连到一起。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/4%E9%80%BB%E8%BE%91%E9%97%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.png?imageMogr2/format/webp" alt="4逻辑门注意事项"></p>
-<h2 id="0-先看这里，对下文的定义"><a href="#0-先看这里，对下文的定义" class="headerlink" title="0 先看这里，对下文的定义"></a>0 先看这里，对下文的定义</h2><p>&emsp;&emsp;信号的红色和绿色用 <strong>0</strong> 和 <strong>1</strong> 表示，<strong>1</strong> 表示启用，<strong>0</strong> 表示禁用。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;信号的红色用 <strong>0</strong> 表示，绿色用<strong>1</strong>表示。</p>
+<p>&emsp;&emsp;<strong>1</strong> 表示启用，<strong>0</strong> 表示禁用。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;下文用“气压传感器”来输出信号，因为气压传感器的信号状态更显眼。</p>
 <p>&emsp;&emsp;当气压传感器发亮时，输出 <strong>1</strong> ；暗淡时，输出 <strong>0</strong> 。</p>
@@ -2066,7 +2072,7 @@
 </thead>
 </table>
 <p>&emsp;</p>
-<h2 id="emsp-1-与门"><a href="#emsp-1-与门" class="headerlink" title="&emsp;1 与门"></a>&emsp;1 与门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/与门.png?imageMogr2/format/webp" alt="与门" style="zoom: 25%;" />
+<h2 id="1-与门"><a href="#1-与门" class="headerlink" title="1. 与门"></a>1. 与门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/与门.png?imageMogr2/format/webp" alt="与门" style="zoom: 25%;" />
 
 <center>在自动化视图里，左边两个白口是输入口，右边黑口是输出口。</center>
 
@@ -2085,7 +2091,7 @@
 <p>&emsp;&emsp;如表1与逻辑真值表为例，当A=0，B=0，则L=0……当A=1，B=1，则L=1，这四种情况，就是与逻辑的输入和输出之间的全部可能。</p>
 <p>&emsp;&emsp;为了方便表示，用<strong>逻辑表达式</strong>代替真值表，也就是L = AB<br>&emsp;&emsp;&emsp;当A=0，B=0，L=A乘B=0乘0=0<br>&emsp;&emsp;&emsp;当A=0，B=1，L=A乘B=0乘1=0<br>&emsp;&emsp;&emsp;当A=1，B=0，L=A乘B=1乘0=0<br>&emsp;&emsp;&emsp;当A=1，B=1，L=A乘B=1乘1=1</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E4%B8%8E%E9%97%A8%E5%AE%9E%E4%BE%8B.png?imageMogr2/format/webp" alt="与门实例"></p>
-<h2 id="emsp-2-或门"><a href="#emsp-2-或门" class="headerlink" title="&emsp;2. 或门"></a>&emsp;2. 或门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/或门.png?imageMogr2/format/webp" alt="或门" style="zoom: 25%;" />
+<h2 id="2-或门"><a href="#2-或门" class="headerlink" title="2. 或门"></a>2. 或门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/或门.png?imageMogr2/format/webp" alt="或门" style="zoom: 25%;" />
 
 <center>在自动化视图里，左边两个白口是输入口，右边黑口是输出口。</center> 
 
@@ -2102,7 +2108,7 @@
 <p>&emsp;&emsp;用逻辑表达式代替真值表，也就是L= A + B<br>&emsp;&emsp;&emsp;当A=0，B=0，L=A+B=0+0=0<br>&emsp;&emsp;&emsp;当A=0，B=1，L=A+B=0+1=1<br>&emsp;&emsp;&emsp;当A=1，B=0，L=A+B=1+0=1<br>&emsp;&emsp;&emsp;当A=1，B=1，L=A+B=1+1=1<br>&emsp;&emsp;逻辑代数只有0和1，所以1+1只能等于1。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E6%88%96%E9%97%A8%E5%AE%9E%E4%BE%8B.png?imageMogr2/format/webp" alt="或门实例"></p>
 <p>&emsp;&emsp;其实直接把两条信号线连起来也等价于或门，不过或门可以起到<strong>分割信号线</strong>的作用，使输入的两条信号线相互独立，不会影响到彼此。</p>
-<h2 id="emsp-3-非门"><a href="#emsp-3-非门" class="headerlink" title="&emsp;3. 非门"></a>&emsp;3. 非门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/非门.png?imageMogr2/format/webp" alt="非门" style="zoom: 25%;" />
+<h2 id="3-非门"><a href="#3-非门" class="headerlink" title="3. 非门"></a>3. 非门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/非门.png?imageMogr2/format/webp" alt="非门" style="zoom: 25%;" />
 
 <center>在自动化视图里，左边白口是输入口，右边黑口是输出口。</center>  
 
@@ -2119,7 +2125,7 @@
 <p> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E9%9D%9E%E9%97%A8%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="非门真值表"></p>
 <p>用逻辑表达式代替真值表，也就是L= <span class="divcss5_2">A</span><br>&emsp;&emsp;&emsp;当A=0，L=<span class="divcss5_2">A</span>=1<br>&emsp;&emsp;&emsp;当A=1，L=<span class="divcss5_2">A</span>=0</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E9%9D%9E%E9%97%A8%E5%AE%9E%E4%BE%8B.png?imageMogr2/format/webp" alt="非门实例"></p>
-<h2 id="emsp-4-缓冲门"><a href="#emsp-4-缓冲门" class="headerlink" title="&emsp;4. 缓冲门"></a>&emsp;4. 缓冲门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/缓冲门.png?imageMogr2/format/webp" alt="缓冲门" style="zoom:25%;" />
+<h2 id="4-缓冲门"><a href="#4-缓冲门" class="headerlink" title="4. 缓冲门"></a>4. 缓冲门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/缓冲门.png?imageMogr2/format/webp" alt="缓冲门" style="zoom:25%;" />
 
 <center>在自动化视图里，左边白口是输入口，右边黑口是输出口。</center>   
 
@@ -2149,7 +2155,7 @@
 <p>&emsp;&emsp;应用场景：</p>
 <p>&emsp;&emsp;（1）维持输出 <strong>1</strong> ：输入信号非常短暂，但又需要长时间的输出，可以用缓冲门延长输出时间。</p>
 <p>&emsp;&emsp;（2）消除短暂的输入 <strong>0</strong> ：建筑是一直在接收 <strong>1</strong> 工作，但可能因为逻辑电路问题，会有短暂的 <strong>0</strong> 出现，影响了建筑工作，就可以用缓冲门消去短暂的 <strong>0</strong> 。当要用信号禁用建筑时，只要 <strong>0</strong> 的持续时间超过缓冲时间，建筑自然会被禁用。</p>
-<h2 id="emsp-5-过滤门"><a href="#emsp-5-过滤门" class="headerlink" title="&emsp;5. 过滤门"></a>&emsp;5. 过滤门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/过滤门.png?imageMogr2/format/webp" alt="过滤门" style="zoom:25%;" />
+<h2 id="5-过滤门"><a href="#5-过滤门" class="headerlink" title="5. 过滤门"></a>5. 过滤门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/过滤门.png?imageMogr2/format/webp" alt="过滤门" style="zoom:25%;" />
 
 <center>在自动化视图里，左边白口是输入口，右边黑口是输出口。</center>  
 
@@ -2177,7 +2183,7 @@
 <p>&emsp;&emsp;应用场景：</p>
 <p>&emsp;&emsp;（1）用来延时，利用过滤门延迟输出 <strong>1</strong> 。</p>
 <p>&emsp;&emsp;（2）消除短暂的输入 <strong>1</strong> ：可能因为逻辑电路问题，会有短暂的 <strong>1</strong> 出现，影响了建筑工作，就可以用过滤门过滤掉短暂的 <strong>1</strong> 。</p>
-<h2 id="emsp-6-异或门"><a href="#emsp-6-异或门" class="headerlink" title="&emsp;6. 异或门"></a>&emsp;6. 异或门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/异或门.png?imageMogr2/format/webp" alt="异或门" style="zoom: 25%;" />
+<h2 id="6-异或门"><a href="#6-异或门" class="headerlink" title="6. 异或门"></a>6. 异或门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/异或门.png?imageMogr2/format/webp" alt="异或门" style="zoom: 25%;" />
 
 <center>在自动化视图里，左边两个白口是输入口，右边黑口是输出口。</center>  
 
@@ -2192,7 +2198,7 @@
 
 <p> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%BC%82%E6%88%96%E9%97%A8%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="异或门真值表"></p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E5%BC%82%E6%88%96%E9%97%A8%E5%AE%9E%E4%BE%8B.png?imageMogr2/format/webp" alt="异或门实例"></p>
-<h2 id="emsp-7-锁存器"><a href="#emsp-7-锁存器" class="headerlink" title="&emsp;7. 锁存器"></a>&emsp;7. 锁存器</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/锁存器.png?imageMogr2/format/webp" alt="锁存器" style="zoom:25%;" />
+<h2 id="7-锁存器"><a href="#7-锁存器" class="headerlink" title="7. 锁存器"></a>7. 锁存器</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/锁存器.png?imageMogr2/format/webp" alt="锁存器" style="zoom:25%;" />
 
 <p>&emsp;&emsp;锁存器有两个输入口：置位端 <i>S</i> ，复位端 <i>R</i> 。普通的输入口就是置位端 <i>S</i> 端（左上）。在输入口的基础上多出一个圆圈，就是复位端 <i>R</i> 端（左下）。</p>
 <p>&emsp;</p>
@@ -2206,34 +2212,51 @@
 <p> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E9%94%81%E5%AD%98%E5%99%A8%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="锁存器真值表"></p>
 <p>&emsp;&emsp;*缺氧里，当 <i>S</i> =1， <i>R</i> =1时， <i>Q</i> =0。对于这种情况，在现实的锁存器中，当 <i>S</i> =1， <i>R</i> =1时， <i>Q</i> 是处在既非1，又非0的非定义状态，即结果不定，在现实中是不允许出现这种情况的。不过，游戏毕竟是游戏嘛，就当是课外小知识啦。</p>
 <p>&emsp;&emsp;</p>
-<h1 id="5-组合逻辑电路设计"><a href="#5-组合逻辑电路设计" class="headerlink" title="5 组合逻辑电路设计"></a>5 组合逻辑电路设计</h1><h2 id="5-1-二进制"><a href="#5-1-二进制" class="headerlink" title="5.1 二进制"></a>5.1 二进制</h2><h2 id="5-2-逻辑函数及其表示方法"><a href="#5-2-逻辑函数及其表示方法" class="headerlink" title="5.2 逻辑函数及其表示方法"></a>5.2 逻辑函数及其表示方法</h2><p>&emsp;&emsp;基本的逻辑函数有<strong>与、或、非</strong>。此外还有常用的逻辑函数有同或、异或、或非、与非等等，这些逻辑函数都可通过与、或、非复合而成。为了减少读者的学习成本，本文只用最基本的与、或、非。</p>
+<h1 id="5-组合逻辑电路设计"><a href="#5-组合逻辑电路设计" class="headerlink" title="5 组合逻辑电路设计"></a>5 组合逻辑电路设计</h1><h2 id="5-1-二进制（未写）"><a href="#5-1-二进制（未写）" class="headerlink" title="5.1 二进制（未写）"></a>5.1 二进制（未写）</h2><p>&emsp;&emsp;百度一下你就知道。</p>
+<p>&emsp;&emsp;</p>
+<h2 id="5-2-逻辑函数及其表示方法"><a href="#5-2-逻辑函数及其表示方法" class="headerlink" title="5.2 逻辑函数及其表示方法"></a>5.2 逻辑函数及其表示方法</h2><p>&emsp;&emsp;基本的逻辑函数有<strong>与、或、非</strong>。此外还有常用的逻辑函数有同或、异或、或非、与非等等，这些逻辑函数都可通过与、或、非复合而成。为了减少读者的学习成本，本文只用最基本的与、或、非。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;逻辑函数的表示方法有<strong>真值表、逻辑函数表达式、逻辑图</strong>。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;<strong>真值表</strong>，是表征逻辑事件输入和输出之间全部可能状态的表格（把所有输入和输出情况都列出来），以1表示真，0 表示假。</p>
+<p>&emsp;&emsp;</p>
 <center>表1&emsp;与逻辑真值表</center>
 
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/与门真值表.png?imageMogr2/format/webp" alt="与门真值表"  />
 
 <p>&emsp;&emsp;如表1与逻辑真值表为例，当A=0，B=0，则L=0……当A=1，B=1，则L=1，这四种情况，就是与逻辑的输入和输出之间的全部可能。</p>
-<p>&emsp;&emsp;为了方便表示，我们可以用<strong>逻辑表达式</strong>代替真值表，与逻辑为L = AB<br>&emsp;&emsp;&emsp;当A=0，B=0，L=A乘B=0乘0=0<br>&emsp;&emsp;&emsp;当A=0，B=1，L=A乘B=0乘1=0<br>&emsp;&emsp;&emsp;当A=1，B=1，L=A乘B=1乘1=1<br>&emsp;&emsp;</p>
+<p>&emsp;&emsp;为了方便表示，我们可以用<strong>逻辑表达式</strong>代替真值表，与逻辑为L = AB</p>
+<p>&emsp;&emsp;&emsp;当A=0，B=0，L=A乘B=0乘0=0</p>
+<p>&emsp;&emsp;&emsp;当A=0，B=1，L=A乘B=0乘1=0</p>
+<p>&emsp;&emsp;&emsp;当A=1，B=1，L=A乘B=1乘1=1</p>
+<p>&emsp;&emsp;</p>
 <center>表2&emsp;或逻辑真值表</center>
 
 <p> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E6%88%96%E9%97%A8%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="或门真值表"></p>
 <p>&emsp;&emsp;或逻辑，表2是或逻辑的输入和输出之间的全部可能。</p>
-<p>&emsp;&emsp;用逻辑表达式代替真值表，或逻辑为L= A + B<br>&emsp;&emsp;&emsp;当A=0，B=0，L=A+B=0+0=0<br>&emsp;&emsp;&emsp;当A=0，B=1，L=A+B=0+1=1<br>&emsp;&emsp;&emsp;当A=1，B=1，L=A+B=1+1=1<br>&emsp;&emsp;&emsp;逻辑代数只有0和1，所以1+1只能等于1。</p>
+<p>&emsp;&emsp;用逻辑表达式代替真值表，或逻辑为L= A + B</p>
+<p>&emsp;&emsp;&emsp;当A=0，B=0，L=A+B=0+0=0</p>
+<p>&emsp;&emsp;&emsp;当A=0，B=1，L=A+B=0+1=1</p>
+<p>&emsp;&emsp;&emsp;当A=1，B=1，L=A+B=1+1=1</p>
+<p>&emsp;&emsp;&emsp;逻辑代数只有0和1，所以1+1只能等于1。</p>
+<p>&emsp;&emsp;</p>
 <center>表3&emsp;非逻辑真值表</center>
 
 <p> <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E9%9D%9E%E9%97%A8%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="非门真值表"></p>
 <p>&emsp;&emsp;非逻辑，表3是非逻辑的输入和输出之间的全部可能。</p>
-<p>&emsp;&emsp;用逻辑表达式代替真值表，也就是L= <span class="divcss5_2">A</span><br>&emsp;&emsp;&emsp;当A=0，L=<span class="divcss5_2">A</span>=1<br>&emsp;&emsp;&emsp;当A=1，L=<span class="divcss5_2">A</span>=0</p>
+<p>&emsp;&emsp;用逻辑表达式代替真值表，也就是L= <span class="divcss5_2">A</span></p>
+<p>&emsp;&emsp;&emsp;当A=0，L=<span class="divcss5_2">A</span>=1</p>
+<p>&emsp;&emsp;&emsp;当A=1，L=<span class="divcss5_2">A</span>=0</p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;<strong>逻辑图</strong>，相当于用缺氧里的逻辑门连接形成一个逻辑电路。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/5%E7%9C%9F%E5%80%BC%E8%A1%A8%E7%94%BB%E5%87%BA%E7%94%B5%E8%B7%AF%E5%9B%BE.png?imageMogr2/format/webp" alt="5真值表画出电路图"></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;逻辑表达式有化简方法，一是“逻辑代数的基本公式”，二是“卡诺图”，有兴趣的同学可以系统地学习一下数电。不过缺氧里用不上复杂到需要化简的逻辑电路，又不是没位置放逻辑门，是吧是吧。</p>
-<h2 id="5-3-真值表到逻辑图的转换"><a href="#5-3-真值表到逻辑图的转换" class="headerlink" title="5.3 真值表到逻辑图的转换"></a>5.3 真值表到逻辑图的转换</h2><p>&emsp;&emsp;首先根据真值表写出逻辑表达式，依照逻辑表达式画出逻辑图。</p>
+<p>&emsp;&emsp;逻辑表达式有化简方法，一是“逻辑代数的基本公式”，二是“卡诺图”，不过编者认为缺氧里用不上复杂到需要化简的逻辑电路，所以不作介绍，有兴趣的读者请自行查阅。</p>
+<p>&emsp;&emsp;</p>
+<h2 id="5-3-真值表到逻辑图的转换"><a href="#5-3-真值表到逻辑图的转换" class="headerlink" title="5.3 真值表到逻辑图的转换"></a>5.3 真值表到逻辑图的转换</h2><p>&emsp;&emsp;首先根据真值表写出逻辑表达式，然后依照逻辑表达式画出逻辑图。</p>
+<p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;（1）根据真值表写出逻辑表达式</p>
-<p>&emsp;&emsp;编者随便列一个真值表，如下图所示</p>
+<p>&emsp;&emsp;编者随便写一个真值表：</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/5%E7%94%BB%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="5画一个真值表"></p>
 <ul>
 <li>找到输出为<strong>1</strong>的行，把一行中的所有输入变量相与（相乘），输入为<strong>0</strong>的用反变量表示（加上非号）。</li>
@@ -2243,10 +2266,11 @@
 <center>第三行：L2= A<span class="divcss5_2">B</span></center>
 
 <ul>
-<li>把所有表达式相或（相加），得到逻辑表达式：</li>
+<li>把上一步得出的表达式相或（相加），得到总的逻辑表达式：</li>
 </ul>
 <center>L= L1+L2=<span class="divcss5_2">AB</span>+A<span class="divcss5_2">B</span></center>
 
+<p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;（2）根据逻辑表达式画出逻辑图。</p>
 <p>&emsp;&emsp;画L1：<span class="divcss5_2">A</span>，又叫“非A”，所以A先连非门得到<span class="divcss5_2">A</span>，B也是先连非门得到<span class="divcss5_2">B</span>。</p>
 <p>&emsp;&emsp;&emsp;&emsp;<span class="divcss5_2">AB</span>，即<span class="divcss5_2">A</span>和<span class="divcss5_2">B</span>相乘，相当于连与门，最后得到L1。</p>
@@ -2254,13 +2278,9 @@
 <p>&emsp;&emsp;画L：L1和L2相加，相当于连或门，最后得到L。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/5%E7%9C%9F%E5%80%BC%E8%A1%A8%E7%94%BB%E5%87%BA%E7%94%B5%E8%B7%AF%E5%9B%BE.png?imageMogr2/format/webp" alt="5真值表画出电路图"></p>
 <p>&emsp;&emsp;</p>
-<ul>
-<li>（3）在我们实际画图时，首先根据自己想要的结果，先写出真值表（把所有输入和输出情况都列出来），可以偷懒只列出输出为1的情况，然后用上述方法得到逻辑电路图。</li>
-</ul>
+<p>&emsp;&emsp;（3）在我们实际画图时，首先根据自己想要的结果，先写出真值表（把所有输入和输出情况都列出来），可以偷懒只列出输出为1的情况，然后用上述方法得到逻辑电路图。</p>
 <p>&emsp;&emsp;</p>
-<h2 id="5-4-例题"><a href="#5-4-例题" class="headerlink" title="5.4 例题"></a>5.4 例题</h2><ul>
-<li>题目1：有如下真值表，画出逻辑电路图。</li>
-</ul>
+<h2 id="5-4-例题"><a href="#5-4-例题" class="headerlink" title="5.4 例题"></a>5.4 例题</h2><p>&emsp;&emsp;题目1：有如下真值表，画出逻辑电路图。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/5%E4%BE%8B%E9%A2%981%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="5例题1真值表"></p>
 <p>&emsp;&emsp;假如是在我们实际画真值表时，可以偷懒只列输出为1的情况：</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/5%E4%BE%8B%E9%A2%981%E5%81%B7%E6%87%92%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="5例题1偷懒真值表"></p>
@@ -2268,25 +2288,21 @@
 <p>&emsp;&emsp;画出逻辑电路图：</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/5%E4%BE%8B%E9%A2%981%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E5%9B%BE.png?imageMogr2/format/webp" alt="5例题1逻辑电路图"></p>
 <p>&emsp;&emsp;</p>
-<ul>
-<li>题目2：本来想拿缺氧作例子，但是实在想不到缺氧有什么例子用得上这些知识……</li>
-</ul>
-<ul>
-<li>题目3：好好学习天天向上。</li>
-</ul>
+<p>&emsp;&emsp;题目2：本来想拿缺氧作例子，但是实在想不到缺氧有什么例子用得上这些知识……</p>
+<p>&emsp;&emsp;题目3：好好学习天天向上。</p>
 <p>&emsp;&emsp;</p>
 <h1 id="6-（未写）时序逻辑电路设计"><a href="#6-（未写）时序逻辑电路设计" class="headerlink" title="6 （未写）时序逻辑电路设计"></a>6 （未写）时序逻辑电路设计</h1><p>&emsp;&emsp;<br>&emsp;&emsp;<br>&emsp;&emsp;</p>
-<h1 id="7-数字电子技术基础"><a href="#7-数字电子技术基础" class="headerlink" title="7 数字电子技术基础*"></a>7 数字电子技术基础*</h1><h3 id="7-1-前言"><a href="#7-1-前言" class="headerlink" title="7.1  前言"></a>7.1  前言</h3><p>&emsp;&emsp;对于数电，如果只是为了玩缺氧或其他游戏装逼，编者<strong>不建议学习数电</strong>。</p>
+<h1 id="7-数字电子技术基础"><a href="#7-数字电子技术基础" class="headerlink" title="7 数字电子技术基础*"></a>7 数字电子技术基础*</h1><p>&emsp;&emsp;对于数电，如果只是为了玩缺氧或其他游戏装逼，编者<strong>不建议学习数电</strong>。</p>
 <p>&emsp;&emsp;首先读者要明白，这只是一个游戏，用得上的数电知识靠自己悟也能悟出来，悟不出来的绝对是要搞用来装逼的东西，编者的建议是随便搞搞能用就行，不要争强好胜，游戏里根本用不上数电。</p>
 <p>&emsp;&emsp;编者自己造模块的首要目标就是简单实用耐操，画不出来就换思路、换结构，自动化部分尽量从简，省心省力多舒服。</p>
 <p>&emsp;&emsp;只能说，对数电这门专业课，真正需要的人自己已经学了，不需要的人就没学的必要，有时间去学一门课外课程，不如搞好自己的课程。</p>
-<p>&emsp;&emsp;至于为什么不建议学数电还要写这篇文章，因为装逼啊（滑稽。</p>
-<h3 id="7-2-推荐教学视频与学习路线"><a href="#7-2-推荐教学视频与学习路线" class="headerlink" title="7.2 推荐教学视频与学习路线"></a>7.2 推荐教学视频与学习路线</h3><p>&emsp;&emsp;对数电感兴趣的读者可购买书本学习，推荐书目：《数字电子技术基础》(哈尔滨工业大学)，《数字电子技术基础》(清华大学)，《电子技术基础 &ensp;数字部分》(华中科技大学)。<br>&emsp;&emsp;</p>
+<p>&emsp;&emsp;</p>
+<h2 id="7-1-推荐教学视频与学习路线"><a href="#7-1-推荐教学视频与学习路线" class="headerlink" title="7.1 推荐教学视频与学习路线"></a>7.1 推荐教学视频与学习路线</h2><p>&emsp;&emsp;对数电感兴趣的读者可购买书本学习，推荐书目：《数字电子技术基础》(哈尔滨工业大学)，《数字电子技术基础》(清华大学)，《电子技术基础 &ensp;数字部分》(华中科技大学)。<br>&emsp;&emsp;</p>
 <p>&emsp;&emsp;学习视频：数字电子技术基础（清华大学，王红主讲）<br>&emsp;&emsp;<a href="https://www.bilibili.com/video/BV18p411Z7ce">https://www.bilibili.com/video/BV18p411Z7ce</a></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;学习路线（带*为选看）</p>
+<p>&emsp;学习路线（带*为选看，在课程是重点知识，但是在缺氧里用不上）</p>
 <ul>
-<li>组合电路的运算与设计。</li>
+<li>组合电路。</li>
 </ul>
 <p>&emsp;&emsp;P1绪论、信息与编码</p>
 <p>&emsp;&emsp;P2信息与编码2</p>
@@ -2296,17 +2312,18 @@
 <p>&emsp;&emsp;P6逻辑函数化简法</p>
 <p>&emsp;&emsp;P7具有无关项的逻辑函数及其化简</p>
 <p>&emsp;&emsp;P18组合电路的分析和设计方法</p>
-<p>&emsp;&emsp;P22竞争与冒险（这节内容是关于逻辑门转换信号的延迟问题）</p>
+<p>&emsp;&emsp;P22竞争与冒险</p>
 <p>&emsp;&emsp;*P19典型的组合电路模块(1)第一讲</p>
 <p>&emsp;&emsp;*P20典型的组合电路模块(1)第二讲</p>
 <p>&emsp;&emsp;*P21典型的组合电路模块(2)</p>
 <p>&emsp;&emsp;</p>
 <ul>
-<li>触发器（锁存器）。缺氧里知道锁存器是怎样的就行，不用学太多。</li>
+<li>时许电路。缺氧里知道锁存器是怎样的就行，不用学太多。</li>
 </ul>
 <p>&emsp;&emsp;P24触发器的电路结构和动作特点</p>
 <p>&emsp;&emsp;*P25~P36</p>
-<p><strong>参考文献</strong><br>[1]<br>[2]<br>[3]康华光.电子技术基础 数字部分(第六版)[M].北京：高等教育出版社，2014.</p>
+<p>&emsp;&emsp;</p>
+<p><strong>参考文献</strong><br>[1]杨春玲.数字电子技术基础(第二版)[M].北京：高等教育出版社，2017.<br>[2]王红.数字电子技术基础(清华大学王红主讲).<a href="https://www.bilibili.com/video/BV18p411Z7ce">https://www.bilibili.com/video/BV18p411Z7ce</a><br>[3]康华光.电子技术基础 数字部分(第六版)[M].北京：高等教育出版社，2014.</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -2814,8 +2831,7 @@
     <title>收集气液体</title>
     <url>/archives/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93.html</url>
     <content><![CDATA[<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;收集气体和液体，指把气体或液体从一个地方送到另一个地方（，储存起来）。</p>
-<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;收集气体和液体，指把气体或液体从一个地方送到另一个地方。</p>
 <p>&emsp;&emsp;目的：</p>
 <p>&emsp;&emsp;（1）收集气液体；储存气液体。</p>
 <p>&emsp;&emsp;（2）在气体生产时，产气设备可能会因为气压太高停止出气，所以需要把气体收走并储存，以维持生产装置的正常气压。</p>
@@ -2824,33 +2840,139 @@
 <h1 id="1-气泵和液泵"><a href="#1-气泵和液泵" class="headerlink" title="1 气泵和液泵"></a>1 气泵和液泵</h1><p>&emsp;&emsp;用法见<a href="https://410091174.github.io/archives/气泵" target="_blank">气泵</a>，<a href="https://410091174.github.io/archives/液泵" target="_blank">液泵</a>。</p>
 <p>&emsp;&emsp;优点：简单实用。</p>
 <p>&emsp;&emsp;</p>
-<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;优点：抽气速度飞快，抽气速度与气体质量成正比。耗电非常小。</p>
+<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;注，此方法属于特性（BUG）。</p>
+<p>&emsp;&emsp;优点：抽气速度飞快，抽气速度与气体质量成正比。耗电非常小。</p>
 <p>&emsp;&emsp;缺点：需要些许液体湮灭或排到世界中。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/gif/2.gif" alt="21"></p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/2.png" alt="2"></p>
 <p>&emsp;</p>
-<h2 id="2-1-使用教学"><a href="#2-1-使用教学" class="headerlink" title="2.1 使用教学"></a>2.1 使用教学</h2><p>&emsp;&emsp;使用效果如下：</p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/gif/21.gif" alt="21"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;搭建：</p>
+<h2 id="2-1-原理分析"><a href="#2-1-原理分析" class="headerlink" title="2.1 原理分析"></a>2.1 原理分析</h2><p>&emsp;&emsp;此抽气技巧是通过&ensp;用排液口把轻的液体滴到重的液体上面，通过特性实现抽气。</p>
 <p>&emsp;&emsp;常用液体轻→重：水，盐水，乙醇，石油，原油。</p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;在橙框格滴一滴比较重的液体，此处选择原油。</p>
+<p>&emsp;&emsp;首先如下搭建，此处：</p>
+<p>&emsp;&emsp;（1）较重的液体用原油。</p>
+<p>&emsp;&emsp;（2）调节阀设置0.1g/s。</p>
 <p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/211.png" alt="211"></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;搭建气体储存室，建调节阀和排液口。</p>
-<p>&emsp;&emsp;调节阀设置0.1g/s，往原油滴比原油轻的液体，此处选择水。</p>
+<p>&emsp;&emsp;两个砖块的摆放决定气体流向。</p>
 <p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/212.png" alt="212"></p>
 <p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;特性原理分析：</p>
+<p>&emsp;&emsp;当排液口滴液体到左上白框，左上白框元素会和右下白框交换位置。</p>
+<p>&emsp;&emsp;相当于用左上格的水跟右下格的气体交换位置，以此实现“抽气”。</p>
 <p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/213.png" alt="213"></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;调节阀设置0.1g/s，水滴到原油上面会湮灭消失。调节阀设置小于10g/s，液体从排液口出来滴到东西之后会消失。</p>
-<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
-<p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。方向受限，只能向右推气。</p>
-<h1 id="4-单门推向液体"><a href="#4-单门推向液体" class="headerlink" title="4 单门推向液体"></a>4 单门推向液体</h1><h1 id="5-推气门"><a href="#5-推气门" class="headerlink" title="5 推气门"></a>5 推气门</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
+<p>&emsp;&emsp;然后把左边围起来，相当于一个气体储存室，实现气体收集。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/214.png" alt="214"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;气体储存室的气体存储上限是1000kg/格。当气体大于1000kg/格，排液口会因为压力过大停止排液。</p>
+<p>&emsp;&emsp;因为排液口排出0.1g水，水的质量太小所以消失不见。排液口原理见《–》。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;因为调节阀设置0.1g/s，而一节管道的容量是10kg，10kg足够用100000秒，即166.67周期，相当于液泵抽几下就能用很久，所以玩家在实际使用的时候，可以根据滴液吸气的位置选择更方便的提供液体的方式：</p>
+<p>&emsp;&emsp;（1）从基地或者附近水坑拉一条管道过来。</p>
+<p>&emsp;&emsp;（2）在滴液吸气旁边造小水池+液泵，空桶器倒一桶水进小水池。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/215.png" alt="215"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;<font size="2">如果不想水消失，可以设置10g/s；然后把水收集起来再抽到排液口循环使用。但是<strong>不推荐</strong>，实际要湮灭更多的水，分析见下文。</font></p>
+<img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/216.png" alt="216" style="zoom:50%;" />
+
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;<font size="2">0.1g/s和10g/s耗电分析</font></p>
+<p>&emsp;&emsp;<font size="2">水：（假设用液泵抽）</font></p>
+<p>&emsp;&emsp;<font size="2">如果0.1g/s，则湮灭10kg水可用100000秒，即166.67周期；消耗240j电能。</font></p>
+<p>&emsp;&emsp;<font size="2">若设置10g/s，用166.67周期需要排出液体1000kg；消耗24000j电能。</font></p>
+<p>&emsp;&emsp;<font size="2">假设用水灌油井，原油精炼器炼石油发电，24000j-240j=23760j电能需要消耗水14.256kg。（1kg水=3333.33g原油=1666.665g石油=1666.665j电能）</font></p>
+<p>&emsp;&emsp;<font size="2">因为0.1g/s湮灭10kg水&lt;10g/s湮灭14.256kg水，故更推荐0.1g/s。</font></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;<font size="2">石油：（假设用液泵抽原油，精炼器炼石油）</font></p>
+<p>&emsp;&emsp;<font size="2">一般来说，先液泵抽原油到精炼器炼石油，再用石油滴液，所以液泵抽20kg原油+精炼器炼油=10kg石油，所以用分析需要考虑原油到石油的转化。</font></p>
+<p>&emsp;&emsp;<font size="2">如果0.1g/s，则湮灭10kg石油可用100000秒，即166.67周期；消耗电能：液泵480j+精炼器960j=1440j。</font></p>
+<p>&emsp;&emsp;<font size="2">若设置10g/s，用166.67周期需要排出石油1000kg；消耗电能：液泵48000j+精炼器96000j=114000j。</font></p>
+<p>&emsp;&emsp;<font size="2">假设石油发电，114000j-1440j=112560j电能需要消耗油112.56kg。</font></p>
+<p>&emsp;&emsp;<font size="2">因为0.1g/s湮灭10kg石油&lt;10g/s湮灭112.560kg石油，故更推荐0.1g/s。</font></p>
+<p>&emsp;&emsp;</p>
+<h2 id="2-2-应用实例"><a href="#2-2-应用实例" class="headerlink" title="2.2 应用实例"></a>2.2 应用实例</h2><h3 id="2-2-1-气体收集"><a href="#2-2-1-气体收集" class="headerlink" title="2.2.1 气体收集"></a>2.2.1 气体收集</h3><p>&emsp;&emsp;在气体生产上面用滴液吸气收集气体。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/2211.png" alt="2211"></p>
+<p>&emsp;&emsp;</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/2212.png" alt="2212"></p>
+<h3 id="2-2-2-制造真空"><a href="#2-2-2-制造真空" class="headerlink" title="2.2.2 制造真空"></a>2.2.2 制造真空</h3><p>&emsp;&emsp;如下图，需要对砖块围住的区域抽真空，用滴液吸气方式，大约20分钟就能真空。适合用在不赶时间的大面积真空。（在气压低于100g/格时用气泵更快，可先用滴液吸气再用气泵收尾）</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/2221.png" alt="2221"></p>
+<p>&emsp;&emsp;</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/2222.png" alt="2222"></p>
+<p>&emsp;&emsp;</p>
+<h3 id="2-2-3-喷孔的气体收集"><a href="#2-2-3-喷孔的气体收集" class="headerlink" title="2.2.3 喷孔的气体收集"></a>2.2.3 喷孔的气体收集</h3><p>&emsp;&emsp;比如开发天然气喷孔：喷出的天然气150℃，属于高温，需要注意。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;注！本文提供的喷孔开发“简单设计”和“复杂设计”，简单设计是完全能用的，虽然复杂设计考虑得更全面，但实际上并无质的提升。写复杂设计的目的是抛砖引玉、拓展读者思路，提高以后读者自己设计的独立思考问题并针对问题提出解决方案的能力。</p>
+<p>&emsp;&emsp;</p>
+<h4 id="（1）简单设计"><a href="#（1）简单设计" class="headerlink" title="（1）简单设计"></a>（1）简单设计</h4><p>&emsp;&emsp;针对150℃的天然气，设计如下：</p>
+<p>&emsp;&emsp;用石油滴原油（用水会气化）；</p>
+<p>&emsp;&emsp;用气体隔热管道和液体隔热管道；</p>
+<p>&emsp;&emsp;用金贡齐做气泵；</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;设计如下：</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22311.png" alt="22311"></p>
+<p>&emsp;&emsp;调节阀设置0.1g/s。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22312.png" alt="22312"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;气压传感器设置“高于1000g”。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22313.png" alt="22313"></p>
+<p>&emsp;</p>
+<h4 id="（2）复杂设计"><a href="#（2）复杂设计" class="headerlink" title="（2）复杂设计"></a>（2）复杂设计</h4><p>&emsp;&emsp;在（1）的基础上，把问题考虑得更全：</p>
+<p>&emsp;&emsp;①喷孔是间断生产气体，喷一会儿停一会儿；</p>
+<p>&emsp;&emsp;②排液口气压上限1000kg/格。</p>
+<p>&emsp;&emsp;针对①，如果滴液吸气一直排液，在喷孔停止的时候排液会浪费，所以设计在喷孔停止时停止排液。</p>
+<p>&emsp;&emsp;针对②，当气压达到上限时停止吸气。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;设计图如下：</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22321.png" alt="22321"></p>
+<p>&emsp;&emsp;&emsp;&emsp;</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22322.png" alt="22322"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;气泵的传感器设置“高于1000克”；排液口的传感器设置“高于4500克”。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22323.png" alt="22323"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;设计逻辑：</p>
+<p>&emsp;&emsp;当喷孔的气压过低（低于4.5kg/格），则关闭排液口停止抽气，避免浪费液体。</p>
+<p>&emsp;&emsp;当关闭排液口时，循环管道开始维持0.1g/s流动，并且堵住补充液体的管桥的绿口，禁止对循环管道补充液体。</p>
+<p>&emsp;&emsp;当排液口再次打开，只会排出0.1g液体。</p>
+<p>&emsp;&emsp;排液口的气压上限是1000kg/格，所以达到气压上限时排液口无法滴液。（不过吧，都已经1000kg/格，非常多了，也没必要再吸气了）</p>
+<p>&emsp;&emsp;</p>
+<h4 id="（3）特性设计"><a href="#（3）特性设计" class="headerlink" title="（3）特性设计"></a>（3）特性设计</h4><p>&emsp;&emsp;在（2）的基础上，用一个特性实现排液口不会超压。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;设计如下：</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22331.png" alt="22331"></p>
+<p>&emsp;</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22332.png" alt="22332"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;气泵的传感器设置“高于1000克”；排液口的传感器设置“高于4500克”。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/22333.png" alt="22333"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;原理：</p>
+<p>&emsp;&emsp;排液口排出气体，与右下角气体交换位置，即滴液吸气的原理，互换位置之后排液口的位置就有一格气体；</p>
+<p>&emsp;&emsp;接着排液口再排出液体，液体会把原本在排液口位置的气体挤压到左上角。</p>
+<p>&emsp;&emsp;当滴液吸气吸到一格1000kg/格的气体，会造成排液口气压过大停止排液，但是这种情况在开发喷孔不会发生。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;搭建注意事项：</p>
+<p>&emsp;&emsp;在启动之前，玩家需要收集什么气体，储气室必须提前充入这种气体（质量随意）。如果储气室真空或是其他气体，滴液挤压排液口位置的气体会湮灭气体。</p>
+<p>&emsp;&emsp;</p>
+<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><p>&emsp;&emsp;注，此方法属于特性（BUG）。</p>
+<p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
+<p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。方向受限，只能向右上推气。</p>
+<p>&emsp;</p>
+<h2 id="3-1-原理分析"><a href="#3-1-原理分析" class="headerlink" title="3.1 原理分析"></a>3.1 原理分析</h2><p>&emsp;&emsp;</p>
+<h2 id="3-2-应用实例"><a href="#3-2-应用实例" class="headerlink" title="3.2 应用实例"></a>3.2 应用实例</h2><h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
 <p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有一定门槛。</p>
-<h1 id="（1）推气门分析"><a href="#（1）推气门分析" class="headerlink" title="（1）推气门分析"></a>（1）推气门分析</h1><p>推气门运动状态：</p>
-<p>（2）简单实用的推气门</p>
+<h1 id="4-1-推气门逻辑"><a href="#4-1-推气门逻辑" class="headerlink" title="4.1 推气门逻辑"></a>4.1 推气门逻辑</h1><p>000</p>
+<p>110</p>
+<p>010</p>
+<p>011</p>
+<p>001</p>
+<p>000</p>
+<h2 id="4-2"><a href="#4-2" class="headerlink" title="4.2"></a>4.2</h2><h2 id="4-3-脉冲推气门"><a href="#4-3-脉冲推气门" class="headerlink" title="4.3 脉冲推气门"></a>4.3 脉冲推气门</h2><h2 id="4-4-压力板推气门"><a href="#4-4-压力板推气门" class="headerlink" title="4.4 压力板推气门"></a>4.4 压力板推气门</h2><p>此方法来自：吃瓜狂魔</p>
+<h3 id="4-1-1-搭建方法"><a href="#4-1-1-搭建方法" class="headerlink" title="4.1.1 搭建方法"></a>4.1.1 搭建方法</h3><h3 id="4-1-2-逻辑分析"><a href="#4-1-2-逻辑分析" class="headerlink" title="4.1.2 逻辑分析"></a>4.1.2 逻辑分析</h3><p>（2）简单实用的推气门</p>
 <p>（3）原理分析</p>
-<p>000<br>110<br>010<br>011<br>001<br>000</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3257,14 +3379,6 @@
 <p>&emsp;&emsp;此过滤系统的应用场景一般不考虑排气口超压，即排气口超压没过滤出气体也属于正常情况的地方。比如电解器产出氧气和氢气，给基地通入氧气，那么排气口超压属于正常情况，并且即使没过滤出氧气也不会出什么问题。</p>
 <p>&emsp;&emsp;当然，如果需要避免超压的问题，可参考《2.4 用循环管道增加稳定性》，用循环管道增加稳定性。不过比较麻烦，不如不用这个方法。</p>
 <p>&emsp;&emsp;</p>
-<h1 id="5-其他分离方式（未完成）"><a href="#5-其他分离方式（未完成）" class="headerlink" title="5 其他分离方式（未完成）"></a>5 其他分离方式（未完成）</h1><p>&emsp;&emsp;此章的分离方式有些算是特性或BUG。仁者见仁智者见智吧。</p>
-<p>&emsp;&emsp;编者个人认为，这些分离方式都是针对世界中的气体和液体，都不实用，麻烦。（咕了，基本用不上，懒得写）</p>
-<h2 id="4-1-重力分离"><a href="#4-1-重力分离" class="headerlink" title="4.1 重力分离"></a>4.1 重力分离</h2><p>&emsp;&emsp;利用气体和液体的轻重，轻在上，重在下，实现分离。</p>
-<p>&emsp;&emsp;常见气体轻→重：氢气，氧气=污染氧，天然气，高硫天然气，氯气，二氧化碳。</p>
-<p>&emsp;&emsp;常见液体轻→重：凝胶，水，污染水，盐水，乙醇，石油，超级冷却液，原油。</p>
-<h2 id="4-2-斜角通气"><a href="#4-2-斜角通气" class="headerlink" title="4.2 斜角通气"></a>4.2 斜角通气</h2><h2 id="4-3-液啥啥啥等我想个名字"><a href="#4-3-液啥啥啥等我想个名字" class="headerlink" title="4.3 液啥啥啥等我想个名字"></a>4.3 液啥啥啥等我想个名字</h2><p>&emsp;&emsp;//同类相吸</p>
-<h2 id="4-4-液推"><a href="#4-4-液推" class="headerlink" title="4.4 液推"></a>4.4 液推</h2><p>&emsp;&emsp;</p>
-<p>&emsp;</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3572,9 +3686,40 @@
       </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/archives/undefined.html</url>
-    <content><![CDATA[]]></content>
+    <title>气泵</title>
+    <url>/archives/%E6%B0%94%E6%B3%B5.html</url>
+    <content><![CDATA[<h1 id="1-基本信息"><a href="#1-基本信息" class="headerlink" title="1 基本信息"></a>1 基本信息</h1><p>&emsp;&emsp;用途：抽取环境中的气体。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E6%B3%B5/11.png?imageMogr2/format/webp" alt="11"></p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/建筑图鉴/通风/气泵/12.png?imageMogr2/format/webp" alt="12" style="zoom:80%;" />
+
+
+<h1 id="2-使用方式"><a href="#2-使用方式" class="headerlink" title="2 使用方式"></a>2 使用方式</h1><p>&emsp;&emsp;把环境中的气体抽进管道，最大抽液速度是500g/s。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E6%B3%B5/21.png?imageMogr2/format/webp" alt="21"></p>
+<h1 id="3-工作原理"><a href="#3-工作原理" class="headerlink" title="3 工作原理"></a>3 工作原理</h1><p>&emsp;&emsp;工作范围判定：只有在范围内有气体，气泵才会工作。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E6%B3%B5/31.png?imageMogr2/format/webp" alt="31"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;抽液范围：只能抽取下图的十字范围内的气体。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E6%B3%B5/32.png?imageMogr2/format/webp" alt="32"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;气泵每0.2秒抽取1次g气体，每抽5次就输出1次气体，输出气体的顺序是按照内容物排序，即先进入气泵的气体先被输出。</p>
+<p>&emsp;&emsp;抽液范围的抽液顺序：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/5/%E5%BB%BA%E7%AD%91%E5%9B%BE%E9%89%B4/%E9%80%9A%E9%A3%8E/%E6%B0%94%E6%B3%B5/33.png?imageMogr2/format/webp" alt="33"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;若抽液范围内都是同种气体，先从1开始抽，抽完1再抽2。</p>
+<p>&emsp;&emsp;若抽液范范围有多种气体，随机从某格开始，以每0.2s的频率按顺序每格轮流抽2kg。</p>
+<p>&emsp;&emsp;</p>
+<p>（本文的结论都是编者在游戏里观察气泵得出，并非完全准确。扒了一下代码，看不懂，再见）</p>
+<p>&emsp;&emsp;</p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>5 数据库</category>
+        <category>建筑图鉴</category>
+        <category>通风</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
   </entry>
   <entry>
     <title>液泵</title>
