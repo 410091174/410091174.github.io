@@ -785,7 +785,7 @@
 <h1 id="中期—工业革命："><a href="#中期—工业革命：" class="headerlink" title="中期—工业革命："></a>中期—工业革命：</h1><p>&emsp;&emsp;生产原油：<a href="https://410091174.github.io/archives/油井模块" target="_blank">油井模块</a>&emsp;|&emsp;<a href="https://410091174.github.io/archives/搭建真空室" target="_blank">搭建真空室</a></p>
 <p>&emsp;&emsp;生产石油：<a href="https://410091174.github.io/archives/原油精炼器模块" target="_blank">原油精炼器模块</a></p>
 <p>&emsp;&emsp;炼钢：金属精炼器配套模块</p>
-<p>&emsp;&emsp;温度控制：<a href="https://410091174.github.io/archives/降温系统" target="_blank">降温系统</a>&emsp;|（<a href="https://410091174.github.io/archives/循环管道" target="_blank">循环管道</a>）</p>
+<p>&emsp;&emsp;温度控制：<a href="https://410091174.github.io/archives/降温模块" target="_blank">降温系统</a>&emsp;|（<a href="https://410091174.github.io/archives/循环管道" target="_blank">循环管道</a>）</p>
 <p>&emsp;&emsp;<a href="https://410091174.github.io/archives/过滤气液体" target="_blank">过滤气液体</a></p>
 <p>&emsp;&emsp;收集气液体</p>
 <p>&emsp;&emsp;资源可再生：泉的简单开发</p>
@@ -2993,14 +2993,94 @@
 <p>&emsp;&emsp;</p>
 <h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
 <p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有一定门槛。</p>
-<h2 id="4-1-推气门逻辑"><a href="#4-1-推气门逻辑" class="headerlink" title="4.1 推气门逻辑"></a>4.1 推气门逻辑</h2><p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/411.png" alt="411"></p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/412.png" alt="412"></p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/413.png" alt="413"></p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/414.png" alt="414"></p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/415.png" alt="415"></p>
-<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/416.png" alt="416"></p>
-<h2 id="4-2-脉冲推气门"><a href="#4-2-脉冲推气门" class="headerlink" title="4.2 脉冲推气门"></a>4.2 脉冲推气门</h2><h3 id="4-2-1-搭建方法"><a href="#4-2-1-搭建方法" class="headerlink" title="4.2.1 搭建方法"></a>4.2.1 搭建方法</h3><h3 id="4-2-2-逻辑分析"><a href="#4-2-2-逻辑分析" class="headerlink" title="4.2.2 逻辑分析"></a>4.2.2 逻辑分析</h3><h2 id="4-3-信号循环推气门"><a href="#4-3-信号循环推气门" class="headerlink" title="4.3 信号循环推气门"></a>4.3 信号循环推气门</h2><h3 id="4-3-1-搭建方法"><a href="#4-3-1-搭建方法" class="headerlink" title="4.3.1 搭建方法"></a>4.3.1 搭建方法</h3><h3 id="4-3-2-逻辑分析"><a href="#4-3-2-逻辑分析" class="headerlink" title="4.3.2 逻辑分析"></a>4.3.2 逻辑分析</h3><h2 id="4-4-压力板推气门"><a href="#4-4-压力板推气门" class="headerlink" title="4.4 压力板推气门"></a>4.4 压力板推气门</h2><p>此方法来自：吃瓜狂魔</p>
-<h3 id="4-4-1-搭建方法"><a href="#4-4-1-搭建方法" class="headerlink" title="4.4.1 搭建方法"></a>4.4.1 搭建方法</h3><h3 id="4-4-2-逻辑分析"><a href="#4-4-2-逻辑分析" class="headerlink" title="4.4.2 逻辑分析"></a>4.4.2 逻辑分析</h3>]]></content>
+<h2 id="4-1-推气门的逻辑分析"><a href="#4-1-推气门的逻辑分析" class="headerlink" title="4.1 推气门的逻辑分析"></a>4.1 推气门的逻辑分析</h2><h3 id="4-1-1-逐步分析逻辑"><a href="#4-1-1-逐步分析逻辑" class="headerlink" title="4.1.1 逐步分析逻辑"></a>4.1.1 逐步分析逻辑</h3><p>&emsp;&emsp;本节的机械门逻辑是把气体从左推向右。</p>
+<p>&emsp;&emsp;第一步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4111.png" alt="4111"></p>
+<p>&emsp;&emsp;第二步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4112.png" alt="4112"></p>
+<p>&emsp;&emsp;第三步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4113.png" alt="4113"></p>
+<p>&emsp;&emsp;第四步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4114.png" alt="4114"></p>
+<p>&emsp;&emsp;第五步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4115.png" alt="4115"></p>
+<p>&emsp;&emsp;循环到第一步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4111.png" alt="4111"></p>
+<p>&emsp;&emsp;从而实现把气体从左推向右。</p>
+<p>&emsp;&emsp;但是实际使用一般不用这个逻辑，实际使用逻辑见下节。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;此处给出实现这个逻辑的自动化电路参数，此处不作讲解。逻辑门上有标注参数，看不清可放大图片。</p>
+<p>&emsp;&emsp;左下角6s过滤门是维持第一步几秒，用于等待气体流入，可设置5~15s。</p>
+<img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/技巧/收集气液体/推气门/4116.png" alt="4116" style="zoom: 67%;" />
+
+<h3 id="4-1-2-实际使用逻辑"><a href="#4-1-2-实际使用逻辑" class="headerlink" title="4.1.2 实际使用逻辑"></a>4.1.2 实际使用逻辑</h3><p>&emsp;&emsp;因为推气门在开门进气和关门推气有延迟，即开门要完全打开才能进气，关门要完全关上才会推气，所以在实际应用的时候会简化理论逻辑，从而电路更简单，一次循环耗时更短。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;本节的机械门逻辑是把气体从左推向右。</p>
+<p>&emsp;&emsp;第一步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4121.png" alt="4121"></p>
+<p>&emsp;&emsp;第二步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4122.png" alt="4122"></p>
+<p>&emsp;&emsp;第三步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4123.png" alt="4123"></p>
+<p>&emsp;&emsp;循环到第一步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4124.png" alt="4124"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;此处给出实现这个逻辑的自动化电路参数。逻辑门上有标注参数，看不清可放大图片。</p>
+<p>&emsp;&emsp;左下角10s缓冲门是维持第一步几秒，用于等待气体流入，可设置7~20s。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/423.png" alt="423"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;在实际使用的时候，还需要考虑因电脑卡顿造成逻辑门延迟的问题，以及可能需要设计暂停推气门的逻辑电路。</p>
+<p>&emsp;</p>
+<h2 id="4-2-推气门的经验设计"><a href="#4-2-推气门的经验设计" class="headerlink" title="4.2 推气门的经验设计"></a>4.2 推气门的经验设计</h2><p>&emsp;&emsp;机械门开门和关门需要3.8秒，不过为了稳定（防止电脑卡机等），所以本文在开关门的逻辑延时算作4秒。</p>
+<p>&emsp;&emsp;用<strong>0</strong>表示机械门关门，<strong>1</strong>表示机械门开门。</p>
+<p>&emsp;&emsp;机械门的开门和关门持续时间，可以用缓冲门和过滤门维持。缓冲门是保持1信号，过滤门是保持0信号。</p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;《4.1.2实际使用逻辑》中的推气门①②③逻辑可写成：110，011，001，110循环。</p>
+<p>（1）分析规律：</p>
+<p>&emsp;&emsp;观察①②③号门的逻辑，</p>
+<p>&emsp;&emsp;&emsp;①：1，<strong>0</strong>，0，1</p>
+<p>&emsp;&emsp;&emsp;②：1，<strong>1</strong>，0，1</p>
+<p>&emsp;&emsp;&emsp;③：0，1，1，0</p>
+<p>&emsp;&emsp;观察发现，①和③的信号全部相反；</p>
+<p>&emsp;&emsp;对于①和②，只有第二步不同，而第二步的前一步和后一步，也就是第一步和第三步，①②的状态相同。</p>
+<p>&emsp;&emsp;</p>
+<p>（2）确定脉冲信号：</p>
+<p>&emsp;&emsp;首先，①和③的信号最简单最容易实现，都是开门8秒关门8秒，所以最先考虑设计①和③的信号。</p>
+<p>&emsp;&emsp;因为①的逻辑信号与②③关联度较高，③与②关联度低，所以用①的逻辑信号作为时钟信号，然后②和③的信号由时钟信号（①的逻辑信号）改造得到。</p>
+<p>&emsp;</p>
+<p>（3）确定其他信号：</p>
+<p>&emsp;&emsp;①信号是开门8秒再关门8秒循环，用时间传感器设置绿色信号8秒，红色信号8秒。</p>
+<p>&emsp;&emsp;③信号最容易得到，只需要对①信号接非门。</p>
+<p>&emsp;&emsp;②信号在第一步与①信号都是<strong>1</strong>；第二步①信号变<strong>0</strong>，②信号保持<strong>1</strong>，所以在①信号的基础上，用缓冲门保持第一步的<strong>1</strong>信号4秒，就是②信号。</p>
+<p>&emsp;&emsp;</p>
+<p>（4）实操：</p>
+<p>&emsp;&emsp;注！设计的时候逻辑门相互之间留点位置，别为了省空间聚在一堆，不然要是没位置放，重新摆浪费时间。设计完再优化逻辑门布局。</p>
+<p>&emsp;&emsp;①信号的实现：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/421.png" alt="421"></p>
+<p>&emsp;</p>
+<p>②信号的实现：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/422.png" alt="422"></p>
+<p>&emsp;</p>
+<p>②信号的实现：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/423.png" alt="423"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;优化逻辑门摆放（选做）。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/424.png" alt="424"></p>
+<p>&emsp;&emsp;以上就是逻辑门的设计方法。</p>
+<p>&emsp;&emsp;我们试试设计《4.1.1 逐步分析逻辑》中的推气门，当作练习。</p>
+<p>&emsp;&emsp;推气门①②③逻辑：110，010，011，001，000，110循环。</p>
+<p>（1）分析规律：</p>
+<p>&emsp;&emsp;&emsp;①：1，0，0，0，0，1</p>
+<p>&emsp;&emsp;&emsp;②：1，1，1，0，0，1</p>
+<p>&emsp;&emsp;&emsp;③：0，0，1，1，0，0</p>
+<p>&emsp;&emsp;定眼一看，①②③的逻辑相互之间的关联度不高（反正编者没发现有什么联系）。</p>
+<p>（2）确定脉冲信号：</p>
+<p>&emsp;&emsp;因为①②③关联度不高，所以任选其一设计脉冲信号，此处选择①逻辑作为脉冲信号。</p>
+<p>（3）确定其他信号与实操：</p>
+<p>②信号的一四五步与①信号相同，而二三步可在①信号第一步</p>
+<h2 id="4-3-常见推气门"><a href="#4-3-常见推气门" class="headerlink" title="4.3 常见推气门"></a>4.3 常见推气门</h2><h3 id="4-3-1-脉冲推气门"><a href="#4-3-1-脉冲推气门" class="headerlink" title="4.3.1 脉冲推气门"></a>4.3.1 脉冲推气门</h3><h3 id=""><a href="#" class="headerlink" title=""></a></h3><h3 id="4-3-2-信号循环推气门"><a href="#4-3-2-信号循环推气门" class="headerlink" title="4.3.2 信号循环推气门"></a>4.3.2 信号循环推气门</h3><h3 id="-1"><a href="#-1" class="headerlink" title=""></a></h3><h3 id="4-3-3-压力板推气门"><a href="#4-3-3-压力板推气门" class="headerlink" title="4.3.3 压力板推气门"></a>4.3.3 压力板推气门</h3><p>&emsp;&emsp;此方法参考：吃瓜狂魔。</p>
+<p>&emsp;&emsp;【吃瓜】三种推气门的介绍(03:28) <a href="https://www.bilibili.com/video/BV1cb411T7kR/?share_source=copy_web&amp;vd_source=417c8fa6aec50ff06478d3dc889ae25e&amp;t=208">https://www.bilibili.com/video/BV1cb411T7kR/?share_source=copy_web&amp;vd_source=417c8fa6aec50ff06478d3dc889ae25e&amp;t=208</a></p>
+<h3 id="-2"><a href="#-2" class="headerlink" title=""></a></h3>]]></content>
       <categories>
         <category>缺氧百科</category>
         <category>4 技术</category>
