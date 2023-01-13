@@ -2993,7 +2993,7 @@
 <p>&emsp;&emsp;</p>
 <h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
 <p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有一定门槛。</p>
-<h2 id="4-1-推气门的逻辑分析"><a href="#4-1-推气门的逻辑分析" class="headerlink" title="4.1 推气门的逻辑分析"></a>4.1 推气门的逻辑分析</h2><h3 id="4-1-1-逐步分析逻辑"><a href="#4-1-1-逐步分析逻辑" class="headerlink" title="4.1.1 逐步分析逻辑"></a>4.1.1 逐步分析逻辑</h3><p>&emsp;&emsp;本节的机械门逻辑是把气体从左推向右。</p>
+<h2 id="4-1-逻辑分析"><a href="#4-1-逻辑分析" class="headerlink" title="4.1 逻辑分析"></a>4.1 逻辑分析</h2><h3 id="4-1-1-逐步分析逻辑"><a href="#4-1-1-逐步分析逻辑" class="headerlink" title="4.1.1 逐步分析逻辑"></a>4.1.1 逐步分析逻辑</h3><p>&emsp;&emsp;本节的机械门逻辑是把气体从左推向右。</p>
 <p>&emsp;&emsp;第一步，</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4111.png" alt="4111"></p>
 <p>&emsp;&emsp;第二步，</p>
@@ -3021,7 +3021,7 @@
 <p>&emsp;&emsp;循环到第一步，</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4124.png" alt="4124"></p>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
-<h2 id="4-2-推气门的经验设计"><a href="#4-2-推气门的经验设计" class="headerlink" title="4.2 推气门的经验设计"></a>4.2 推气门的经验设计</h2><h3 id="4-2-1-理论基础"><a href="#4-2-1-理论基础" class="headerlink" title="4.2.1 理论基础"></a>4.2.1 理论基础</h3><h4 id="（1）基本了解"><a href="#（1）基本了解" class="headerlink" title="（1）基本了解"></a>（1）基本了解</h4><p>&emsp;&emsp;机械门开门和关门需要3.8秒，不过为了稳定（防止电脑卡机等），所以本文在开关门的逻辑时间参数以4秒为单位，即第一步指0~4s（接近4但不到4），第二步指4~8秒（接近8但不到8）。</p>
+<h2 id="4-2-理论设计"><a href="#4-2-理论设计" class="headerlink" title="4.2 理论设计"></a>4.2 理论设计</h2><h3 id="4-2-1-理论基础"><a href="#4-2-1-理论基础" class="headerlink" title="4.2.1 理论基础"></a>4.2.1 理论基础</h3><h4 id="（1）基本了解"><a href="#（1）基本了解" class="headerlink" title="（1）基本了解"></a>（1）基本了解</h4><p>&emsp;&emsp;机械门开门和关门需要3.8秒，不过为了稳定（防止电脑卡机等），所以本文在开关门的逻辑时间参数以4秒为单位，即第一步指0~4s（接近4但不到4），第二步指4~8秒（接近8但不到8）。</p>
 <p>&emsp;&emsp;<strong>0</strong>表示红色信号，即机械门关门；</p>
 <p>&emsp;&emsp;<strong>1</strong>表示绿色信号，即机械门开门。</p>
 <p>&emsp;&emsp;</p>
@@ -3125,7 +3125,6 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4223.png" alt="4223"></p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;注意！上图的推气门实际并不能使用，因为没有考虑进气时间等，实际应用设计见《4.3实际使用设计》。</p>
-<p>&emsp;&emsp;以上就是逻辑门的理论设计方法。</p>
 <p>&emsp;</p>
 <hr>
 <p>&emsp;&emsp;我们试试设计《4.1.1 逐步分析逻辑》中的推气门，当作练习。</p>
@@ -3160,7 +3159,13 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4225.png" alt="4225"></p>
 <p>&emsp;&emsp;注意！上图的推气门实际并不能使用，因为没有考虑进气时间和逻辑门之间的时间冲突问题等，实际应用设计见《4.3实际使用设计》。</p>
 <p>&emsp;</p>
-<h2 id="4-3-实际使用设计（在写）"><a href="#4-3-实际使用设计（在写）" class="headerlink" title="4.3 实际使用设计（在写）"></a>4.3 实际使用设计（在写）</h2><p>&emsp;&emsp;在实际使用的时候，还需要考虑因电脑卡顿造成逻辑门延迟的问题，以及可能需要设计暂停推气门的逻辑电路。</p>
+<h2 id="4-3-实际使用设计（在写）"><a href="#4-3-实际使用设计（在写）" class="headerlink" title="4.3 实际使用设计（在写）"></a>4.3 实际使用设计（在写）</h2><p>&emsp;&emsp;在实际使用的时候，需要考虑如下问题：</p>
+<p>&emsp;&emsp;（1）在第一步001，需要等待气体流进机械门里，所以001这一步不能只维持一个单位时间，需要等待更长的时间让气体充分流进机械门再进入下一步。</p>
+<p>&emsp;&emsp;（2）在某些条件下暂停推气门。</p>
+<p>&emsp;&emsp;（3）逻辑门之间有时间冲突，比如两门之间<strong>1</strong>信号续不上等问题，下文会详细分析。</p>
+<h3 id="4-3-1-设计进气时间"><a href="#4-3-1-设计进气时间" class="headerlink" title="4.3.1 设计进气时间"></a>4.3.1 设计进气时间</h3><p>&emsp;&emsp;</p>
+<h3 id="4-3-2-暂停推气门"><a href="#4-3-2-暂停推气门" class="headerlink" title="4.3.2 暂停推气门"></a>4.3.2 暂停推气门</h3><p>&emsp;&emsp;</p>
+<h3 id="4-3-3-时间冲突分析"><a href="#4-3-3-时间冲突分析" class="headerlink" title="4.3.3 时间冲突分析"></a>4.3.3 时间冲突分析</h3><p>&emsp;&emsp;</p>
 <h2 id="4-4-常见推气门（抄作业）"><a href="#4-4-常见推气门（抄作业）" class="headerlink" title="4.4 常见推气门（抄作业）"></a>4.4 常见推气门（抄作业）</h2><h3 id="4-4-1-脉冲推气门"><a href="#4-4-1-脉冲推气门" class="headerlink" title="4.4.1 脉冲推气门"></a>4.4.1 脉冲推气门</h3><h3 id="4-4-2-信号循环推气门"><a href="#4-4-2-信号循环推气门" class="headerlink" title="4.4.2 信号循环推气门"></a>4.4.2 信号循环推气门</h3><h3 id="4-4-3-压力板推气门"><a href="#4-4-3-压力板推气门" class="headerlink" title="4.4.3 压力板推气门"></a>4.4.3 压力板推气门</h3><p>&emsp;&emsp;此方法参考：吃瓜狂魔。</p>
 <p>&emsp;&emsp;【吃瓜】三种推气门的介绍(03:28) <a href="https://www.bilibili.com/video/BV1cb411T7kR/?share_source=copy_web&amp;vd_source=417c8fa6aec50ff06478d3dc889ae25e&amp;t=208">https://www.bilibili.com/video/BV1cb411T7kR/?share_source=copy_web&amp;vd_source=417c8fa6aec50ff06478d3dc889ae25e&amp;t=208</a></p>
 ]]></content>
