@@ -2991,8 +2991,8 @@
 <p>&emsp;&emsp;所以补充一个设计，当喷孔气压低时，停止机械门的工作，减轻电脑负担。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E5%8D%95%E9%97%A8%E6%8E%A8%E6%B0%94/323.png" alt="323"></p>
 <p>&emsp;&emsp;</p>
-<h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
-<p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有较高门槛。</p>
+<h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><p>&emsp;&emsp;优点：能推气体和液体，推气推液速度与质量成正比。不耗电。</p>
+<p>&emsp;&emsp;缺点：若有多种气体或液体，会湮灭气液。对玩家水平有较高门槛。</p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;推气门篇幅较长且难度较高，见《<a href="https://410091174.github.io/archives/推气门" target="_blank">推气门</a>》。</p>
 ]]></content>
