@@ -3793,4 +3793,192 @@
     <url>/archives/undefined.html</url>
     <content><![CDATA[]]></content>
   </entry>
+  <entry>
+    <title>推气门</title>
+    <url>/archives/%E6%8E%A8%E6%B0%94%E9%97%A8.html</url>
+    <content><![CDATA[<h1 id="0-常见推气门"><a href="#0-常见推气门" class="headerlink" title="0 常见推气门"></a>0 常见推气门</h1><h2 id="0-1-脉冲推气门"><a href="#0-1-脉冲推气门" class="headerlink" title="0.1 脉冲推气门"></a>0.1 脉冲推气门</h2><h2 id="0-2-信号循环推气门"><a href="#0-2-信号循环推气门" class="headerlink" title="0.2 信号循环推气门"></a>0.2 信号循环推气门</h2><h2 id="0-3-压力板推气门"><a href="#0-3-压力板推气门" class="headerlink" title="0.3 压力板推气门"></a>0.3 压力板推气门</h2><p>&emsp;&emsp;此方法参考：吃瓜狂魔。</p>
+<p>&emsp;&emsp;【吃瓜】三种推气门的介绍(03:28) <a href="https://www.bilibili.com/video/BV1cb411T7kR/?share_source=copy_web&amp;vd_source=417c8fa6aec50ff06478d3dc889ae25e&amp;t=208">https://www.bilibili.com/video/BV1cb411T7kR/?share_source=copy_web&amp;vd_source=417c8fa6aec50ff06478d3dc889ae25e&amp;t=208</a></p>
+<h1 id="1-逻辑分析"><a href="#1-逻辑分析" class="headerlink" title="1 逻辑分析"></a>1 逻辑分析</h1><h2 id="1-1-理论逻辑分析"><a href="#1-1-理论逻辑分析" class="headerlink" title="1.1 理论逻辑分析"></a>1.1 理论逻辑分析</h2><p>&emsp;&emsp;本节的机械门逻辑是把气体从左推向右。</p>
+<p>&emsp;&emsp;第一步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4111.png" alt="4111"></p>
+<p>&emsp;&emsp;第二步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4112.png" alt="4112"></p>
+<p>&emsp;&emsp;第三步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4113.png" alt="4113"></p>
+<p>&emsp;&emsp;第四步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4114.png" alt="4114"></p>
+<p>&emsp;&emsp;第五步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4115.png" alt="4115"></p>
+<p>&emsp;&emsp;循环到第一步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4111.png" alt="4111"></p>
+<p>&emsp;&emsp;从而实现把气体从左推向右。</p>
+<p>&emsp;&emsp;但是实际使用一般不用这个逻辑，实际使用逻辑见下节。</p>
+<p>&emsp;&emsp;</p>
+<h2 id="1-2-简化使用逻辑"><a href="#1-2-简化使用逻辑" class="headerlink" title="1.2 简化使用逻辑"></a>1.2 简化使用逻辑</h2><p>&emsp;&emsp;因为推气门在开门进气和关门推气有延迟，即开门要完全打开才能进气，关门要完全关上才会推气，所以在实际应用的时候会简化理论逻辑，从而电路更简单，一次循环耗时更短。</p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;本节的机械门逻辑是把气体从左推向右。</p>
+<p>&emsp;&emsp;第一步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4121.png" alt="4121"></p>
+<p>&emsp;&emsp;第二步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4122.png" alt="4122"></p>
+<p>&emsp;&emsp;第三步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4123.png" alt="4123"></p>
+<p>&emsp;&emsp;循环到第一步，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4124.png" alt="4124"></p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+<h1 id="2-理论设计"><a href="#2-理论设计" class="headerlink" title="2 理论设计"></a>2 理论设计</h1><h2 id="2-1-理论基础"><a href="#2-1-理论基础" class="headerlink" title="2.1 理论基础"></a>2.1 理论基础</h2><h3 id="（1）基本了解"><a href="#（1）基本了解" class="headerlink" title="（1）基本了解"></a>（1）基本了解</h3><p>&emsp;&emsp;机械门开门和关门需要3.8秒，不过为了稳定（防止电脑卡机等），所以本文在开关门的逻辑时间参数以4秒为单位，即第一步指0~4s（接近4但不到4），第二步指4~8秒（接近8但不到8）。</p>
+<p>&emsp;&emsp;<strong>0</strong>表示红色信号，即机械门关门；</p>
+<p>&emsp;&emsp;<strong>1</strong>表示绿色信号，即机械门开门。</p>
+<p>&emsp;&emsp;</p>
+<h3 id="（2）脉冲信号"><a href="#（2）脉冲信号" class="headerlink" title="（2）脉冲信号"></a>（2）脉冲信号</h3><p>&emsp;&emsp;脉冲信号是一种离散信号，波形之间在时间轴不连续，即波形与波形之间有明显的间隔，但具有一定的周期性。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42121.png" alt="42121"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;脉冲信号的实现：时间传感器。</p>
+<p>&emsp;&emsp;本文中，以4秒为单位时间长度，即上图中的一格为单位时间长度。</p>
+<p>&emsp;&emsp;时间传感器设置为绿色4秒，红色4秒实现上图的脉冲信号。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42122.png" alt="42122"></p>
+<p>&emsp;&emsp;</p>
+<p>&emsp;&emsp;下图同理，绿色4秒，红色8秒。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42123.png" alt="42123"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;脉冲还有另一种方法，缓冲门+过滤门+非门，三门首尾相连，即可实现脉冲。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42124.png" alt="42124"></p>
+<p>&emsp;&emsp;设置脉冲输出的绿色和红色时间长度：</p>
+<p>&emsp;&emsp;如上图，如果脉冲信号是由非门输出端引出，则过滤门设置的时间代表绿色时间长度，缓冲门代表红色长度。</p>
+<p>&emsp;&emsp;如果脉冲信号是由非门输入端引出，则与上相反。</p>
+<p>&emsp;</p>
+<h3 id="（3）延长信号长度"><a href="#（3）延长信号长度" class="headerlink" title="（3）延长信号长度"></a>（3）延长信号长度</h3><p>&emsp;&emsp;机械门开门和关门的持续时间，可以用缓冲门和过滤门延长。</p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号0110，连接过滤门设置4秒，变为0010。</p>
+<p>&emsp;&emsp;一段以4秒为单位的脉冲信号0110，连接缓冲门设置4秒，变为0111。</p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;可理解为向后覆盖信号，过滤门是在连续的0后面覆盖0，缓冲门是在连续的1后面覆盖1，覆盖长度就是门设置多少个单位时间。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42131.png" alt="42131"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;例如下图，脉冲信号+缓冲门，脉冲信号刚变为0，缓冲门还维持1的输出。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42132.png" alt="42132"></p>
+<p>&emsp;&emsp;上图对应的时间段就是下图黄色框。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42133.png" alt="42133"></p>
+<p>&emsp;&emsp;</p>
+<h3 id="（4）缩短信号长度"><a href="#（4）缩短信号长度" class="headerlink" title="（4）缩短信号长度"></a>（4）缩短信号长度</h3><ul>
+<li>缩短<strong>1</strong>信号长度：</li>
+</ul>
+<p>&emsp;&emsp;过滤门和锁存器摆放如下，过滤门设置的时间就是<strong>1</strong>信号的长度。</p>
+<p>  <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42141.png" alt="42141"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号11101110，变为10001000，则过滤门设置一个单位时间长度（4秒）。</p>
+<p>&emsp;&emsp;一段信号11101110，变为11001100，则过滤门设置两个单位时间长度（8秒）。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42142.png" alt="42142"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;逻辑原理：当<strong>1</strong>给到锁存器，锁存器输出<strong>1</strong>，等待一段时间（过滤门设置的时间），过滤门输出<strong>1</strong>给锁存器R端，强制锁存器输出<strong>0</strong>，从而实现缩短<strong>1</strong>信号的长度。</p>
+<p>&emsp;&emsp;<font size="2">其实这个电路设计可以延长信号时间（与缓冲门类似），把过滤门的时间设置长一点就行，在其他地方也能用上。</font></p>
+<p>&emsp;</p>
+<ul>
+<li>缩短<strong>0</strong>信号长度：</li>
+</ul>
+<p>&emsp;&emsp;过滤门、锁存器、非门摆放如下，过滤门设置的时间就是<strong>0</strong>信号的长度。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42143.png" alt="42143"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号00010001变为01110111，则过滤门设置一个单位时间长度（4秒）。</p>
+<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号00010001变为00110011，则过滤门设置二个单位时间长度（8秒）。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42144.png" alt="42144"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;逻辑原理：00010001非门变为11101110，缩短<strong>1</strong>变为10001000，再非门变为01110111，从而实现缩短<strong>0</strong>信号。</p>
+<p>&emsp;</p>
+<h3 id="（5）信号整体左移和右移"><a href="#（5）信号整体左移和右移" class="headerlink" title="（5）信号整体左移和右移"></a>（5）信号整体左移和右移</h3><ul>
+<li>右移</li>
+</ul>
+<p>&emsp;&emsp;右移指把整段信号向右移动。</p>
+<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号1110右移一个时间单位变为0111。</p>
+<p>&emsp;&emsp;1110先用过滤门4秒变为0110，再缓冲门4秒变为0111。</p>
+<p>&emsp;&emsp;所以实现右移只需要先过滤门再缓冲门，过滤门和缓冲门设置的时间一样，并且这个时间就是右移长度。</p>
+<p>&emsp;</p>
+<ul>
+<li>左移</li>
+</ul>
+<p>&emsp;&emsp;左移指把整段信号向左移动。</p>
+<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号1110左移一个时间单位变为1101。</p>
+<p>&emsp;&emsp;因为脉冲是循环，直接右移对应的时间单位即可（此处为三个单位）。</p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;常人理解的左移比较难实现，因为缺氧的信号修改都是对“未来”（右边）作修改，修改“过去”（左边）比较困难。</p>
+<h2 id="2-2-理论设计流程"><a href="#2-2-理论设计流程" class="headerlink" title="2.2 理论设计流程"></a>2.2 理论设计流程</h2><p>&emsp;&emsp;《4.1.2实际使用逻辑》中的推气门①②③逻辑可写成：110，011，001循环。</p>
+<p>（1）分析规律：</p>
+<p>&emsp;&emsp;分别观察①②③号门的逻辑，</p>
+<p>&emsp;&emsp;&emsp;①：1，0，0</p>
+<p>&emsp;&emsp;&emsp;②：1，1，0</p>
+<p>&emsp;&emsp;&emsp;③：0，1，1</p>
+<p>&emsp;&emsp;观察发现，①和③的信号全部相反；</p>
+<p>&emsp;&emsp;对于①和②，②相当于①延长了<strong>1</strong>信号。</p>
+<p>&emsp;&emsp;对于②和③，③相当于②整体右移一个时间单位。</p>
+<p>&emsp;</p>
+<p>（2）确定脉冲信号：</p>
+<p>&emsp;&emsp;因为①的逻辑信号与②③关联度较高，②与③关联度相对较低，所以用①的逻辑信号作为脉冲信号，然后②③由①修改得到。</p>
+<p>&emsp;&emsp;①信号是开门4秒再关门8秒循环，用时间传感器设置绿色信号4秒，红色信号8秒。</p>
+<p>&emsp;</p>
+<p>（3）设计其他信号：&emsp;</p>
+<p>&emsp;&emsp;③信号最容易得到，只需要对①用非门。</p>
+<p>&emsp;&emsp;②信号可在①的基础上用缓冲门延长第一步的<strong>1</strong>信号4秒，就是②信号。</p>
+<p>&emsp;&emsp;</p>
+<p>（4）实操：</p>
+<p>&emsp;&emsp;①信号的实现：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4221.png" alt="4221"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;③信号的实现：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4222.png" alt="4222"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;②信号的实现：</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4223.png" alt="4223"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;注意！上图的推气门实际并不能使用，因为没有考虑进气时间等，实际应用设计见《4.3实际使用设计》。</p>
+<p>&emsp;</p>
+<hr>
+<p>&emsp;&emsp;我们试试设计《4.1.1 逐步分析逻辑》中的推气门，当作练习。</p>
+<p>&emsp;&emsp;推气门①②③逻辑：110，010，011，001，000循环。</p>
+<p>（1）分析规律：</p>
+<p>&emsp;&emsp;&emsp;①：1，0，0，0，0</p>
+<p>&emsp;&emsp;&emsp;②：1，1，1，0，0</p>
+<p>&emsp;&emsp;&emsp;③：0，0，1，1，0</p>
+<p>&emsp;&emsp;定眼一看，①②③的逻辑相互之间的关联度不高（编者没发现有什么联系/(ㄒoㄒ)/）。</p>
+<p>&emsp;</p>
+<p>（2）确定脉冲信号：</p>
+<p>&emsp;&emsp;因为①②③关联度不高，所以任选其一设计脉冲信号。</p>
+<p>&emsp;&emsp;此处选择①逻辑作为脉冲信号，时间传感器设置绿色4秒，红色16秒。</p>
+<p>&emsp;&emsp;</p>
+<p>（3）确定其他信号与实操：</p>
+<p>&emsp;&emsp;②信号：对①用缓冲门8秒，变为&ensp;1，1，1，0，0，从而实现②信号逻辑。</p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;③信号：因为③与①②的关联度不高，所以我们在①②中挑选一个作为信号源，在此基础上修改信号得到③。</p>
+<p>&emsp;&emsp;修改方法一：</p>
+<p>&emsp;&emsp;对①用缓冲门12秒，变为&ensp;1，1，1，1，0。</p>
+<p>&emsp;&emsp;加过滤门8秒，变为&ensp;0，0，1，1，1。</p>
+<p>&emsp;&emsp;缩短<strong>1</strong>信号（过滤门8秒），变为&ensp;0，0，1，1，0。</p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;修改方法二：</p>
+<p>&emsp;&emsp;对②用过滤门8秒，变为&ensp;0，0，1，0，0。</p>
+<p>&emsp;&emsp;加缓冲门4秒，变为&ensp;0，0，1，1，0。</p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;修改方法二比较简单，所以用方法二设计电路。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4224.png" alt="4224"></p>
+<p>&emsp;</p>
+<p>&emsp;&emsp;也可以用方法一设计。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4225.png" alt="4225"></p>
+<p>&emsp;&emsp;注意！上图的推气门实际并不能使用，因为没有考虑进气时间和逻辑门之间的时间冲突问题等，实际应用设计见《4.3实际使用设计》。</p>
+<p>&emsp;</p>
+<h1 id="3-实用设计"><a href="#3-实用设计" class="headerlink" title="3 实用设计"></a>3 实用设计</h1><p>&emsp;&emsp;在实际使用的时候，需要考虑如下问题：</p>
+<p>&emsp;&emsp;（1）在第一步001，需要等待气体流进机械门里，所以001这一步不能只维持一个单位时间，需要等待更长的时间让气体充分流进机械门再进入下一步。</p>
+<p>&emsp;&emsp;（2）在某些条件下暂停推气门。</p>
+<p>&emsp;&emsp;（3）逻辑门之间有时间冲突，比如两门之间<strong>1</strong>信号续不上等问题，下文会详细分析。</p>
+<h2 id="3-1-设计进气时间"><a href="#3-1-设计进气时间" class="headerlink" title="3.1 设计进气时间"></a>3.1 设计进气时间</h2><p>&emsp;&emsp;</p>
+<h2 id="3-2-暂停推气门"><a href="#3-2-暂停推气门" class="headerlink" title="3.2 暂停推气门"></a>3.2 暂停推气门</h2><p>&emsp;&emsp;</p>
+<h2 id="3-3-时间冲突分析"><a href="#3-3-时间冲突分析" class="headerlink" title="3.3 时间冲突分析"></a>3.3 时间冲突分析</h2><p>&emsp;&emsp;</p>
+]]></content>
+      <categories>
+        <category>缺氧百科</category>
+        <category>4 技术</category>
+        <category>技巧</category>
+      </categories>
+      <tags>
+        <tag>缺氧百科</tag>
+      </tags>
+  </entry>
 </search>
