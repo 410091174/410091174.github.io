@@ -420,11 +420,11 @@
 <h1 id="5-视图（概览）"><a href="#5-视图（概览）" class="headerlink" title="5 视图（概览）"></a>5 视图（概览）</h1><p>&emsp;&emsp;官方中文为“概览”，但在玩家之间的交流更多称之为“视图”，视图一词更通俗易懂，所以本文用视图一词代替概览。</p>
 <h2 id="氧气视图"><a href="#氧气视图" class="headerlink" title="氧气视图"></a>氧气视图</h2><p>&emsp;&emsp;显示地图上氧气浓度。（污染氧在氧气视图中也算作氧气。）</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/1%E6%B0%A7%E6%B0%94%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="1氧气视图.png"><br>&ensp;</p>
-<h2 id="电力视图"><a href="#电力视图" class="headerlink" title="电力视图"></a>电力视图</h2><p>&emsp;&emsp;显示电路布局及状态。对应《<a href="https://410091174.github.io/archives/44253e35" target="_blank">电力系统</a>》。</p>
+<h2 id="电力视图"><a href="#电力视图" class="headerlink" title="电力视图"></a>电力视图</h2><p>&emsp;&emsp;显示电路布局及状态。对应《<a href="https://410091174.github.io/archives/电力系统" target="_blank">电力系统</a>》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/2%E7%94%B5%E5%8A%9B%E8%A7%86%E5%9B%BE%E4%BB%8B%E7%BB%8D.png?imageMogr2/format/webp" alt="2电力视图介绍.png"></p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/2%E7%94%B5%E5%8A%9B%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="2电力视图.png"></p>
 <p>&ensp;</p>
-<h2 id="温度视图"><a href="#温度视图" class="headerlink" title="温度视图"></a>温度视图</h2><p>&emsp;&emsp;<strong>温度</strong>：显示地图温度。对应《<a href="https://410091174.github.io/archives/78f15731" target="_blank">温度和热学概述</a></td>》</p>
+<h2 id="温度视图"><a href="#温度视图" class="headerlink" title="温度视图"></a>温度视图</h2><p>&emsp;&emsp;<strong>温度</strong>：显示地图温度。对应《<a href="https://410091174.github.io/archives/温度" target="_blank">温度和热学概述</a></td>》</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/3%E6%B8%A9%E5%BA%A6%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="3温度视图.png"></p>
 <p>&ensp;</p>
 <p>&emsp;&emsp;<strong>热忍耐</strong>：显示地图中复制人容易滞留热量和散失热量的地方。与之相关的是复制人体温，详细介绍见《–》。</p>
@@ -452,24 +452,25 @@
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3游戏界面/5视图/5光照视图.png?imageMogr2/format/webp" style="zoom:80%;" />
 &ensp;
 
-<h2 id="液体管道视图"><a href="#液体管道视图" class="headerlink" title="液体管道视图"></a>液体管道视图</h2><p>&emsp;&emsp;显示液体管道布局及管道内容物。对应《<a href="https://410091174.github.io/archives/2814ad1a" target="_blank">管道系统</a>》。</p>
+<h2 id="液体管道视图"><a href="#液体管道视图" class="headerlink" title="液体管道视图"></a>液体管道视图</h2><p>&emsp;&emsp;显示液体管道布局及管道内容物。对应《<a href="https://410091174.github.io/archives/管道系统" target="_blank">管道系统</a>》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/6%E6%B6%B2%E4%BD%93%E7%AE%A1%E9%81%93%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="6液体管道视图.png"></p>
 <p>&ensp;</p>
-<h2 id="气体管道视图"><a href="#气体管道视图" class="headerlink" title="气体管道视图"></a>气体管道视图</h2><p>&emsp;&emsp;显示气体管道布局及管道内容物。对应《<a href="https://410091174.github.io/archives/2814ad1a" target="_blank">管道系统</a>》。</p>
+<h2 id="气体管道视图"><a href="#气体管道视图" class="headerlink" title="气体管道视图"></a>气体管道视图</h2><p>&emsp;&emsp;显示气体管道布局及管道内容物。对应《<a href="https://410091174.github.io/archives/管道系统" target="_blank">管道系统</a>》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/7%E6%B0%94%E4%BD%93%E7%AE%A1%E9%81%93%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="7气体管道视图.png"><br>&ensp;</p>
-<h2 id="装饰度视图"><a href="#装饰度视图" class="headerlink" title="装饰度视图"></a>装饰度视图</h2><p>&emsp;&emsp;显示地图上的装饰度（生活总得有点绿）。对应《<a href="https://410091174.github.io/archives/18f78b0c" target="_blank">装饰</a>》。</p>
+<h2 id="装饰度视图"><a href="#装饰度视图" class="headerlink" title="装饰度视图"></a>装饰度视图</h2><p>&emsp;&emsp;显示地图上的装饰度（生活总得有点绿）。对应《<a href="https://410091174.github.io/archives/装饰" target="_blank">装饰</a>》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/8%E8%A3%85%E9%A5%B0%E5%BA%A6%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="8装饰度视图.png"><br>&ensp;</p>
 <h2 id="农业视图"><a href="#农业视图" class="headerlink" title="农业视图"></a>农业视图</h2><p>&emsp;&emsp;显示农作物的生长进度和状态。农业介绍见《–》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/9%E5%86%9C%E4%B8%9A%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="9农业视图.png"><br>&ensp;</p>
-<h2 id="房间视图"><a href="#房间视图" class="headerlink" title="房间视图"></a>房间视图</h2><p>&emsp;&emsp;显示房间布局。对应《<a href="https://410091174.github.io/archives/e1677cc4" target="_blank">房间</a>》。</p>
+<h2 id="房间视图"><a href="#房间视图" class="headerlink" title="房间视图"></a>房间视图</h2><p>&emsp;&emsp;显示房间布局。对应《<a href="https://410091174.github.io/archives/房间" target="_blank">房间</a>》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/10%E6%88%BF%E9%97%B4%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="10房间视图"><br>&ensp;</p>
 <h2 id="病菌视图"><a href="#病菌视图" class="headerlink" title="病菌视图"></a>病菌视图</h2><p>&emsp;&emsp;显示地图上的病菌及病菌密度。对应《–》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/11%E7%97%85%E8%8F%8C%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="11病菌视图.png"><br>&ensp;</p>
-<h2 id="太空服视图"><a href="#太空服视图" class="headerlink" title="太空服视图"></a>太空服视图</h2><p>&emsp;&emsp;这个视图没什么用，本来编者尽量不带主观意识评价，但确实是完全用不上。<br>&emsp;&emsp;不如看《<a href="https://410091174.github.io/archives/bc5f5be6" target="_blank">太空服</a>》的使用。</p>
+<h2 id="太空服视图"><a href="#太空服视图" class="headerlink" title="太空服视图"></a>太空服视图</h2><p>&emsp;&emsp;这个视图没什么用。</p>
+<p>&emsp;&emsp;不如看《<a href="https://410091174.github.io/archives/太空服" target="_blank">太空服</a>》的使用。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/12%E5%A4%AA%E7%A9%BA%E6%9C%8D%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="12太空服视图.png"><br>&ensp;</p>
-<h2 id="自动化视图"><a href="#自动化视图" class="headerlink" title="自动化视图"></a>自动化视图</h2><p>&emsp;&emsp;显示自动化线和自动化机器的状态。对应《<a href="https://410091174.github.io/archives/c9b1d72b" target="_blank">自动化</a>》。</p>
+<h2 id="自动化视图"><a href="#自动化视图" class="headerlink" title="自动化视图"></a>自动化视图</h2><p>&emsp;&emsp;显示自动化线和自动化机器的状态。对应《<a href="https://410091174.github.io/archives/自动化" target="_blank">自动化</a>》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/13%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="13自动化视图.png"><br>&ensp;</p>
-<h2 id="轨道视图"><a href="#轨道视图" class="headerlink" title="轨道视图"></a>轨道视图</h2><p>&emsp;&emsp;显示运输机器和轨道。对应《<a href="https://410091174.github.io/archives/f95f95f4" target="_blank">运输系统</a>》。</p>
+<h2 id="轨道视图"><a href="#轨道视图" class="headerlink" title="轨道视图"></a>轨道视图</h2><p>&emsp;&emsp;显示运输机器和轨道。对应《<a href="https://410091174.github.io/archives/运输系统" target="_blank">运输系统</a>》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/2/2.3%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2/5%E8%A7%86%E5%9B%BE/14%E8%BD%A8%E9%81%93%E8%A7%86%E5%9B%BE.png?imageMogr2/format/webp" alt="14轨道视图.png"></p>
 <p>&ensp;</p>
 <h1 id="6-游戏报告、数据库、菜单"><a href="#6-游戏报告、数据库、菜单" class="headerlink" title="6 游戏报告、数据库、菜单"></a>6 游戏报告、数据库、菜单</h1><p>&emsp;&emsp;<strong>游戏报告</strong><br>&emsp;&emsp;查看殖民地的情况，方便玩家统计数据。</p>
@@ -803,8 +804,7 @@
     <title>优先值系统</title>
     <url>/archives/%E4%BC%98%E5%85%88%E5%80%BC%E7%B3%BB%E7%BB%9F.html</url>
     <content><![CDATA[<h1 id="1-优先值"><a href="#1-优先值" class="headerlink" title="1 优先值"></a>1 优先值</h1><p>&emsp;&emsp;优先值用于给复制人判断任务的重要程度</p>
-<p>&emsp;&emsp;<a href="https://410091174.github.io/archives/fc949f1c#%E4%BC%98%E5%85%88%E7%BA%A7" target="_blank">优先级</a>、<a href="https://410091174.github.io/archives/5c097426#%E4%BC%98%E5%85%88%E5%BA%A6%EF%BC%88P%EF%BC%89" target="_blank">优先度</a>、任务，都有对应的优先值，复制人选择任务只会选择三者优先值之和最高的任务。</p>
-<p>&emsp;&emsp;(请先点击蓝色字（超链接）查阅优先级和优先度的用途，有助于理解下文。）</p>
+<p>&emsp;&emsp;<a href="https://410091174.github.io/archives/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2#%E4%BC%98%E5%85%88%E7%BA%A7" target="_blank">优先级</a>、<a href="https://410091174.github.io/archives/%E6%B8%B8%E6%88%8F%E6%93%8D%E4%BD%9C#%E4%BC%98%E5%85%88%E5%BA%A6%EF%BC%88P%EF%BC%89" target="_blank">优先度</a>、任务，都有对应的优先值，复制人选择任务只会选择三者优先值之和最高的任务。</p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;优先级，用于调整各个复制人主要从事的任务类型（针对复制人）。从高到低的5个等级对应的优先值为50、40、30、20、10。</p>
 <p>&emsp;&emsp;优先度，用于调整任务的重要程度（针对任务）。从高到低对应的优先值为9、8…2、1。</p>
@@ -1028,7 +1028,7 @@
       </tags>
   </entry>
   <entry>
-    <title>温度和热学概述（未完成）</title>
+    <title>温度</title>
     <url>/archives/78f15731.html</url>
     <content><![CDATA[<h1 id="1-温度系统"><a href="#1-温度系统" class="headerlink" title="1 温度系统"></a>1 温度系统</h1><p>&emsp;&emsp;<strong>温度视图（快捷键：F3）</strong>，直观显示地图中温度的冷热情况。</p>
 <p>&emsp;&emsp;在温度视图下可以看到，不同的温度呈现不同的的颜色。温度越高越红，越低越蓝。</p>
@@ -1182,7 +1182,7 @@
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;把饮水机禁用，没啥用，浪费水。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/23%E9%AB%98%E6%A1%A3%E9%A4%90%E5%8E%85%E7%A6%81%E7%94%A8%E9%A5%AE%E6%B0%B4%E6%9C%BA.png?imageMogr2/format/webp" alt="23高档餐厅禁用饮水机"></p>
-<h3 id="卫生间"><a href="#卫生间" class="headerlink" title="卫生间"></a>卫生间</h3><p>&emsp;&emsp;如果要建卫生间，就参考建<a href="https://410091174.github.io/archives/79f5cd92" target="_blank">自循环厕所</a>。</p>
+<h3 id="卫生间"><a href="#卫生间" class="headerlink" title="卫生间"></a>卫生间</h3><p>&emsp;&emsp;如果要建卫生间，参考<a href="https://410091174.github.io/archives/自循环厕所" target="_blank">自循环厕所</a>。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/1/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80/%E8%87%AA%E5%BE%AA%E7%8E%AF%E5%8E%95%E6%89%80.jpg?imageMogr2/format/webp" alt="自循环厕所"></p>
 <p>&emsp;&emsp;</p>
 <h3 id="卧室"><a href="#卧室" class="headerlink" title="卧室"></a>卧室</h3><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E6%88%BF%E9%97%B4/24%E5%8D%A7%E5%AE%A4.png?imageMogr2/format/webp" alt="24卧室"></p>
@@ -1413,14 +1413,14 @@
 <p>&emsp;&emsp;</p>
 <h3 id="2-3-3-温室"><a href="#2-3-3-温室" class="headerlink" title="2.3.3 温室"></a>2.3.3 温室</h3><p>&emsp;&emsp;在<strong>温室</strong>里可以使用<strong>农业站制造微肥</strong>，复制人对植物使用微肥能增加100%生长速度。</p>
 <p>&emsp;&emsp;生长速度+100%也意味着，保持原有的消耗，生长时间缩短一半，换而言之，与不用微肥相比，生产同样的食物，所需消耗减半。</p>
-<p>&emsp;&emsp;首先搭建一个温室（有农业站的<a href="https://410091174.github.io/archives/e1677cc4" target="_blank">房间</a> ）。</p>
+<p>&emsp;&emsp;首先搭建一个<a href="https://410091174.github.io/archives/%E6%88%BF%E9%97%B4#%E6%B8%A9%E5%AE%A4" target="_blank">温室</a> 。</p>
 <table>
     <tr>
     <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/植物与种植/2温室1.png?imageMogr2/format/webp"  /></td>
     <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/植物与种植/2温室2.png?imageMogr2/format/webp" style="zoom:80%;" /></td></tr>
 </table>
 
-<p>&emsp;&emsp;搭建肥料合成器模块提供肥料（建造方法与《<a href="https://410091174.github.io/archives/bb1e1d3a" target="_blank">原油精炼器模块</a>》一样）。</p>
+<p>&emsp;&emsp;搭建肥料合成器模块提供肥料（建造方法与《<a href="https://410091174.github.io/archives/原油精炼器模块" target="_blank">原油精炼器模块</a>》一样）。</p>
 <table>
 <tr>
     <td><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/植物与种植/2温室3.png?imageMogr2/format/webp"  /></td>
@@ -1608,7 +1608,7 @@
 
 
 
-<p>&emsp;&emsp;用<strong>信号线</strong>连接智能电池和发电机。（信号线的使用见<a href="https://410091174.github.io/archives/c9b1d72b" target="_blank">自动化</a>”）</p>
+<p>&emsp;&emsp;用<strong>信号线</strong>连接智能电池和发电机。（信号线的使用见<a href="https://410091174.github.io/archives/自动化" target="_blank">自动化</a>”）</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/电力系统/4信号线连接智能电池.png?imageMogr2/format/webp" style="zoom:67%;" />
 
 
@@ -2018,7 +2018,7 @@
 </ul>
 <p>&emsp;&emsp;液体管道温度传感器（，气体管道温度传感器），液体管道元素传感器，气体管道元素传感器。</p>
 <ul>
-<li>检测自身信息来输出信号：<a href="https://410091174.github.io/archives/44253e35#5-2-智能电池" target="_blank">智能电池</a>。</li>
+<li>检测自身信息来输出信号：<a href="https://410091174.github.io/archives/自动化#5-2-智能电池" target="_blank">智能电池</a>。</li>
 </ul>
 <p>&emsp;&emsp;（2）常用的能接收信号的建筑：</p>
 <p>&emsp;&emsp;气动门，机械门，地堡门；</p>
@@ -2466,7 +2466,7 @@
 
 <p>&emsp;&emsp;用液体管桥注入液体的好处（气体同理）：</p>
 <p>&emsp;&emsp;（1）拆除管桥不会漏水，管桥没有内容物，也就是管桥内部没有液体。</p>
-<p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。具体见《<a href="https://410091174.github.io/archives/6d4d5131" target="_blank">循环管道</a>》。</p>
+<p>&emsp;&emsp;（2）对于循环管道，一定要用管桥注入液体。具体见《<a href="https://410091174.github.io/archives/循环管道" target="_blank">循环管道</a>》。</p>
 <p>&emsp;</p>
 <p>&emsp;&emsp;例（1）：用液体管桥对管道输入水，输满水后拆掉管桥。</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/补充知识/用管桥对管道输入液体气体/对模块注入水的管道接法.png?imageMogr2/format/webp" alt="对模块注入水的管道接法.png" style="zoom:67%;" />
@@ -2501,7 +2501,7 @@
 <p>&emsp;&emsp;液体管道图：</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97/%E5%8E%9F%E6%B2%B9%E7%B2%BE%E7%82%BC%E5%99%A8%E6%A8%A1%E5%9D%97%E7%AE%A1%E9%81%93.jpg?imageMogr2/format/webp" alt="原油精炼器模块管道.jpg"></p>
 <p>&emsp;&emsp;搭建模块：</p>
-<p>&emsp;&emsp;首先做出一个真空区域（见《<a href="https://410091174.github.io/archives/935ec319" target="_blank">真空室</a>》），然后把建筑放进去。</p>
+<p>&emsp;&emsp;首先做出一个真空区域（见《<a href="https://410091174.github.io/archives/搭建真空室" target="_blank">真空室</a>》），然后把建筑放进去。</p>
 <p>&emsp;&emsp;之所以要真空，是因为原油精炼器会产出天然气，先把杂气抽走，方便收集纯净的天然气。</p>
 ]]></content>
       <categories>
@@ -2588,7 +2588,7 @@
 <p>&emsp;&emsp;复制人尿尿产出6.7kg污染水；马桶消耗5kg水，排出11.7kg污染水(6.7kg尿+5kg水)；净水器过滤污染水百分百转换成水；所以<strong>模块能产出水 (6.7*人口)kg/周期</strong>。</p>
 <p>&emsp;&emsp;产出的水必须尽快输出，不要留在模块内部，不然会导致厕所无法运作。水的去处有很多，比如种菜、电解器、油井……</p>
 <p>&emsp;&emsp;</p>
-<h3 id="2-2-启动模块输入水的管道接法"><a href="#2-2-启动模块输入水的管道接法" class="headerlink" title="2.2 启动模块输入水的管道接法"></a>2.2 启动模块输入水的管道接法</h3><p>&emsp;&emsp;从黄框处用“液体管桥”对厕所输入水，输满水后拆掉管桥。理由见《<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体/气体</a>》。</p>
+<h3 id="2-2-启动模块输入水的管道接法"><a href="#2-2-启动模块输入水的管道接法" class="headerlink" title="2.2 启动模块输入水的管道接法"></a>2.2 启动模块输入水的管道接法</h3><p>&emsp;&emsp;从黄框处用“液体管桥”对厕所输入水，输满水后拆掉管桥。理由见《<a href="https://410091174.github.io/archives/用管桥对管道输入气液体" target="_blank">用管桥对管道注入液体/气体</a>》。</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/模块/自循环厕所/对模块注入水的管道接法.png?imageMogr2/format/webp" alt="对模块注入水的管道接法.png" style="zoom:80%;" /> 
 
 <p>&emsp;&emsp;</p>
@@ -2637,7 +2637,7 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8.jpg?imageMogr2/format/webp" alt="自循环碳素脱离器.jpg"></p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8%E7%AE%A1%E9%81%93.jpg?imageMogr2/format/webp" alt="自循环碳素脱离器管道.jpg"></p>
 <p>&emsp;&emsp;</p>
-<h3 id="2-2-对模块注入水的管道接法"><a href="#2-2-对模块注入水的管道接法" class="headerlink" title="2.2 对模块注入水的管道接法"></a>2.2 对模块注入水的管道接法</h3><p>&emsp;&emsp;从黄框处，用“液体管桥”对厕所输入水，输满水后拆掉管桥。理由见《<a href="https://410091174.github.io/archives/3d67bd2d" target="_blank">用管桥对管道注入液体/气体</a>》。</p>
+<h3 id="2-2-对模块注入水的管道接法"><a href="#2-2-对模块注入水的管道接法" class="headerlink" title="2.2 对模块注入水的管道接法"></a>2.2 对模块注入水的管道接法</h3><p>&emsp;&emsp;从黄框处，用“液体管桥”对厕所输入水，输满水后拆掉管桥。理由见《<a href="https://410091174.github.io/archives/用管桥对管道输入气液体" target="_blank">用管桥对管道注入液体/气体</a>》。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E8%87%AA%E5%BE%AA%E7%8E%AF%E7%A2%B3%E7%B4%A0%E8%84%B1%E7%A6%BB%E5%99%A8/%E5%AF%B9%E6%A8%A1%E5%9D%97%E6%B3%A8%E5%85%A5%E6%B0%B4%E7%9A%84%E7%AE%A1%E9%81%93%E6%8E%A5%E6%B3%95.jpg?imageMogr2/format/webp" alt="对模块注入水的管道接法.jpg"></p>
 ]]></content>
       <categories>
@@ -2730,7 +2730,7 @@
 <p>&emsp;&emsp;液冷转移到自身身上的热量是非常大的，需要配合吸收热量的东西使用，最常见的是用蒸汽机吞热。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%A8%A1%E5%9D%97/%E9%99%8D%E6%B8%A9%E6%A8%A1%E5%9D%97/%E6%B6%B2%E5%86%B7%E4%BD%BF%E7%94%A8%E4%BE%8B%E5%AD%90.png?imageMogr2/format/webp"></p>
 <p>&emsp;</p>
-<h2 id="3-2-液冷的使用"><a href="#3-2-液冷的使用" class="headerlink" title="3.2 液冷的使用"></a>3.2 液冷的使用</h2><h3 id="3-2-1-液冷的管道接法"><a href="#3-2-1-液冷的管道接法" class="headerlink" title="3.2.1 液冷的管道接法"></a>3.2.1 液冷的管道接法</h3><p>&emsp;&emsp;为了方便使用液冷，我们可以把液冷的管道设计成循环管道，让冷却液一直循环流动，读者可先了解<a href="https://410091174.github.io/archives/6d4d5131" target="_blank">循环管道</a>的原理与搭建。</p>
+<h2 id="3-2-液冷的使用"><a href="#3-2-液冷的使用" class="headerlink" title="3.2 液冷的使用"></a>3.2 液冷的使用</h2><h3 id="3-2-1-液冷的管道接法"><a href="#3-2-1-液冷的管道接法" class="headerlink" title="3.2.1 液冷的管道接法"></a>3.2.1 液冷的管道接法</h3><p>&emsp;&emsp;为了方便使用液冷，我们可以把液冷的管道设计成循环管道，让冷却液一直循环流动，读者可先了解<a href="https://410091174.github.io/archives/循环管道" target="_blank">循环管道</a>的原理与搭建。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;液冷的循环管道接法：</p>
 <p>&emsp;&emsp;先如下图中的橙框连接“隔热管道”；导热管道（黄色管道）是玩家根据自己的需求把导热管道建到需要降温的地方。</p>
@@ -2988,186 +2988,13 @@
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;喷孔是间断生产气体，喷一会儿停一会儿。</p>
-<p>&emsp;&emsp;所以补充一个设计，当喷孔停止喷气时，停止机械门的工作，减轻电脑运算负担。（实际提升并不大）</p>
+<p>&emsp;&emsp;所以补充一个设计，当喷孔气压低时，停止机械门的工作，减轻电脑负担。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E5%8D%95%E9%97%A8%E6%8E%A8%E6%B0%94/323.png" alt="323"></p>
 <p>&emsp;&emsp;</p>
 <h1 id="4-推气门"><a href="#4-推气门" class="headerlink" title="4 推气门"></a>4 推气门</h1><p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
-<p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有一定门槛。</p>
-<h2 id="4-1-逻辑分析"><a href="#4-1-逻辑分析" class="headerlink" title="4.1 逻辑分析"></a>4.1 逻辑分析</h2><h3 id="4-1-1-逐步分析逻辑"><a href="#4-1-1-逐步分析逻辑" class="headerlink" title="4.1.1 逐步分析逻辑"></a>4.1.1 逐步分析逻辑</h3><p>&emsp;&emsp;本节的机械门逻辑是把气体从左推向右。</p>
-<p>&emsp;&emsp;第一步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4111.png" alt="4111"></p>
-<p>&emsp;&emsp;第二步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4112.png" alt="4112"></p>
-<p>&emsp;&emsp;第三步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4113.png" alt="4113"></p>
-<p>&emsp;&emsp;第四步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4114.png" alt="4114"></p>
-<p>&emsp;&emsp;第五步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4115.png" alt="4115"></p>
-<p>&emsp;&emsp;循环到第一步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4111.png" alt="4111"></p>
-<p>&emsp;&emsp;从而实现把气体从左推向右。</p>
-<p>&emsp;&emsp;但是实际使用一般不用这个逻辑，实际使用逻辑见下节。</p>
-<p>&emsp;&emsp;</p>
-<h3 id="4-1-2-实际使用逻辑"><a href="#4-1-2-实际使用逻辑" class="headerlink" title="4.1.2 实际使用逻辑"></a>4.1.2 实际使用逻辑</h3><p>&emsp;&emsp;因为推气门在开门进气和关门推气有延迟，即开门要完全打开才能进气，关门要完全关上才会推气，所以在实际应用的时候会简化理论逻辑，从而电路更简单，一次循环耗时更短。</p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;本节的机械门逻辑是把气体从左推向右。</p>
-<p>&emsp;&emsp;第一步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4121.png" alt="4121"></p>
-<p>&emsp;&emsp;第二步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4122.png" alt="4122"></p>
-<p>&emsp;&emsp;第三步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4123.png" alt="4123"></p>
-<p>&emsp;&emsp;循环到第一步，</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4124.png" alt="4124"></p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
-<h2 id="4-2-理论设计"><a href="#4-2-理论设计" class="headerlink" title="4.2 理论设计"></a>4.2 理论设计</h2><h3 id="4-2-1-理论基础"><a href="#4-2-1-理论基础" class="headerlink" title="4.2.1 理论基础"></a>4.2.1 理论基础</h3><h4 id="（1）基本了解"><a href="#（1）基本了解" class="headerlink" title="（1）基本了解"></a>（1）基本了解</h4><p>&emsp;&emsp;机械门开门和关门需要3.8秒，不过为了稳定（防止电脑卡机等），所以本文在开关门的逻辑时间参数以4秒为单位，即第一步指0~4s（接近4但不到4），第二步指4~8秒（接近8但不到8）。</p>
-<p>&emsp;&emsp;<strong>0</strong>表示红色信号，即机械门关门；</p>
-<p>&emsp;&emsp;<strong>1</strong>表示绿色信号，即机械门开门。</p>
-<p>&emsp;&emsp;</p>
-<h4 id="（2）脉冲信号"><a href="#（2）脉冲信号" class="headerlink" title="（2）脉冲信号"></a>（2）脉冲信号</h4><p>&emsp;&emsp;脉冲信号是一种离散信号，波形之间在时间轴不连续，即波形与波形之间有明显的间隔，但具有一定的周期性。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42121.png" alt="42121"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;脉冲信号的实现：时间传感器。</p>
-<p>&emsp;&emsp;本文中，以4秒为单位时间长度，即上图中的一格为单位时间长度。</p>
-<p>&emsp;&emsp;时间传感器设置为绿色4秒，红色4秒实现上图的脉冲信号。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42122.png" alt="42122"></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;下图同理，绿色4秒，红色8秒。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42123.png" alt="42123"></p>
+<p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。对玩家水平有较高门槛。</p>
 <p>&emsp;</p>
-<p>&emsp;&emsp;脉冲还有另一种方法，缓冲门+过滤门+非门，三门首尾相连，即可实现脉冲。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42124.png" alt="42124"></p>
-<p>&emsp;&emsp;设置脉冲输出的绿色和红色时间长度：</p>
-<p>&emsp;&emsp;如上图，如果脉冲信号是由非门输出端引出，则过滤门设置的时间代表绿色时间长度，缓冲门代表红色长度。</p>
-<p>&emsp;&emsp;如果脉冲信号是由非门输入端引出，则与上相反。</p>
-<p>&emsp;</p>
-<h4 id="（3）延长信号长度"><a href="#（3）延长信号长度" class="headerlink" title="（3）延长信号长度"></a>（3）延长信号长度</h4><p>&emsp;&emsp;机械门开门和关门的持续时间，可以用缓冲门和过滤门延长。</p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号0110，连接过滤门设置4秒，变为0010。</p>
-<p>&emsp;&emsp;一段以4秒为单位的脉冲信号0110，连接缓冲门设置4秒，变为0111。</p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;可理解为向后覆盖信号，过滤门是在连续的0后面覆盖0，缓冲门是在连续的1后面覆盖1，覆盖长度就是门设置多少个单位时间。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42131.png" alt="42131"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;例如下图，脉冲信号+缓冲门，脉冲信号刚变为0，缓冲门还维持1的输出。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42132.png" alt="42132"></p>
-<p>&emsp;&emsp;上图对应的时间段就是下图黄色框。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42133.png" alt="42133"></p>
-<p>&emsp;&emsp;</p>
-<h4 id="（4）缩短信号长度"><a href="#（4）缩短信号长度" class="headerlink" title="（4）缩短信号长度"></a>（4）缩短信号长度</h4><ul>
-<li>缩短<strong>1</strong>信号长度：</li>
-</ul>
-<p>&emsp;&emsp;过滤门和锁存器摆放如下，过滤门设置的时间就是<strong>1</strong>信号的长度。</p>
-<p>  <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42141.png" alt="42141"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号11101110，变为10001000，则过滤门设置一个单位时间长度（4秒）。</p>
-<p>&emsp;&emsp;一段信号11101110，变为11001100，则过滤门设置两个单位时间长度（8秒）。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42142.png" alt="42142"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;逻辑原理：当<strong>1</strong>给到锁存器，锁存器输出<strong>1</strong>，等待一段时间（过滤门设置的时间），过滤门输出<strong>1</strong>给锁存器R端，强制锁存器输出<strong>0</strong>，从而实现缩短<strong>1</strong>信号的长度。</p>
-<p>&emsp;&emsp;<font size="2">其实这个电路设计可以延长信号时间（与缓冲门类似），把过滤门的时间设置长一点就行，在其他地方也能用上。</font></p>
-<p>&emsp;</p>
-<ul>
-<li>缩短<strong>0</strong>信号长度：</li>
-</ul>
-<p>&emsp;&emsp;过滤门、锁存器、非门摆放如下，过滤门设置的时间就是<strong>0</strong>信号的长度。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42143.png" alt="42143"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号00010001变为01110111，则过滤门设置一个单位时间长度（4秒）。</p>
-<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号00010001变为00110011，则过滤门设置二个单位时间长度（8秒）。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/42144.png" alt="42144"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;逻辑原理：00010001非门变为11101110，缩短<strong>1</strong>变为10001000，再非门变为01110111，从而实现缩短<strong>0</strong>信号。</p>
-<p>&emsp;</p>
-<h4 id="（5）信号整体左移和右移"><a href="#（5）信号整体左移和右移" class="headerlink" title="（5）信号整体左移和右移"></a>（5）信号整体左移和右移</h4><ul>
-<li>右移</li>
-</ul>
-<p>&emsp;&emsp;右移指把整段信号向右移动。</p>
-<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号1110右移一个时间单位变为0111。</p>
-<p>&emsp;&emsp;1110先用过滤门4秒变为0110，再缓冲门4秒变为0111。</p>
-<p>&emsp;&emsp;所以实现右移只需要先过滤门再缓冲门，过滤门和缓冲门设置的时间一样，并且这个时间就是右移长度。</p>
-<p>&emsp;</p>
-<ul>
-<li>左移</li>
-</ul>
-<p>&emsp;&emsp;左移指把整段信号向左移动。</p>
-<p>&emsp;&emsp;比如一段以4秒为单位的脉冲信号1110左移一个时间单位变为1101。</p>
-<p>&emsp;&emsp;因为脉冲是循环，直接右移对应的时间单位即可（此处为三个单位）。</p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;常人理解的左移比较难实现，因为缺氧的信号修改都是对“未来”（右边）作修改，修改“过去”（左边）比较困难。</p>
-<h3 id="4-2-2-理论设计流程"><a href="#4-2-2-理论设计流程" class="headerlink" title="4.2.2 理论设计流程"></a>4.2.2 理论设计流程</h3><p>&emsp;&emsp;《4.1.2实际使用逻辑》中的推气门①②③逻辑可写成：110，011，001循环。</p>
-<p>（1）分析规律：</p>
-<p>&emsp;&emsp;分别观察①②③号门的逻辑，</p>
-<p>&emsp;&emsp;&emsp;①：1，0，0</p>
-<p>&emsp;&emsp;&emsp;②：1，1，0</p>
-<p>&emsp;&emsp;&emsp;③：0，1，1</p>
-<p>&emsp;&emsp;观察发现，①和③的信号全部相反；</p>
-<p>&emsp;&emsp;对于①和②，②相当于①延长了<strong>1</strong>信号。</p>
-<p>&emsp;&emsp;对于②和③，③相当于②整体右移一个时间单位。</p>
-<p>&emsp;</p>
-<p>（2）确定脉冲信号：</p>
-<p>&emsp;&emsp;因为①的逻辑信号与②③关联度较高，②与③关联度相对较低，所以用①的逻辑信号作为脉冲信号，然后②③由①修改得到。</p>
-<p>&emsp;&emsp;①信号是开门4秒再关门8秒循环，用时间传感器设置绿色信号4秒，红色信号8秒。</p>
-<p>&emsp;</p>
-<p>（3）设计其他信号：&emsp;</p>
-<p>&emsp;&emsp;③信号最容易得到，只需要对①用非门。</p>
-<p>&emsp;&emsp;②信号可在①的基础上用缓冲门延长第一步的<strong>1</strong>信号4秒，就是②信号。</p>
-<p>&emsp;&emsp;</p>
-<p>（4）实操：</p>
-<p>&emsp;&emsp;①信号的实现：</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4221.png" alt="4221"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;③信号的实现：</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4222.png" alt="4222"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;②信号的实现：</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4223.png" alt="4223"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;注意！上图的推气门实际并不能使用，因为没有考虑进气时间等，实际应用设计见《4.3实际使用设计》。</p>
-<p>&emsp;</p>
-<hr>
-<p>&emsp;&emsp;我们试试设计《4.1.1 逐步分析逻辑》中的推气门，当作练习。</p>
-<p>&emsp;&emsp;推气门①②③逻辑：110，010，011，001，000循环。</p>
-<p>（1）分析规律：</p>
-<p>&emsp;&emsp;&emsp;①：1，0，0，0，0</p>
-<p>&emsp;&emsp;&emsp;②：1，1，1，0，0</p>
-<p>&emsp;&emsp;&emsp;③：0，0，1，1，0</p>
-<p>&emsp;&emsp;定眼一看，①②③的逻辑相互之间的关联度不高（编者没发现有什么联系/(ㄒoㄒ)/）。</p>
-<p>&emsp;</p>
-<p>（2）确定脉冲信号：</p>
-<p>&emsp;&emsp;因为①②③关联度不高，所以任选其一设计脉冲信号。</p>
-<p>&emsp;&emsp;此处选择①逻辑作为脉冲信号，时间传感器设置绿色4秒，红色16秒。</p>
-<p>&emsp;&emsp;</p>
-<p>（3）确定其他信号与实操：</p>
-<p>&emsp;&emsp;②信号：对①用缓冲门8秒，变为&ensp;1，1，1，0，0，从而实现②信号逻辑。</p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;③信号：因为③与①②的关联度不高，所以我们在①②中挑选一个作为信号源，在此基础上修改信号得到③。</p>
-<p>&emsp;&emsp;修改方法一：</p>
-<p>&emsp;&emsp;对①用缓冲门12秒，变为&ensp;1，1，1，1，0。</p>
-<p>&emsp;&emsp;加过滤门8秒，变为&ensp;0，0，1，1，1。</p>
-<p>&emsp;&emsp;缩短<strong>1</strong>信号（过滤门8秒），变为&ensp;0，0，1，1，0。</p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;修改方法二：</p>
-<p>&emsp;&emsp;对②用过滤门8秒，变为&ensp;0，0，1，0，0。</p>
-<p>&emsp;&emsp;加缓冲门4秒，变为&ensp;0，0，1，1，0。</p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;修改方法二比较简单，所以用方法二设计电路。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4224.png" alt="4224"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;也可以用方法一设计。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E6%8E%A8%E6%B0%94%E9%97%A8/4225.png" alt="4225"></p>
-<p>&emsp;&emsp;注意！上图的推气门实际并不能使用，因为没有考虑进气时间和逻辑门之间的时间冲突问题等，实际应用设计见《4.3实际使用设计》。</p>
-<p>&emsp;</p>
-<h2 id="4-3-实际使用设计（在写）"><a href="#4-3-实际使用设计（在写）" class="headerlink" title="4.3 实际使用设计（在写）"></a>4.3 实际使用设计（在写）</h2><p>&emsp;&emsp;在实际使用的时候，需要考虑如下问题：</p>
-<p>&emsp;&emsp;（1）在第一步001，需要等待气体流进机械门里，所以001这一步不能只维持一个单位时间，需要等待更长的时间让气体充分流进机械门再进入下一步。</p>
-<p>&emsp;&emsp;（2）在某些条件下暂停推气门。</p>
-<p>&emsp;&emsp;（3）逻辑门之间有时间冲突，比如两门之间<strong>1</strong>信号续不上等问题，下文会详细分析。</p>
-<h3 id="4-3-1-设计进气时间"><a href="#4-3-1-设计进气时间" class="headerlink" title="4.3.1 设计进气时间"></a>4.3.1 设计进气时间</h3><p>&emsp;&emsp;</p>
-<h3 id="4-3-2-暂停推气门"><a href="#4-3-2-暂停推气门" class="headerlink" title="4.3.2 暂停推气门"></a>4.3.2 暂停推气门</h3><p>&emsp;&emsp;</p>
-<h3 id="4-3-3-时间冲突分析"><a href="#4-3-3-时间冲突分析" class="headerlink" title="4.3.3 时间冲突分析"></a>4.3.3 时间冲突分析</h3><p>&emsp;&emsp;</p>
-<h2 id="4-4-常见推气门（抄作业）"><a href="#4-4-常见推气门（抄作业）" class="headerlink" title="4.4 常见推气门（抄作业）"></a>4.4 常见推气门（抄作业）</h2><h3 id="4-4-1-脉冲推气门"><a href="#4-4-1-脉冲推气门" class="headerlink" title="4.4.1 脉冲推气门"></a>4.4.1 脉冲推气门</h3><h3 id="4-4-2-信号循环推气门"><a href="#4-4-2-信号循环推气门" class="headerlink" title="4.4.2 信号循环推气门"></a>4.4.2 信号循环推气门</h3><h3 id="4-4-3-压力板推气门"><a href="#4-4-3-压力板推气门" class="headerlink" title="4.4.3 压力板推气门"></a>4.4.3 压力板推气门</h3><p>&emsp;&emsp;此方法参考：吃瓜狂魔。</p>
-<p>&emsp;&emsp;【吃瓜】三种推气门的介绍(03:28) <a href="https://www.bilibili.com/video/BV1cb411T7kR/?share_source=copy_web&amp;vd_source=417c8fa6aec50ff06478d3dc889ae25e&amp;t=208">https://www.bilibili.com/video/BV1cb411T7kR/?share_source=copy_web&amp;vd_source=417c8fa6aec50ff06478d3dc889ae25e&amp;t=208</a></p>
+<p>&emsp;&emsp;推气门篇幅较长且难度较高，见《<a href="https://410091174.github.io/archives/推气门" target="_blank">推气门</a>》。</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
@@ -3204,7 +3031,7 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E7%A0%96%E5%A1%AB%E5%87%BA%E4%B8%80%E7%89%87%E5%8C%BA%E5%9F%9F.png?imageMogr2/format/webp" alt="砖填出一片区域.png"></p>
 <p>&emsp;</p>
 <p>步骤二：</p>
-<p>&emsp;&emsp;搭建<a href="https://410091174.github.io/archives/b33654cd" target="_blank">水门</a>。</p>
+<p>&emsp;&emsp;搭建<a href="https://410091174.github.io/archives/水门" target="_blank">水门</a>。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A81.png?imageMogr2/format/webp" alt="搭建水门1.png"></p>
 <p>&emsp;&emsp;倒入水，形成水门。（如果水门右边有气体卡住，可以建造砖块把气体填掉）</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%90%AD%E5%BB%BA%E7%9C%9F%E7%A9%BA%E5%AE%A4/%E6%90%AD%E5%BB%BA%E6%B0%B4%E9%97%A82.png?imageMogr2/format/webp" alt="搭建水门2.png"></p>
