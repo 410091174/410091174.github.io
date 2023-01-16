@@ -3813,12 +3813,12 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/111.png" alt="111"></p>
 <p>&emsp;&emsp;从而实现把气体从左推向右。</p>
 <p>&emsp;&emsp;</p>
-<h2 id="1-2-简化使用逻辑"><a href="#1-2-简化使用逻辑" class="headerlink" title="1.2 简化使用逻辑"></a>1.2 简化使用逻辑</h2><p>&emsp;&emsp;因为机械门在开门进气和关门推气有延迟，开门要完全打开才能进气，关门要完全关上才会推气，所以在实际应用的时候会简化理论逻辑，使电路更简单，一次循环耗时更短。</p>
+<h2 id="1-2-简化逻辑"><a href="#1-2-简化逻辑" class="headerlink" title="1.2 简化逻辑"></a>1.2 简化逻辑</h2><p>&emsp;&emsp;因为机械门在开门进气和关门推气有延迟，开门要完全打开才能进气，关门要完全关上才会推气，所以在实际应用的时候会简化理论逻辑，使电路更简单，一次循环耗时更短。</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;下文是把气体从左推向右。</p>
 <p>&emsp;&emsp;第一步，</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/121.png" alt="121"></p>
-<p>&emsp;oniwiki-1259520776/4/技巧/收集气液体/推气门/</p>
+<p>&emsp;</p>
 <p>&emsp;&emsp;在一二步的中间时刻，①号门关闭和③号门打开同时发生，但开门要完全打开才能进气，关门要完全关上才会推气，所以①③号门能同时运作。</p>
 <p>&emsp;&emsp;第二步，</p>
 <p>&emsp;&emsp;</p>
@@ -3940,9 +3940,8 @@
 <p>&emsp;</p>
 <p>&emsp;&emsp;②信号的实现：</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/223.png" alt="223"></p>
-<p>&emsp;</p>
-<p>&emsp;&emsp;注意！上图的推气门实际并不能使用，没有考虑进气时间等，实际应用设计见《4.3实际使用设计》。</p>
-<p>&emsp;</p>
+<p>&emsp;&emsp;上图的推气门实际并不好用，因为没有考虑进气时间，推气效率很低，实际使用设计见下节《4.3实际使用设计》。</p>
+<p>&emsp;&emsp;</p>
 <hr>
 <p>&emsp;&emsp;我们试试设计《4.1.1 逐步分析逻辑》中的推气门，当作练习。</p>
 <p>&emsp;&emsp;推气门①②③逻辑：110，010，011，001，000循环。</p>
@@ -3974,15 +3973,38 @@
 <p>&emsp;&emsp;也可以用方法一设计。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/225.png" alt="225"></p>
 <p>&emsp;</p>
-<p>&emsp;&emsp;注意！上图的推气门实际并不能使用，因为没有考虑进气时间和逻辑门之间的时间冲突问题等，实际应用设计见《4.3实际使用设计》。</p>
+<p>&emsp;&emsp;注意！上图的推气门实际并不能使用，因为没有考虑逻辑门之间的时间冲突问题等，实际使用设计见下节《4.3实际使用设计》。</p>
 <p>&emsp;</p>
-<h1 id="3-实际使用设计"><a href="#3-实际使用设计" class="headerlink" title="3 实际使用设计"></a>3 实际使用设计</h1><p>&emsp;&emsp;在实际使用的时候，需要考虑如下问题：</p>
-<p>&emsp;&emsp;（1）在第一步001，需要等待气体流进机械门里，所以001这一步不能只维持一个单位时间，需要等待更长的时间让气体充分流进机械门再进入下一步。</p>
-<p>&emsp;&emsp;（2）在某些条件下暂停推气门。</p>
-<p>&emsp;&emsp;（3）逻辑门之间有时间冲突，比如两门之间<strong>1</strong>信号续不上等问题，下文会详细分析。</p>
-<h2 id="3-1-设计进气时间"><a href="#3-1-设计进气时间" class="headerlink" title="3.1 设计进气时间"></a>3.1 设计进气时间</h2><p>&emsp;&emsp;</p>
-<h2 id="3-2-暂停推气门"><a href="#3-2-暂停推气门" class="headerlink" title="3.2 暂停推气门"></a>3.2 暂停推气门</h2><p>&emsp;&emsp;</p>
-<h2 id="3-3-时间冲突分析"><a href="#3-3-时间冲突分析" class="headerlink" title="3.3 时间冲突分析"></a>3.3 时间冲突分析</h2><p>&emsp;&emsp;</p>
+<h1 id="3-实际使用设计"><a href="#3-实际使用设计" class="headerlink" title="3 实际使用设计"></a>3 实际使用设计</h1><h2 id="3-1-推气门波形图"><a href="#3-1-推气门波形图" class="headerlink" title="3.1 推气门波形图"></a>3.1 推气门波形图</h2><p>&emsp;&emsp;《1.2 简化逻辑》的理论脉冲是110，011，001循环，但是没有考虑机械门开门和关门所需时间。</p>
+<p>&emsp;&emsp;机械门开门和关门需要3.8秒，本文把机械门开关门算作4秒。</p>
+<p>&emsp;&emsp;从关门到开门这个过程，气体还不能进入机械门，经过3.8秒机械门完全打开才能进入气体；</p>
+<p>&emsp;&emsp;从开门到关门这个过程，气体还在机械门里面，经过3.8秒机械门完全关闭才会推走气体。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/311.png" alt="311"></p>
+<p>&emsp;&emsp;</p>
+<p>《1.2简化逻辑》的机械门波形图如下，</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/312.png" alt="312"></p>
+<p>&emsp;&emsp;观察上图，之所以“气体能流进机械门”比“信号”慢了一个步长，是因为机械门开关门有延迟。</p>
+<p>&emsp;&emsp;</p>
+<h2 id="3-2-进气时间"><a href="#3-2-进气时间" class="headerlink" title="3.2 进气时间"></a>3.2 进气时间</h2><p>&emsp;&emsp;推气门一次循环能推多少气体，取决于推气门110这一步流进了多少气体。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/111.png" alt="111"></p>
+<p>&emsp;&emsp;气体流入需要时间，据编者经验，等待4秒能流进靠近机械门的环境气压的1/2，等待6s能流进2/3，等待8秒能与环境气压一致。</p>
+<p>&emsp;&emsp;等待进气时间越长，一次循环时间也越长，至于怎么合理调整循环时间和等待进气时间以达到最大效率推气，就靠读者自己摸索了，编者因不了解气体流速所以没有研究。</p>
+<p>&emsp;&emsp;理论设计里110只有4秒，一个步长恰好是4秒，我们可以加多一个110，即连着两个110，使用001这步有8秒。</p>
+<p>&emsp;&emsp;所以推气门①②③可设计为110，110，011，001循环。</p>
+<p>&emsp;&emsp;分别写出①②③号门的逻辑，</p>
+<p>&emsp;&emsp;&emsp;①：1，1，0，0</p>
+<p>&emsp;&emsp;&emsp;②：1，1，1，0</p>
+<p>&emsp;&emsp;&emsp;③：0，0，1，1</p>
+<p>&emsp;&emsp;选①作脉冲，时间传感器绿色8秒，红色8秒；</p>
+<p>&emsp;&emsp;②由①加缓冲门4秒得到；</p>
+<p>&emsp;&emsp;③由①加非门得到。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/321.png" alt="321"></p>
+<p>&emsp;&emsp;可以设置等待进气6秒，把步长4秒改成步长2秒，推气门①②③可设计为110，110，110，011，011，001，001循环。</p>
+<p>&emsp;&emsp;也可以设置等待进气5秒，把步长4秒改成步长1秒，推气门①②③可设计为110，110，110，110，110，，011，011，011，011，，001，001，001，001循环。</p>
+<p>&emsp;&emsp;至于怎么画就读者自己来啦。</p>
+<p>&emsp;</p>
+<h2 id="3-3-暂停推气门"><a href="#3-3-暂停推气门" class="headerlink" title="3.3 暂停推气门"></a>3.3 暂停推气门</h2><p>&emsp;&emsp;推气门如果不设置暂停条件</p>
+<h2 id="3-4-逻辑门冲突分析"><a href="#3-4-逻辑门冲突分析" class="headerlink" title="3.4 逻辑门冲突分析"></a>3.4 逻辑门冲突分析</h2><p>&emsp;&emsp;</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
