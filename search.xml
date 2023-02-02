@@ -4147,12 +4147,12 @@
 <p>&emsp;&emsp;推气时间=1+2+1+2=6s，进气时间8秒。推气时间必须大于4.5秒，以防③号门不够时间打开。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/521.png" alt="521"></p>
 <p>&emsp;&emsp;由《3.1 理论设计》设计得到的时间门（过滤门和缓冲门），时间参数是4的倍数，也就是步长，在此进行相应缩短。</p>
-<p>&emsp;&emsp;例如上图的2秒缓冲门，是由理论设计推到出来的时间门，原先是4秒，因为缩短步长至2秒，所以设置2秒</p>
+<p>&emsp;&emsp;例如上图的2秒缓冲门，是由理论设计推到出来的时间门，原先是4秒，因为缩短步长至2秒，所以设置2秒。</p>
 <p>&emsp;</p>
 <h2 id="5-3-最优进气时间-（未写）"><a href="#5-3-最优进气时间-（未写）" class="headerlink" title="5.3 最优进气时间*（未写）"></a>5.3 最优进气时间*（未写）</h2><p>&emsp;&emsp;上文已经设计好完全能用的推气门，这节不是必要，只是小提升，先咕了。</p>
 <p>&emsp;</p>
-<h1 id="5-推气门延申设计（未写）"><a href="#5-推气门延申设计（未写）" class="headerlink" title="5 推气门延申设计（未写）"></a>5 推气门延申设计（未写）</h1><h2 id="4-1-吞气门"><a href="#4-1-吞气门" class="headerlink" title="4.1 吞气门"></a>4.1 吞气门</h2><p>&emsp;&emsp;</p>
-<h2 id="4-2-真空隔热推气门"><a href="#4-2-真空隔热推气门" class="headerlink" title="4.2 真空隔热推气门"></a>4.2 真空隔热推气门</h2><p>&emsp;&emsp;</p>
+<h1 id="6-推气门延申设计（未写）"><a href="#6-推气门延申设计（未写）" class="headerlink" title="6 推气门延申设计（未写）"></a>6 推气门延申设计（未写）</h1><h2 id="6-1-吞气门"><a href="#6-1-吞气门" class="headerlink" title="6.1 吞气门"></a>6.1 吞气门</h2><p>&emsp;&emsp;</p>
+<h2 id="6-2-真空隔热推气门"><a href="#6-2-真空隔热推气门" class="headerlink" title="6.2 真空隔热推气门"></a>6.2 真空隔热推气门</h2><p>&emsp;&emsp;</p>
 ]]></content>
       <categories>
         <category>缺氧百科</category>
