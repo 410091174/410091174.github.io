@@ -10,8 +10,6 @@
 
 <center>吹水反馈QQ群：1160123536</center>
 
-<center>如果群号搜不到，试试扫码吧。 </center>
-
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/%E4%B8%BB%E9%A1%B5/QQ%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png?imageMogr2/format/webp" alt="QQ群二维码"> </p>
 <p>&emsp;&emsp;</p>
 <hr>
@@ -24,8 +22,7 @@
 <p>&emsp;&emsp;百科组于2020年3月2日成立，经过小半年的划水、摸鱼、打滚，终于在20年7月25日发布先行版(第一版)，并持续更新至今……(后省略1k字)。</p>
 <p>&emsp;&emsp;非常感谢蒜蓉茄子、清时、清零（月下独影者）、吃瓜、羊大的帮助。</p>
 <p>&emsp;&emsp;同时也非常感谢所有对百科提出修改意见、提供过帮助和支持的大佬们：<a href="https://docs.qq.com/doc/DZVFnSUNpZEhSZFVq">记录并感谢大大们反馈百科问题</a>。</p>
-<p>&emsp;&emsp;反馈地址：评论区， QQ群: 1160123536</p>
-<p>&emsp;&emsp;欢迎大佬们留下批注，提出更好的建议！</p>
+<p>&emsp;&emsp;欢迎大佬们提出更好的建议！</p>
 <hr>
 <h2 id="1-教程"><a href="#1-教程" class="headerlink" title="1 教程"></a>1 教程</h2><p>&emsp;&emsp;本章主要引导玩家在游戏里面从0开始熟悉游戏。</p>
 <p>&emsp;&emsp;<a href="https://docs.qq.com/doc/DZXB2eERKSEd4Z0tL">游戏思路</a></p>
@@ -74,9 +71,11 @@
 <p>&emsp;&emsp;</p>
 <h2 id="4-技术"><a href="#4-技术" class="headerlink" title="4 技术"></a>4 技术</h2><p>&emsp;&emsp;<a href="https://410091174.github.io/archives/实用技巧与模块" target="_blank">实用技巧与模块</a></p>
 <h2 id="5-数据库"><a href="#5-数据库" class="headerlink" title="5 数据库"></a>5 数据库</h2><p>&emsp;&emsp;本章收集了游戏内的数据资料，方便玩家查阅。</p>
-<p><a href="https://docs.qq.com/doc/DZXVzWmdKeFR6c3Rq">星体</a>（需要重编，内容不完整且有错）&ensp;|&ensp;<a href="https://docs.qq.com/sheet/DZWVhYWNHZVBrQ0FY">间歇泉数据</a>&ensp;|&ensp;<a href="https://docs.qq.com/sheet/DZUtHbHV4S0FITkVp">星图行星数据</a></p>
-<p>(未)复制人(<a href="https://docs.qq.com/doc/DZUFhcUhDR1ZFc0Jp">复制人相关代码翻译</a>算是弃坑了)</p>
-<p>(未)元素，建筑，植物，动物，食物</p>
+<p>&ensp;&ensp;<a href="https://docs.qq.com/doc/DZWN0ZW5pekZDYndC">星体（本体）</a></p>
+<p>&ensp;&ensp;<a href="https://docs.qq.com/sheet/DZWVhYWNHZVBrQ0FY">间歇泉数据</a></p>
+<p>&ensp;&ensp;<a href="https://docs.qq.com/sheet/DZUtHbHV4S0FITkVp">星图行星数据</a></p>
+<p>&ensp;&ensp;(未)复制人</p>
+<p>&ensp;&ensp;(未)元素，建筑，植物，动物，食物</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;</p>
 <p><strong>参考文献</strong></p>
@@ -2840,7 +2839,7 @@
 <h1 id="1-气泵和液泵"><a href="#1-气泵和液泵" class="headerlink" title="1 气泵和液泵"></a>1 气泵和液泵</h1><p>&emsp;&emsp;用法见<a href="https://410091174.github.io/archives/气泵" target="_blank">气泵</a>，<a href="https://410091174.github.io/archives/液泵" target="_blank">液泵</a>。</p>
 <p>&emsp;&emsp;优点：简单实用。</p>
 <p>&emsp;&emsp;</p>
-<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;注，此方法属于特性（BUG）。</p>
+<h1 id="2-滴液吸气"><a href="#2-滴液吸气" class="headerlink" title="2 滴液吸气"></a>2 滴液吸气</h1><p>&emsp;&emsp;注，此方法属于BUG。</p>
 <p>&emsp;&emsp;优点：抽气速度飞快，抽气速度与气体质量成正比。耗电非常小。</p>
 <p>&emsp;&emsp;缺点：需要些许液体湮灭或排到世界中。</p>
 <p>&emsp;&emsp;</p>
@@ -2958,7 +2957,7 @@
 <p>&emsp;&emsp;搭建注意事项：</p>
 <p>&emsp;&emsp;在启动之前，玩家需要收集什么气体，储气室必须提前充入这种气体（质量随意）。如果储气室真空或是其他气体，滴液挤压排液口位置的气体会湮灭气体。</p>
 <p>&emsp;&emsp;</p>
-<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><p>&emsp;&emsp;注，此方法属于特性（BUG）。</p>
+<h1 id="3-单门推气"><a href="#3-单门推气" class="headerlink" title="3 单门推气"></a>3 单门推气</h1><p>&emsp;&emsp;注，此方法属于BUG）。</p>
 <p>&emsp;&emsp;优点：抽气速度与气体质量成正比。不耗电。</p>
 <p>&emsp;&emsp;缺点：若有多种气体，会吞气（湮灭气体）。</p>
 <p>&emsp;</p>
@@ -2967,13 +2966,15 @@
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E5%8D%95%E9%97%A8%E6%8E%A8%E6%B0%94/311.png" alt="311"></p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;所以有如下设计：</p>
-<p>&emsp;&emsp;用“时间传感器”控制机械门，通过机械门的一开一合，把气体挤压到储气室。</p>
-<p>&emsp;&emsp;在启动之前，玩家需要收集什么气体，储气室必须提前充入这种气体（质量随意）。如果储气室真空或是其他气体，机械门关门会湮灭气体。</p>
+<p>&emsp;&emsp;用“时间传感器”控制机械门，通过机械门一开一合，把气体挤到储气室。</p>
+<p>&emsp;&emsp;在启动之前，玩家需要收集什么气体，储气室必须提前充入这种气体（质量随意）。如果储气室真空或是其他气体，关门会湮灭气体。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E5%8D%95%E9%97%A8%E6%8E%A8%E6%B0%94/312.png" alt="312"></p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E5%8D%95%E9%97%A8%E6%8E%A8%E6%B0%94/313.png" alt="313"></p>
+<p>&emsp;&emsp;也可以用压力板控制机械门。</p>
+<p><img src="C:/Users/41009/Documents/0%E7%BC%BA%E6%B0%A7%E5%9B%BE%E5%BA%93/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E5%8D%95%E9%97%A8%E6%8E%A8%E6%B0%94/314.png" alt="314"></p>
 <p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;机械门的关闭不是两格同时关闭，是先关闭连接信号线那一格，所以横放的机械门只能向右上推气，竖放的机械门可向左也可向右。</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E5%8D%95%E9%97%A8%E6%8E%A8%E6%B0%94/314.png" alt="314"></p>
+<p>&emsp;&emsp;机械门的关门不是两格同时关闭，是先关闭连接信号线那一格，所以横放的机械门只能向右上推气，竖放的机械门可向左也可向右。</p>
+<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%94%B6%E9%9B%86%E6%B0%94%E6%B6%B2%E4%BD%93/%E5%8D%95%E9%97%A8%E6%8E%A8%E6%B0%94/315.png" alt="315"></p>
 <p>&emsp;&emsp;</p>
 <h2 id="3-2-应用实例"><a href="#3-2-应用实例" class="headerlink" title="3.2 应用实例"></a>3.2 应用实例</h2><p>&emsp;&emsp;比如开发天然气喷孔：喷出的天然气150℃，属于高温，需要注意。</p>
 <p>&emsp;&emsp;针对150℃的天然气，设计如下：</p>
@@ -3796,11 +3797,12 @@
   <entry>
     <title>推气门设计</title>
     <url>/archives/%E6%8E%A8%E6%B0%94%E9%97%A8.html</url>
-    <content><![CDATA[<p>&emsp;&emsp;</p>
-<p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/01.png" alt="01"></p>
+    <content><![CDATA[<h1 id="0-常用推气门"><a href="#0-常用推气门" class="headerlink" title="0 常用推气门"></a>0 常用推气门</h1><h2 id="0-1-推气门"><a href="#0-1-推气门" class="headerlink" title="0.1 推气门"></a>0.1 推气门</h2><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/01.png" alt="01"></p>
 <p>&emsp;&emsp;</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/02.png" alt="02"></p>
 <p>&emsp;&emsp;</p>
+<h2 id="0-2-吞气门"><a href="#0-2-吞气门" class="headerlink" title="0.2 吞气门"></a>0.2 吞气门</h2><p>&emsp;&emsp;</p>
+<h2 id="0-3-隔热推气门"><a href="#0-3-隔热推气门" class="headerlink" title="0.3 隔热推气门"></a>0.3 隔热推气门</h2><p>&emsp;&emsp;</p>
 <h1 id="1-逻辑分析"><a href="#1-逻辑分析" class="headerlink" title="1 逻辑分析"></a>1 逻辑分析</h1><h2 id="1-1-理论逻辑分析"><a href="#1-1-理论逻辑分析" class="headerlink" title="1.1 理论逻辑分析"></a>1.1 理论逻辑分析</h2><p>&emsp;&emsp;下文是把气体从左推向右。</p>
 <p>&emsp;&emsp;第一步，进气；</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/4/%E6%8A%80%E5%B7%A7/%E6%8E%A8%E6%B0%94%E9%97%A8/111.png" alt="111"></p>
