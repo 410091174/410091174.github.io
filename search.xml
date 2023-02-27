@@ -2001,7 +2001,8 @@
 <p>&emsp;&emsp;下图是设置为“高于1000克”，所以当气压高于1000克，启动气泵；当气压低于1000克，禁用气泵。这样气泵不会把区域抽真空，并且还能控制气压不超出1000克。</p>
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/1举例3.png?imageMogr2/format/webp" alt="1举例3" style="zoom:80%;" />
 
-<p>&emsp;&emsp;这种一般应用在气体生产上，一产出气体就抽走。<br>&emsp;&emsp;气泵每次抽气最大500g，但是不管抽了多少气体，耗电都是一样的，所以用气压传感器维持气压，保证气泵每次抽气都有500g。</p>
+<p>&emsp;&emsp;这种一般应用在气体生产上，一产出气体就抽走。</p>
+<p>&emsp;&emsp;气泵每次抽气最大500g，但是不管抽了多少气体，耗电都是一样的，所以用气压传感器维持气压，保证气泵每次抽气都有500g。</p>
 <h1 id="2-信号"><a href="#2-信号" class="headerlink" title="2 信号"></a>2 信号</h1><p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/2%E4%BF%A1%E5%8F%B7.png?imageMogr2/format/webp" alt="2信号"></p>
 <p>&emsp;&emsp;信号来源于信号输出建筑（的输出口）。</p>
 <p>&emsp;&emsp;由玩家为信号输出建筑设置输出信号的条件，然后由信号输出建筑检测信息，如果信息符合条件则输出绿色信号（启用），信息不符合条件则输出红色信号（禁用）。</p>
@@ -2089,7 +2090,7 @@
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/与门真值表.png?imageMogr2/format/webp" alt="与门真值表"  />
 
 <p>&emsp;&emsp;<strong>真值表</strong>，是表征逻辑事件输入和输出之间全部可能状态的表格（把所有输入和输出情况都列出来），以1表示真，0 表示假。</p>
-<p>&emsp;&emsp;如表1与逻辑真值表为例，当A=0，B=0，则L=0……当A=1，B=1，则L=1，这四种情况，就是与逻辑的输入和输出之间的全部可能。</p>
+<p>&emsp;&emsp;以表1与逻辑真值表为例，当A=0，B=0，则L=0……当A=1，B=1，则L=1，这四种情况，就是与逻辑的输入和输出之间的全部可能。</p>
 <p>&emsp;&emsp;为了方便表示，用<strong>逻辑表达式</strong>代替真值表，也就是L = AB<br>&emsp;&emsp;&emsp;当A=0，B=0，L=A乘B=0乘0=0<br>&emsp;&emsp;&emsp;当A=0，B=1，L=A乘B=0乘1=0<br>&emsp;&emsp;&emsp;当A=1，B=0，L=A乘B=1乘0=0<br>&emsp;&emsp;&emsp;当A=1，B=1，L=A乘B=1乘1=1</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/%E4%B8%8E%E9%97%A8%E5%AE%9E%E4%BE%8B.png?imageMogr2/format/webp" alt="与门实例"></p>
 <h2 id="2-或门"><a href="#2-或门" class="headerlink" title="2. 或门"></a>2. 或门</h2><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/或门.png?imageMogr2/format/webp" alt="或门" style="zoom: 25%;" />
@@ -2225,7 +2226,7 @@
 
 <img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/自动化/与门真值表.png?imageMogr2/format/webp" alt="与门真值表"  />
 
-<p>&emsp;&emsp;如表1与逻辑真值表为例，当A=0，B=0，则L=0……当A=1，B=1，则L=1，这四种情况，就是与逻辑的输入和输出之间的全部可能。</p>
+<p>&emsp;&emsp;以表1与逻辑真值表为例，当A=0，B=0，则L=0……当A=1，B=1，则L=1，这四种情况，就是与逻辑的输入和输出之间的全部可能。</p>
 <p>&emsp;&emsp;为了方便表示，我们可以用<strong>逻辑表达式</strong>代替真值表，与逻辑为L = AB</p>
 <p>&emsp;&emsp;&emsp;当A=0，B=0，L=A乘B=0乘0=0</p>
 <p>&emsp;&emsp;&emsp;当A=0，B=1，L=A乘B=0乘1=0</p>
@@ -2262,7 +2263,7 @@
 <ul>
 <li>找到输出为<strong>1</strong>的行，把一行中的所有输入变量相与（相乘），输入为<strong>0</strong>的用反变量表示（加上非号）。</li>
 </ul>
-<p>&emsp;&emsp;例如表中第一和第三行输出为1，先把这两行的表达式列出来：</p>
+<p>&emsp;&emsp;表中第一和第三行输出为1，先把这两行的表达式列出来：</p>
 <center>第一行：L1= <span class="divcss5_2">AB</span></center>
 <center>第三行：L2= A<span class="divcss5_2">B</span></center>
 
@@ -2283,7 +2284,7 @@
 <p>&emsp;&emsp;</p>
 <h2 id="5-4-例题"><a href="#5-4-例题" class="headerlink" title="5.4 例题"></a>5.4 例题</h2><p>&emsp;&emsp;题目1：有如下真值表，画出逻辑电路图。</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/5%E4%BE%8B%E9%A2%981%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="5例题1真值表"></p>
-<p>&emsp;&emsp;假如是在我们实际画真值表时，可以偷懒只列输出为1的情况：</p>
+<p>&emsp;&emsp;在我们实际画真值表时，可以偷懒只列输出为1的情况：</p>
 <p><img src="https://oniwiki-1259520776.cos.ap-guangzhou.myqcloud.com/3/%E8%87%AA%E5%8A%A8%E5%8C%96/5%E4%BE%8B%E9%A2%981%E5%81%B7%E6%87%92%E7%9C%9F%E5%80%BC%E8%A1%A8.png?imageMogr2/format/webp" alt="5例题1偷懒真值表"></p>
 <p>&emsp;&emsp;写出逻辑表达式：L=<span class="divcss5_2">A</span>BC+AB<span class="divcss5_2">C</span></p>
 <p>&emsp;&emsp;画出逻辑电路图：</p>
